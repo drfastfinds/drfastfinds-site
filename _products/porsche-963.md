@@ -26,7 +26,7 @@ thumbnails:
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
             <p class="sold-out">SOLD OUT</p>
-        <a href="https://drfastfinds.github.io/drfastfinds-site/order" class="buy-now">Order Now</a>
+       <!-- <a href="https://drfastfinds.github.io/drfastfinds-site/order" class="buy-now">Order Now</a> -->
     </div>
 </div>
 
