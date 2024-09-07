@@ -27,6 +27,9 @@ thumbnails:
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
+      {% if page.sold_out %}
+            <p class="sold-out">SOLD OUT</p>
+        {% else %}
         <a href="{{ site.baseurl }}/order/" class="buy-now">Order Now</a>
     </div>
 </div>
