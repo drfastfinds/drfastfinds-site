@@ -26,7 +26,7 @@ thumbnails:
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
-        <a href="[{{ site.baseurl }}/]/order" class="buy-now">Order Now</a>
+        <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
     </div>
 </div>
 
