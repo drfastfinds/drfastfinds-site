@@ -107,6 +107,15 @@ thumbnails:
 .buy-now:hover {
     background-color: #0056b3;
 }
+
+  .sold-out {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+
 </style>
 
 <script>
