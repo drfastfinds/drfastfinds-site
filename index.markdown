@@ -57,7 +57,7 @@ title: Dr. Fast Finds
             <img src="{{ site.baseurl }}/assets/images/divo.jpg" alt="Bburago Bugatti Divo - Blue 1/18 Scale Model">
             <p>Bburago Bugatti Divo - Blue 1/18 Scale Model</p>
             <p>Price: $110.00</p>
-            <a href="{{ site.baseurl }}/order/" class="order-now">Order Now</a>
+            <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
 
         </a>
     </div>
