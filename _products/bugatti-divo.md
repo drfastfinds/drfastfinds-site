@@ -13,12 +13,12 @@ description: |
   <p>Care Instructions: Wipe clean.</p>
 
 
-image: /assets/images/divo.jpg
+image: "{{ site.baseurl }}/assets/images/divo.jpg"
 thumbnails:
-  - /assets/images/divo-1.jpg
-  - /assets/images/divo-2.jpg
-  - /assets/images/divo-3.jpg
-  - /assets/images/divo-4.jpg
+  - "{{ site.baseurl }}/assets/images/divo-1.jpg"
+  - "{{ site.baseurl }}/assets/images/divo-2.jpg"
+  - "{{ site.baseurl }}/assets/images/divo-3.jpg"
+  - "{{ site.baseurl }}/assets/images/divo-4.jpg"
 ---
 
 <div class="product-detail">
