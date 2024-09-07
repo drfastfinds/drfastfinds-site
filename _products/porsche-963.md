@@ -11,12 +11,12 @@ description: |
   <p>For collectors: We wish you much joy in pursuing your collection dreams.</p>
 
 
-image: /assets/images/963.jpg
+image: https://drfastfinds.github.io/drfastfinds-site/assets/images/963.jpg
 thumbnails:
-  - /assets/images/963-1.jpg
-  - /assets/images/963-2.jpg
-  - /assets/images/963-3.jpg
-  - /assets/images/963-4.jpg
+  - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-1.jpg
+  - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-2.jpg
+  - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-3.jpg
+  - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-4.jpg
 ---
 
 <div class="product-detail">
