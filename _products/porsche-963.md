@@ -10,6 +10,7 @@ description: |
   <p>Note: This is a static model, not a toy car, and is not suitable for children under 15 years old.</p>
   <p>For collectors: We wish you much joy in pursuing your collection dreams.</p>
 
+sold_out: true
 
 image: https://drfastfinds.github.io/drfastfinds-site/assets/images/963.jpg
 thumbnails:
@@ -17,7 +18,6 @@ thumbnails:
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-2.jpg
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-3.jpg
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-4.jpg
-sold_out: true
 ---
 
 <div class="product-detail">
