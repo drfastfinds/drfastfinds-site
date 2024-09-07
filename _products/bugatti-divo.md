@@ -13,10 +13,10 @@ description: |
   Care Instructions: Wipe clean.
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo.jpg"
 thumbnails:
-  - "{{ site.baseurl }}/assets/images/divo-1.jpg"
-  - "{{ site.baseurl }}/assets/images/divo-2.jpg"
-  - "{{ site.baseurl }}/assets/images/divo-3.jpg"
-  - "{{ site.baseurl }}/assets/images/divo-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-siteassets/images/divo-1.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-2.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-3.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-4.jpg"
 ---
 
 <div class="product-detail">
