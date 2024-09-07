@@ -13,7 +13,7 @@ description: |
   Care Instructions: Wipe clean.
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo.jpg"
 thumbnails:
-  - "https://drfastfinds.github.io/drfastfinds-siteassets/images/divo-1.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-3.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-4.jpg"
