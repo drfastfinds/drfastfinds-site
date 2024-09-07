@@ -2,7 +2,7 @@
 layout: product
 title: Bburago Bugatti Divo - Blue 1/18 Scale Model
 price: 110.00
-youtube_link: "https://youtu.be/6L2bebS8YVg"
+youtube_link: "https://youtu.be/2XmxBOCf4wI"
 description: |
   <p>The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.</p>
 
