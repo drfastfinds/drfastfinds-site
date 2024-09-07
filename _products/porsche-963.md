@@ -10,8 +10,6 @@ description: |
   <p>Note: This is a static model, not a toy car, and is not suitable for children under 15 years old.</p>
   <p>For collectors: We wish you much joy in pursuing your collection dreams.</p>
 
-sold_out: true
-
 image: https://drfastfinds.github.io/drfastfinds-site/assets/images/963.jpg
 thumbnails:
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-1.jpg
@@ -27,10 +25,8 @@ thumbnails:
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
-      {% if page.sold_out %}
             <p class="sold-out">SOLD OUT</p>
-        {% else %}
-        <a href="https://drfastfinds.github.io/drfastfinds-site/order/" class="buy-now">Order Now</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/order" class="buy-now">Order Now</a>
     </div>
 </div>
 
