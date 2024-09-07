@@ -4,13 +4,14 @@ title: Bburago Bugatti Divo - Blue 1/18 Scale Model
 price: 110.00
 youtube_link: "https://youtu.be/6L2bebS8YVg"
 description: |
-  The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.
+  <p>The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.</p>
 
-  New in box. This model features real rubber tires and steerable wheels for an authentic feel. Both the interior and exterior are meticulously detailed, including a functional frunk (front trunk) and doors that open. Made primarily of diecast metal with some plastic components.
+  <p>New in box. This model features real rubber tires and steerable wheels for an authentic feel. Both the interior and exterior are meticulously detailed, including a functional frunk (front trunk) and doors that open. Made primarily of diecast metal with some plastic components.</p>
 
-  Approximate dimensions: L-9.75", W-4.75", H-2.5".
+  <p>Approximate dimensions: L-9.75", W-4.75", H-2.5".</p>
 
-  Care Instructions: Wipe clean.
+  <p>Care Instructions: Wipe clean.</p>
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-1.jpg"
