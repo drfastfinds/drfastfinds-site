@@ -4,21 +4,20 @@ title: Bburago Bugatti Divo - Blue 1/18 Scale Model
 price: 110.00
 youtube_link: "https://youtu.be/6L2bebS8YVg"
 description: |
-  <p>The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.</p>
+  The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.
 
-  <p>New in box. This model features real rubber tires and steerable wheels for an authentic feel. Both the interior and exterior are meticulously detailed, including a functional frunk (front trunk) and doors that open. Made primarily of diecast metal with some plastic components.</p>
+  New in box. This model features real rubber tires and steerable wheels for an authentic feel. Both the interior and exterior are meticulously detailed, including a functional frunk (front trunk) and doors that open. Made primarily of diecast metal with some plastic components.
 
-  <p>Approximate dimensions: L-9.75", W-4.75", H-2.5".</p>
+  Approximate dimensions: L-9.75", W-4.75", H-2.5".
 
-  <p>Care Instructions: Wipe clean.</p>
-
+  Care Instructions: Wipe clean.
 image: "{{ site.baseurl }}/assets/images/divo.jpg"
 thumbnails:
   - "{{ site.baseurl }}/assets/images/divo-1.jpg"
   - "{{ site.baseurl }}/assets/images/divo-2.jpg"
   - "{{ site.baseurl }}/assets/images/divo-3.jpg"
   - "{{ site.baseurl }}/assets/images/divo-4.jpg"
---
+---
 
 <div class="product-detail">
     <div class="product-image-box">
@@ -33,20 +32,18 @@ thumbnails:
 
 <div class="thumbnail-carousel">
     {% for thumbnail in page.thumbnails %}
-    <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail">
+    <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
     {% endfor %}
 </div>
 
 <div style="text-align: center;">
-
- <p class="youtube-link">For more details, check out the product video here: 
-    <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
-  </p>
+    <p class="youtube-link">For more details, check out the product video here: 
+        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
+    </p>
     <p>Read more about the Bugatti Divo on our blog: 
-    <a href="{{ site.baseurl }}/2024/09/06/my-first-post.html">The Bugatti Divo: A Symphony of Speed and Performance</a>
-  </p>
+        <a href="{{ site.baseurl }}/2024/09/06/my-first-post.html">The Bugatti Divo: A Symphony of Speed and Performance</a>
+    </p>
 </div>
-
 
 <style>
 .product-detail {
@@ -58,15 +55,15 @@ thumbnails:
 
 .product-image-box {
     flex-shrink: 0;
-    width: 500px; /* Set a fixed width for the image container */
-    height: 300px; /* Set a fixed height for the image container */
-    overflow: hidden; /* Hide overflow to ensure images don’t exceed the container */
+    width: 500px; 
+    height: 300px; 
+    overflow: hidden; 
 }
 
 .main-image {
-    width: 100%; /* Ensure the image fills the container */
-    height: 100%; /* Ensure the image fills the container */
-    object-fit: contain; /* Scale the image to fit within the container without distortion */
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain; 
     display: block;
 }
 
@@ -78,13 +75,13 @@ thumbnails:
 .thumbnail-carousel {
     margin-top: 20px;
     display: flex;
-    flex-wrap: wrap; /* Allows thumbnails to wrap to the next line */
-    gap: 10px; /* Space between thumbnails */
-    justify-content: flex-start; /* Left justify thumbnails */
+    flex-wrap: wrap; 
+    gap: 10px;
+    justify-content: flex-start;
 }
 
 .thumbnail {
-    max-width: 80px; /* Adjust as needed */
+    max-width: 80px;
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 4px;
