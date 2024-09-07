@@ -11,7 +11,7 @@ description: |
   Approximate dimensions: L-9.75", W-4.75", H-2.5".
 
   Care Instructions: Wipe clean.
-image: "{{ site.baseurl }}/assets/images/divo.jpg"
+image: "{{ site.baseurl }}/drfastfinds-site/assets/images/divo.jpg"
 thumbnails:
   - "{{ site.baseurl }}/assets/images/divo-1.jpg"
   - "{{ site.baseurl }}/assets/images/divo-2.jpg"
