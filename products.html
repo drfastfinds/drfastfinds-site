@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Product Gallery"
+---
+
+<h1>Our Products</h1>
+<div class="gallery">
+  {% for product in site.products %}
+    <div class="product">
+      <a href="{{ product.url }}">
+        <img src="{{ product.image }}" alt="{{ product.title }}">
+        <h2>{{ product.title }}</h2>
+        <p>{{ product.price }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,6 @@
+.product-content img {
+    max-width: 100%; /* Ensures the image does not exceed the width of its container */
+    height: auto;    /* Maintains the aspect ratio */
+    display: block;  /* Removes extra space below the image */
+    margin: 0 auto;  /* Centers the image horizontally */
+}

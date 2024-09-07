@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart | Dr. Fast Finds</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <!-- Logo and Navigation -->
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
+        </a>
+        <nav>
+            <a href="{{ site.baseurl }}/cart/" id="cart-button">Cart <span id="cart-count">(0)</span></a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Your Cart</h1>
+        <div id="cart-items"></div>
+        <div id="cart-total">Total: $0.00</div>
+        <a href="{{ site.baseurl }}/checkout/" class="checkout-button">Proceed to Checkout</a>
+    </main>
+
+    <script src="{{ site.baseurl }}/assets/js/cart.js"></script>
+</body>
+</html>

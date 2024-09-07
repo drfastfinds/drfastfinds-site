@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
+    <title>{{ page.title }} | Dr. Fast Finds</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+    <style>
+        /* Ensure the header uses flexbox for layout */
+        header {
+            display: flex;
+            justify-content: space-between; /* Space out logo and nav */
+            align-items: center; /* Vertically center items */
+            padding: 10px;
+            background-color: #f8f9fa; /* Optional background color */
+            position: relative; /* Allows positioning of children */
+        }
+
+        /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
+        header img {
+            max-width: 150px;
+            height: auto;
+            margin: 10px; /* Adds a little padding around the logo */
+        }
+
+        /* Navigation bar for right-hand content */
+        nav {
+            margin-left: auto; /* Pushes navigation to the right */
+        }
+
+        /* Increase the size of the Mercado Libre logo */
+        .mercado-logo {
+            max-width: 100px; /* Increased size */
+            height: auto;
+            margin-right: 10px; /* Adds some space on the right */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header with Clickable Logos -->
+    <header>
+        <!-- Dr. Fast Finds logo on the left -->
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
+        </a>
+
+        <!-- Mercado Libre logo on the right -->
+        <nav>
+            <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
+<a href="{{ site.baseurl }}/blog.html">Blog</a>
+                <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo">
+            </a>
+        </nav>
+    </header>
+
+    <!-- Page Content -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- Footer (Optional) -->
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+
+</body>
+</html>
