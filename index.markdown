@@ -67,7 +67,7 @@ title: Dr. Fast Finds
             <img src="{{ site.baseurl }}/assets/images/963.jpg" alt="Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale">
             <p>Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale</p>
             <p>Price: $40.00</p>
-            <a href="{{ site.baseurl }}/order/" class="order-now">Order Now</a>
+            <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
 
         </a>
     </div>
