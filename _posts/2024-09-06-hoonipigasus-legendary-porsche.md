@@ -25,7 +25,7 @@ img.porsche-image {
 <div class="content-container">
     <h1>The Hoonipigasus: A Legendary Porsche, Racing to the Clouds</h1>
 
-    <p>Every year, motorsport enthusiasts gather in Colorado Springs to witness one of the most intense and thrilling races in the world—the Broadmoor Pikes Peak International Hill Climb, often referred to as “The Race to the Clouds.” This iconic event challenges drivers to navigate 156 hair-raising turns across a 12.42-mile ascent, culminating at 14,115 feet above sea level. It’s no surprise that the Pikes Peak Hill Climb has become a proving ground for some of the world’s most extreme racecars.</p>
+    <p>Every year, motorsport enthusiasts gather in Colorado Springs to witness one of the most intense and thrilling races in the world—the <a href="https://ppihc.org/" target="_blank">Broadmoor Pikes Peak International Hill Climb</a>, often referred to as “The Race to the Clouds.” This iconic event challenges drivers to navigate 156 hair-raising turns across a 12.42-mile ascent, culminating at 14,115 feet above sea level. It’s no surprise that the Pikes Peak Hill Climb has become a proving ground for some of the world’s most extreme racecars.</p>
 
     <p>In 2022, fans were eagerly anticipating the arrival of a new contender: the Hoonipigasus. Built by BBi Autosport in collaboration with Hoonigan and driven by rally legend Ken Block, the Hoonipigasus was designed to push the limits of both speed and engineering.</p>
 
@@ -50,8 +50,8 @@ img.porsche-image {
 
     <h3>References:</h3>
     <ul>
-        <li><a href="https://www.porsche.com/dreams/en-US/on-the-road/hoonipigasus"_blank">Porsche. The Hoonipigasus and the Mountain: An iconic race and a celebrated Porsche reimagined.</a></li>
-        <li><a href="https://www.hooniganracing.com/blogs/news/introducing-the-hoonipigasus-ken-blocks-all-new-insane-1-400hp-awd-porsche-racecar-built-for-pikes-peak"_blank">Hoonigan. Introducing the Hoonipigasus: Ken Block's All-New Insane 1,400HP AWD Porsche Racecar, Built for Pikes Peak.</a></li>
-        <li><a href="https://www.motorheads.com/features/beyond-the-finish-line-the-lasting-impact-of-lia-block-s-hoonipigasus-pikes-peak-run-ar6725/"_blank">Motorheads. A year since the historic run: An emotional tribute to the late Ken Block.</a></li>
+<li><a href="https://www.porsche.com/dreams/en-US/on-the-road/hoonipigasus" target="_blank">Porsche. The Hoonipigasus and the Mountain: An iconic race and a celebrated Porsche reimagined.</a></li>
+<li><a href="https://www.hooniganracing.com/blogs/news/introducing-the-hoonipigasus-ken-blocks-all-new-insane-1-400hp-awd-porsche-racecar-built-for-pikes-peak" target="_blank">Hoonigan. Introducing the Hoonipigasus: Ken Block's All-New Insane 1,400HP AWD Porsche Racecar, Built for Pikes Peak.</a></li>
+<li><a href="https://www.motorheads.com/features/beyond-the-finish-line-the-lasting-impact-of-lia-block-s-hoonipigasus-pikes-peak-run-ar6725/" target="_blank">Motorheads. A year since the historic run: An emotional tribute to the late Ken Block.</a></li>
     </ul>
 </div>
