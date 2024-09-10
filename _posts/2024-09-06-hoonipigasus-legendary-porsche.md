@@ -34,7 +34,7 @@ img.porsche-image {
 
     <h2>A Tribute to the “Pink Pig”</h2>
 
-    <p>The Hoonipigasus was more than just a performance machine. Its design, created by street artist Trevor “Guccighost” Andrew, paid homage to the legendary 1971 Porsche 917/20 “Pink Pig.” This original livery was both a nod to Porsche’s racing heritage and a modern twist, symbolizing the fusion of art and motorsport.</p>
+    <p>The Hoonipigasus was more than just a performance machine. Its design, created by street artist Trevor “<a href="https://www.instagram.com/guccighost/?hl=en" target="_blank">Guccighost</a>” Andrew, paid homage to the legendary 1971 Porsche 917/20 “<a href="https://www.porsche.com/stories/innovation/what-is-the-porsche-pink-pig/" target="_blank">Pink Pig</a>.” This original livery was both a nod to Porsche’s racing heritage and a modern twist, symbolizing the fusion of art and motorsport.</p>
 
     <h2>Engineered for Victory</h2>
 
