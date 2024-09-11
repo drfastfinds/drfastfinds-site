@@ -1,6 +1,7 @@
 ---
 layout: default
 title: General Discussion
+permalink: /forum/general-discussion/
 ---
 
 <h1>General Discussion</h1>
