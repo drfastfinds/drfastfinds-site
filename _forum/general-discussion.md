@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Discussion
-permalink: /forum/general-discussion/
+permalink: https://drfastfinds.github.io/drfastfinds-site/forum/general-discussion
 ---
 
 <h1>General Discussion</h1>
