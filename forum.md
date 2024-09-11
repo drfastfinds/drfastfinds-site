@@ -8,7 +8,7 @@ permalink: /forum/
 
 <!-- Forum Index Page -->
 <h2>Create a New Topic</h2>
-<form action="https://staticman3.org/v3/entry/github/drfastfinds/drfastfinds-site/master/forum/topics" method="POST">
+<form action="https://staticman.net/v3/entry/github/drfastfinds/drfastfinds-site/master/forum/topics" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
 
