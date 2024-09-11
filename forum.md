@@ -6,8 +6,8 @@ permalink: /forum/
 
 <h1>Forum</h1>
 <ul>
-  <li><a href="{{ site.baseurl }}/forum/general-discussion/">General Discussion</a></li>
-  <li><a href="{{ site.baseurl }}/forum/model-car-kits/">Model Car Kits</a></li>
+  <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/general-discussion/">General Discussion</a></li>
+  <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/model-car-kits/">Model Car Kits</a></li>
 </ul>
 
 
