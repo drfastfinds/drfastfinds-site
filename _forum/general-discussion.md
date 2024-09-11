@@ -1,5 +1,5 @@
 ---
-layout: forum-category
+layout: default
 title: General Discussion
 ---
 
