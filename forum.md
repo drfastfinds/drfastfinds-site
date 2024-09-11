@@ -4,11 +4,13 @@ title: "Forum"
 permalink: /forum/
 ---
 
-<h1>Forum Categories</h1>
+<h1>Forum</h1>
 <ul>
-  <li><a href="/forum/general-discussion/">General Discussion</a></li>
-  <li><a href="/forum/model-car-kits/">Model Car Kits</a></li>
+  <li><a href="{{ site.baseurl }}/forum/general-discussion/">General Discussion</a></li>
+  <li><a href="{{ site.baseurl }}/forum/model-car-kits/">Model Car Kits</a></li>
 </ul>
+
+
 
 <h2>Recent Topics</h2>
 <ul>
