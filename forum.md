@@ -4,8 +4,6 @@ title: "Forum"
 permalink: /forum/
 ---
 
-<h1>Forum</h1>
-
 <h2>Forum Categories</h2>
 <ul>
   <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/general-discussion/">General Discussion</a></li>
