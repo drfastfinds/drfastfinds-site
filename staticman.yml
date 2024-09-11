@@ -6,7 +6,7 @@ branch: master
 commitMessage: "New comment by {fields.name}"
 filename: "comments/{fields.name}-{date}.md"
 path: "_data/comments"
-moderation: true
+moderation: FALSE
 requiredFields:
   - name
   - email
