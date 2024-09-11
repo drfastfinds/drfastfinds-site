@@ -6,8 +6,11 @@ permalink: /forum/
 
 <h1>Forum</h1>
 
-type="submit">Submit</button>
-</form>
+<h2>Forum Categories</h2>
+<ul>
+  <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/general-discussion/">General Discussion</a></li>
+  <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/model-car-kits/">Model Car Kits</a></li>
+</ul>
 
 <h2>Recent Topics</h2>
 <ul>
@@ -16,8 +19,4 @@ type="submit">Submit</button>
   {% endfor %}
 </ul>
 
-<h2>Forum Categories</h2>
-<ul>
-  <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/general-discussion/">General Discussion</a></li>
-  <li><a href="https://drfastfinds.github.io/drfastfinds-site/forum/model-car-kits/">Model Car Kits</a></li>
-</ul>
+=
