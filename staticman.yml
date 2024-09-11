@@ -1,0 +1,13 @@
+allowedFields:
+  - name
+  - email
+  - message
+branch: master
+commitMessage: "New comment by {fields.name}"
+filename: "comments/{fields.name}-{date}.md"
+path: "_data/comments"
+moderation: true
+requiredFields:
+  - name
+  - email
+  - message
