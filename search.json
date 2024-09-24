@@ -9,7 +9,8 @@ layout: null
         "title": "{{ page.title | escape }}",
         "url": "https://drfastfinds.github.io/drfastfinds-site{{ page.url }}",
         "content": "{{ page.content | strip_html | normalize_whitespace | escape }}"
-      }{% unless forloop.last %},{% endunless %}
+      }
+      {% unless forloop.last %},{% endunless %}
     {% endif %}
   {% endfor %}
 ]
