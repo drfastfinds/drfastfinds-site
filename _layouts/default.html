@@ -3,41 +3,107 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script> <!-- Add Lunr.js -->
-    <script src="{{ site.baseurl }}/search.js" defer></script> <!-- Path to search.js in the root -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script> <!-- Lunr.js for search functionality -->
+    <script src="{{ site.baseurl }}/search.js" defer></script> <!-- Path to search.js -->
     <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
     <title>{{ page.title }} | Dr. Fast Finds</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
     <style>
-        /* Your existing styles */
+        /* Ensure the header uses flexbox for layout */
+        header {
+            display: flex;
+            justify-content: space-between; /* Space out logo, nav, and search */
+            align-items: center; /* Vertically center items */
+            padding: 10px;
+            background-color: #f8f9fa; /* Optional background color */
+            position: relative; /* Allows positioning of children */
+        }
+
+        /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
+        header img {
+            max-width: 150px;
+            height: auto;
+            margin: 10px; /* Adds a little padding around the logo */
+        }
+
+        /* Navigation bar for right-hand content */
+        nav {
+            display: flex;
+            align-items: center;
+            margin-left: auto; /* Pushes navigation to the right */
+        }
+
+        /* Increase the size of the Mercado Libre logo */
+        .mercado-logo {
+            max-width: 100px;
+            height: auto;
+            margin-right: 10px; /* Adds some space on the right */
+        }
+
+        /* Style for the search form */
+        form {
+            margin-right: 20px;
+            display: flex;
+            align-items: center;
+        }
+
+        /* Style for the search input box */
+        #search-box {
+            padding: 5px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        /* Style for the search results list */
+        #search-results {
+            list-style: none;
+            padding: 0;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        #search-results li {
+            padding: 5px;
+            border: 1px solid #ccc;
+            margin-bottom: 5px;
+            border-radius: 4px;
+        }
     </style>
 </head>
 <body>
 
     <!-- Header with Clickable Logos -->
     <header>
+        <!-- Dr. Fast Finds logo on the left -->
         <a href="{{ site.baseurl }}/">
             <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
         </a>
-        
-        <!-- Search form -->
+
+        <!-- Search form in the middle -->
         <form>
             <input type="text" id="search-box" placeholder="Search...">
             <ul id="search-results"></ul>
         </form>
 
+        <!-- Mercado Libre logo and blog link on the right -->
         <nav>
+            <!-- Blog link -->
             <a href="{{ site.baseurl }}/blog.html">Blog</a>
+            
+            <!-- Mercado Libre link -->
             <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
                 <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo">
             </a>
         </nav>
     </header>
 
+    <!-- Page Content -->
     <main>
         {{ content }}
     </main>
 
+    <!-- Footer (Optional) -->
     <footer>
         <!-- Footer content here -->
     </footer>
