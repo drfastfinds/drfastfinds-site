@@ -1,3 +1,16 @@
+---
+layout: null
+---
+[
+  {% for page in site.pages %}
+    {
+      "title": "{{ page.title | escape }}",
+      "url": "{{ page.url | escape }}",
+      "content": "{{ page.content | strip_html | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+
 document.addEventListener('DOMContentLoaded', function() {
     let searchBox = document.getElementById('search-box');
     let searchResults = document.getElementById('search-results');
