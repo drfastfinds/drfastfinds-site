@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script> <!-- Lunr.js for search functionality -->
-    <script src="{{ site.baseurl }}/search.js" defer></script> <!-- Path to search.js -->
+    <script src="https://drfastfinds.github.io/drfastfinds-site/search.js" defer></script> <!-- Path to search.js -->
     <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
     <title>{{ page.title }} | Dr. Fast Finds</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
@@ -44,7 +44,8 @@
         form {
             margin-right: 20px;
             display: flex;
-            align-items: center;
+            flex-direction: column; /* Stack the search box and results vertically */
+            align-items: flex-start; /* Align to the start of the form */
         }
 
         /* Style for the search input box */
@@ -53,6 +54,7 @@
             font-size: 14px;
             border: 1px solid #ccc;
             border-radius: 4px;
+            margin-bottom: 5px; /* Add some space between the input and results */
         }
 
         /* Style for the search results list */
@@ -83,7 +85,7 @@
         <!-- Search form in the middle -->
         <form>
             <input type="text" id="search-box" placeholder="Search...">
-            <ul id="search-results"></ul>
+            <ul id="search-results"></ul> <!-- Added here for results -->
         </form>
 
         <!-- Mercado Libre logo and blog link on the right -->
