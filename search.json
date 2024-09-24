@@ -1,11 +1,15 @@
+---
+layout: null
+---
+
 [
   {% for page in site.pages %}
-    {% unless page.url == "/search.json" %}
+    {% if page.title and page.url != "/search.json" %}
       {
         "title": "{{ page.title | escape }}",
         "url": "https://drfastfinds.github.io/drfastfinds-site{{ page.url }}",
-        "content": "{{ page.content | strip_html | escape }}"
+        "content": "{{ page.content | strip_html | normalize_whitespace | escape }}"
       }{% unless forloop.last %},{% endunless %}
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 ]
