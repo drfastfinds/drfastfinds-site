@@ -1,7 +1,3 @@
----
-layout: null
----
-
 [
   {% for page in site.pages %}
     {% unless page.url == "/search.json" %}
