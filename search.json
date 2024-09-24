@@ -1,9 +1,5 @@
----
-layout: null
----
-
 [
-  {% assign pages = site.pages | where_exp: "page", "page.title and page.url != '/search.json'" %}
+  {% assign pages = site.pages | where_exp: "page", "page.url != '/search.json'" %}
   {% for page in pages %}
     {
       "title": "{{ page.title | escape }}",
