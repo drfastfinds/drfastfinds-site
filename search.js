@@ -1,28 +1,13 @@
----
-layout: null
----
-[
-  {% for page in site.pages %}
-    {
-      "title": "{{ page.title | escape }}",
-      "url": "{{ page.url | escape }}",
-      "content": "{{ page.content | strip_html | escape }}"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
-
 document.addEventListener('DOMContentLoaded', function() {
     let searchBox = document.getElementById('search-box');
     let searchResults = document.getElementById('search-results');
 
-    // Hardcode the base URL
     let baseURL = "https://drfastfinds.github.io/drfastfinds-site";
 
-    // Fetch the search index
+    // Fetch the search index from the generated search.json file
     fetch(baseURL + '/search.json')
         .then(response => response.json())
         .then(pages => {
-            // Initialize Lunr.js with the index
             let idx = lunr(function () {
                 this.field('title');
                 this.field('content');
@@ -33,21 +18,17 @@ document.addEventListener('DOMContentLoaded', function() {
                 }, this);
             });
 
-            // Handle search input
             searchBox.addEventListener('input', function() {
                 let query = searchBox.value;
                 let results = idx.search(query);
 
-                // Clear old results
                 searchResults.innerHTML = '';
 
                 if (results.length > 0) {
-                    // Show new results
                     results.forEach(function(result) {
                         let page = pages.find(p => p.url === result.ref);
                         let li = document.createElement('li');
                         let a = document.createElement('a');
-                        // Hardcode base URL in result links
                         a.href = baseURL + page.url;
                         a.textContent = page.title;
                         li.appendChild(a);
