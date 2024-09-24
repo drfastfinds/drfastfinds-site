@@ -2,8 +2,11 @@ document.addEventListener('DOMContentLoaded', function() {
     let searchBox = document.getElementById('search-box');
     let searchResults = document.getElementById('search-results');
 
+    // Hardcode the base URL
+    let baseURL = "https://drfastfinds.github.io/drfastfinds-site";
+
     // Fetch the search index
-    fetch('{{ site.baseurl }}/search.json')
+    fetch(baseURL + '/search.json')
         .then(response => response.json())
         .then(pages => {
             // Initialize Lunr.js with the index
@@ -31,7 +34,8 @@ document.addEventListener('DOMContentLoaded', function() {
                         let page = pages.find(p => p.url === result.ref);
                         let li = document.createElement('li');
                         let a = document.createElement('a');
-                        a.href = page.url;
+                        // Hardcode base URL in result links
+                        a.href = baseURL + page.url;
                         a.textContent = page.title;
                         li.appendChild(a);
                         searchResults.appendChild(li);
@@ -40,5 +44,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     searchResults.innerHTML = '<li>No results found</li>';
                 }
             });
-        });
+        })
+        .catch(err => console.error('Failed to fetch search.json', err));
 });
