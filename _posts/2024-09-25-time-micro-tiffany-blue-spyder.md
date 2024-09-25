@@ -14,7 +14,7 @@ categories: ["Collectibles", "Diecast", "Coca Cola", "TimeMicro"]
   </header>
 
   <figure>
-    <img src="https://example.com/images/tmcola.png" alt="TimeMicro Coca Cola Spyder 918 Trailer Set" class="featured-image" style="width:100%; max-width:600px;">
+    <img src="{{ site.baseurl }}/assets/images/tmcola.png" alt="TimeMicro Coca Cola Spyder 918 Trailer Set" class="featured-image" style="width:100%; max-width:600px;">
     <figcaption>The stunning <em>TimeMicro Coca Cola Spyder 918 Trailer Set</em>, perfect for any collection!</figcaption>
   </figure>
 
