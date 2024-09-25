@@ -45,5 +45,5 @@ fetch("https://drfastfinds.github.io/drfastfinds-site/search.json")
                 }
             });
         })
-        .catch(err => console.error('Failed to fetch search.json.liquid', err));
+        .catch(err => console.error('Failed to fetch search.json', err));
 });
