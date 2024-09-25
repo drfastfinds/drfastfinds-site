@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script> <!-- Lunr.js for search functionality -->
-    <script src="https://drfastfinds.github.io/drfastfinds-site/search.js" defer></script> <!-- Path to search.js -->
     <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
     <title>{{ page.title }} | Dr. Fast Finds</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
@@ -12,7 +10,7 @@
         /* Ensure the header uses flexbox for layout */
         header {
             display: flex;
-            justify-content: space-between; /* Space out logo, nav, and search */
+            justify-content: space-between; /* Space out logo, nav, */
             align-items: center; /* Vertically center items */
             padding: 10px;
             background-color: #f8f9fa; /* Optional background color */
@@ -40,13 +38,7 @@
             margin-right: 10px; /* Adds some space on the right */
         }
 
-        /* Style for the search form */
-        form {
-            margin-right: 20px;
-            display: flex;
-            flex-direction: column; /* Stack the search box and results vertically */
-            align-items: flex-start; /* Align to the start of the form */
-        }
+
 
 
     </style>
