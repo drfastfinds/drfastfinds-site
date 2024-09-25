@@ -7,14 +7,14 @@ categories: ["Collectibles", "Diecast", "Tiffany Blue", "TimeMicro"]
 ---
 
 <!-- Blog Post Content Starts -->
-<article class="post" style="text-align:center;">
+<article class="post">
   <header>
     <h1>TimeMicro Tiffany Blue Spyder: A Stylish Diecast Model</h1>
     <p><strong>Published on:</strong> {{ page.date | date: "%B %d, %Y" }} by Dr. Fast Finds</p>
   </header>
 
   <figure>
-    <img src="https://drfastfinds.github.io/drfastfinds-site//assets/images/tmblue.png" alt="TimeMicro Tiffany Blue Spyder" class="featured-image" style="width:100%; max-width:600px;">
+    <img src="https://drfastfinds.github.io/drfastfinds-site//assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Spyder" class="featured-image" style="width:100%; max-width:600px;">
     <figcaption>The sleek <em>TimeMicro Tiffany Blue Spyder</em>, a perfect addition to any collection.</figcaption>
   </figure>
 
@@ -27,7 +27,7 @@ categories: ["Collectibles", "Diecast", "Tiffany Blue", "TimeMicro"]
     <h2>Product Details and Features</h2>
     <p>This 1:64 scale <strong>TimeMicro Tiffany Blue Spyder</strong> is well-crafted, offering great detail for its size. Its Tiffany Blue color gives it a distinct, fresh look that any diecast enthusiast would appreciate.</p>
 
-    <ul style="text-align:left; margin: 0 auto; display: inline-block;">
+    <ul>
       <li><strong>Brand:</strong> TimeMicro</li>
       <li><strong>Scale:</strong> 1:64</li>
       <li><strong>Model:</strong> Porsche Spyder 918</li>
@@ -67,9 +67,9 @@ categories: ["Collectibles", "Diecast", "Tiffany Blue", "TimeMicro"]
 </article>
 
 <!-- Share this post section -->
-<div class="share" style="text-align:center;">
+<div class="share">
   <h3>Share This Post:</h3>
-  <ul style="display:inline-block; text-align:left;">
+  <ul>
     <li><a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }} - Dr. Fast Finds" target="_blank">Share on Twitter</a></li>
     <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank">Share on Facebook</a></li>
     <li><a href="mailto:?subject={{ page.title }}&body=Check out this blog post: {{ site.url }}{{ page.url }}">Share via Email</a></li>
