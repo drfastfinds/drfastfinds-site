@@ -1,12 +1,17 @@
 document.addEventListener('DOMContentLoaded', function() {
-    let searchBox = document.getElementById('search-box');
+    let searchBox = document.getElementById('search-input'); // Make sure this matches your HTML element ID
     let searchResults = document.getElementById('search-results');
 
     let baseURL = "https://drfastfinds.github.io/drfastfinds-site";
 
-    // Fetch the search index from the generated search.json file
-    fetch(baseURL + '/search.json')
-        .then(response => response.json())
+    // Fetch the search index from the generated search.json.liquid file
+    fetch(baseURL + '/search.json.liquid')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
         .then(pages => {
             let idx = lunr(function () {
                 this.field('title');
@@ -39,5 +44,5 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         })
-        .catch(err => console.error('Failed to fetch search.json', err));
+        .catch(err => console.error('Failed to fetch search.json.liquid', err));
 });
