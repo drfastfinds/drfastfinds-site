@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     let baseURL = "https://drfastfinds.github.io/drfastfinds-site";
 
     // Fetch the search index from the generated search.json.liquid file
-    fetch(baseURL + '/search.json')
+fetch("https://drfastfinds.github.io/drfastfinds-site/search.json")
+
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
