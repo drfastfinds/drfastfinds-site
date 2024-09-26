@@ -1,3 +1,4 @@
+---
 layout: post
 title: "TimeMicro Tiffany Blue Spyder: A Stylish Diecast Model"
 date: 2024-09-25
@@ -14,7 +15,8 @@ categories: ["Collectibles", "Diecast", "Tiffany Blue", "TimeMicro"]
 img.featured-image {
     display: block;
     margin: 20px auto;
-    max-width: 100%;
+    width: 100%; /* Ensure it takes full width of its container */
+    max-width: 600px; /* Limit the max width */
 }
 .credit-note {
     text-align: center;
@@ -25,10 +27,9 @@ img.featured-image {
 
 <div class="content-container">
   <h1>TimeMicro Tiffany Blue Spyder: A Stylish Diecast Model</h1>
-  <p><strong>Published on:</strong> {{ page.date | date: "%B %d, %Y" }} by Dr. Fast Finds</p>
 
   <figure>
-    <img src="https://drfastfinds.github.io/drfastfinds-site//assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Spyder" class="featured-image" style="width:100%; max-width:600px;">
+    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Spyder" class="featured-image">
     <figcaption class="credit-note">The sleek <em>TimeMicro Tiffany Blue Spyder</em>, a perfect addition to any collection.</figcaption>
   </figure>
 
@@ -48,6 +49,14 @@ img.featured-image {
 
   <h2>What Makes It Special?</h2>
   <p>The Porsche Spyder 918 is a well-known model, and this Tiffany Blue version offers something a little different. The bright, vibrant color gives it a fresh twist on the classic design, making it a standout piece for anyone who loves cars or unique collectibles.</p>
+
+  <h2>Display Ideas</h2>
+  <p>Whether displayed alongside other Porsche models or as a unique piece in your collection, the TimeMicro Tiffany Blue Spyder will catch attention. The bold color ensures that it stands out, no matter where it’s placed.</p>
+
+  <figure>
+    <img src="https://example.com/images/display-idea-blue.jpg" alt="Tiffany Blue Spyder Diecast Display" class="featured-image">
+    <figcaption class="credit-note">Display idea for the TimeMicro Tiffany Blue Spyder.</figcaption>
+  </figure>
 
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Tiffany Blue Spyder</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t wait too long—this limited edition won’t be available forever!</p>
