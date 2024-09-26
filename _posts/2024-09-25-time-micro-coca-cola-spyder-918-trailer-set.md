@@ -50,14 +50,6 @@ img.featured-image {
   <h2>What Makes It Special?</h2>
   <p>This Coca Cola Spyder 918 Trailer Set stands out with its classic design and vibrant branding. It combines the elegance of the Porsche Spyder with the nostalgia of Coca Cola, making it a unique piece for any collection.</p>
 
-  <h2>Display Ideas</h2>
-  <p>Showcase this model in your diecast collection or use it as a conversation starter in themed displays. Its eye-catching colors and branding make it a great focal point in any setup.</p>
-
-  <figure>
-    <img src="https://example.com/images/display-idea-coca-cola.jpg" alt="Coca Cola Spyder Diecast Display" class="featured-image">
-    <figcaption class="credit-note">Display idea for the TimeMicro Coca Cola Spyder 918 Trailer Set.</figcaption>
-  </figure>
-
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Coca Cola Spyder 918 Trailer Set</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t miss out on this limited edition piece!</p>
   <p>Explore our full range of diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
