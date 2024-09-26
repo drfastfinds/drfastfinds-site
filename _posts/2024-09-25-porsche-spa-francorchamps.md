@@ -49,12 +49,6 @@ img.featured-image {
     <li><strong>Weight:</strong> 136g</li>
   </ul>
 
-  <h2>Price and Availability</h2>
-  <p><strong>Price:</strong> 21,525 yen (~150.67 USD)</p>
-  <p><strong>List Price:</strong> 22,550 yen</p>
-  <p><strong>Status:</strong> Sold Out</p>
-  <p><strong>Limited Edition:</strong> Only 3 units per household</p>
-
   <h2>Where to Buy</h2>
   <p>Although currently sold out, keep an eye on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> for restocks, or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online shop</a> for more diecast models and collectibles!</p>
 
