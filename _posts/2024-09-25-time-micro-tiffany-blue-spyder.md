@@ -49,14 +49,6 @@ img.featured-image {
   <h2>What Makes It Special?</h2>
   <p>The Porsche Spyder 918 is a well-known model, and this Tiffany Blue version offers something a little different. The bright, vibrant color gives it a fresh twist on the classic design, making it a standout piece for anyone who loves cars or unique collectibles.</p>
 
-  <h2>Display Ideas</h2>
-  <p>Whether displayed alongside other Porsche models or as a unique piece in your collection, the TimeMicro Tiffany Blue Spyder will catch attention. The bold color ensures that it stands out, no matter where it’s placed.</p>
-
-  <figure>
-    <img src="https://example.com/images/display-idea-blue.jpg" alt="Tiffany Blue Spyder Diecast Display" class="featured-image">
-    <figcaption class="credit-note">Display idea for the TimeMicro Tiffany Blue Spyder.</figcaption>
-  </figure>
-
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Tiffany Blue Spyder</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t wait too long—this limited edition won’t be available forever!</p>
   <p>Explore our full range of diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
