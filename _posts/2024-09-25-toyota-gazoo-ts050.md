@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(Tamiya) Toyota Gazoo Racing TS050 Hybrid: A Model of Innovation"
+title: "Tamiya Toyota Gazoo Racing TS050 Hybrid: A Model of Innovation"
 date: 2024-09-25
 author: "Dr. Fast Finds"
 categories: ["Collectibles", "Model Kits", "Tamiya", "Toyota Gazoo Racing", "TS050 Hybrid"]
