@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Ganador Sebring"
+title: "Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring"
 date: 2024-09-25
 author: "Dr. Fast Finds"
 categories: ["Collectibles", "Diecast Models", "Exoto", "Ford", "GT40"]
@@ -26,7 +26,7 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Ganador Sebring</h1>
+  <h1>Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/fgt.jpg" alt="Exoto Ford GT40 MK II Roadster 1966" class="featured-image">
