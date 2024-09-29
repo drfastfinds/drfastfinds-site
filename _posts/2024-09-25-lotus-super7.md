@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(Tamiya) Lotus Super 7 Series II: A Classic Roadster"
+title: "Tamiya Lotus Super 7 Series II: A Classic Roadster"
 date: 2024-09-25
 author: "Dr. Fast Finds"
 categories: ["Collectibles", "Model Kits", "Tamiya", "Lotus Super 7", "Classic Cars"]
@@ -26,7 +26,7 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>(Tamiya) Lotus Super 7 Series II: A Classic Roadster</h1>
+  <h1>Tamiya Lotus Super 7 Series II: A Classic Roadster</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/lts7.jpg" alt="Tamiya Lotus Super 7 Series II" class="featured-image">
