@@ -26,7 +26,7 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>(Tamiya) Toyota Gazoo Racing TS050 Hybrid: A Model of Innovation</h1>
+  <h1>Tamiya Toyota Gazoo Racing TS050 Hybrid: A Model of Innovation</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz.jpg" alt="Tamiya Toyota Gazoo Racing TS050 Hybrid" class="featured-image">
