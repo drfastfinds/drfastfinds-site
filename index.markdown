@@ -175,7 +175,7 @@ title: Dr. Fast Finds
     <a href="{{ site.baseurl }}/products/top-studio-rb6">
         <img src="{{ site.baseurl }}/assets/images/tsrb.jpg" alt="Top Studio 1/20 RB6 Super Detail-Up Set">
         <p>Top Studio 1/20 RB6 Super Detail-Up Set</p>
-        <p>Price: $150.00</p>
+        <p>Price: $180.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
@@ -183,9 +183,19 @@ title: Dr. Fast Finds
 <!-- Tamiya 1/12 McLaren MP4 -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/tamiya-mclaren-mp4">
-        <img src="{{ site.baseurl }}/assets/images/mp46.jpg" alt="Tamiya 1/12 McLaren MP4 1/12 Scale">
+        <img src="{{ site.baseurl }}/assets/images/tmc.jpg" alt="Tamiya 1/12 McLaren MP4 1/12 Scale">
         <p>Tamiya 1/12 McLaren MP4 1/12 Scale</p>
         <p>Price: $620.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Top Studio McLaren MP4/6 Super Detail-Up Set -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/top-studio-mp4">
+        <img src="{{ site.baseurl }}/assets/images/mp46.jpg" alt="Top Studio McLaren MP4/6 Super Detail-Up Set">
+        <p>Top Studio McLaren MP4/6 Super Detail-Up Set</p>
+        <p>Price: $800.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
