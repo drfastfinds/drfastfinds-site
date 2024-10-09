@@ -8,8 +8,6 @@ description: |
 
   <p>New in box. This model features a detailed interior and exterior, showcasing the distinct styling that RWB is renowned for. Made primarily of diecast metal with some plastic components.</p>
 
-  <p>Approximate dimensions: L-3", W-1.5", H-1.25".</p>
-
   <p>Care Instructions: Wipe clean.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
