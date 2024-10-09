@@ -26,9 +26,19 @@ thumbnails:
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-        <p class="youtube-link">For more details, check out the product video here: <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a></p>
-        <p>Read more about the Inter Allied Toyota 2000 GT on our blog: <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/inter%20allied/toyota/2000gt/2024/09/25/inter-allied-toyota-2000-gt.html" target="_blank">Inter Allied Toyota 2000 GT</a></p>
+        <p class="youtube-link">For more details, check out the product video here: 
+            <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
+        </p>
+        <p>Read more about the Inter Allied Toyota 2000 GT on our blog: 
+            <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/inter%20allied/toyota/2000gt/2024/09/25/inter-allied-toyota-2000-gt.html" target="_blank">Inter Allied Toyota 2000 GT</a>
+        </p>
     </div>
+</div>
+
+<div class="thumbnail-carousel">
+    {% for thumbnail in page.thumbnails %}
+    <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+    {% endfor %}
 </div>
 
 <style>
@@ -41,21 +51,42 @@ thumbnails:
 
 .product-image-box {
     flex-shrink: 0;
-    width: 500px;
-    height: 300px;
-    overflow: hidden;
+    width: 500px; 
+    height: 300px; 
+    overflow: hidden; 
 }
 
 .main-image {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain; 
     display: block;
 }
 
 .product-text {
     max-width: 400px;
     flex-grow: 1;
+}
+
+.thumbnail-carousel {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px;
+    justify-content: flex-start;
+}
+
+.thumbnail {
+    max-width: 80px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.youtube-link {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
 }
 
 .buy-now {
@@ -73,8 +104,17 @@ thumbnails:
 .buy-now:hover {
     background-color: #0056b3;
 }
-
-.youtube-link {
-    margin-top: 20px;
-}
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const mainImage = document.querySelector('.main-image');
+    const thumbnails = document.querySelectorAll('.thumbnail');
+
+    thumbnails.forEach(thumbnail => {
+        thumbnail.addEventListener('click', function() {
+            mainImage.src = this.src;
+        });
+    });
+});
+</script>
