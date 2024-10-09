@@ -2,7 +2,7 @@
 layout: product
 title: TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder
 price: 70.00
-youtube_link: ""  # Add a YouTube link if you have one
+youtube_link: "https://youtube.com/shorts/fXCzU8YOLZI?feature=share"  # Add a YouTube link if you have one
 description: |
   <p>The TimeMicro Tiffany Blue Trailer Set featuring Volkswagen and Spyder is a stunning addition for collectors and enthusiasts alike. This set combines vibrant aesthetics with exquisite detailing, showcasing the iconic Volkswagen alongside the stylish Spyder.</p>
 
@@ -38,8 +38,7 @@ thumbnails:
 
 <div style="text-align: center;">
     <p class="youtube-link">For more details, check out the product video here: 
-        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
-    </p>
+        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a> </p>
     <p>Read more about the TimeMicro Tiffany Blue Trailer Set on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-trailer-set-volkswagen-spyder.html">The TimeMicro Tiffany Blue Trailer Set: A Collector's Delight</a>
     </p>
