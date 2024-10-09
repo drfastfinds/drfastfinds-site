@@ -122,7 +122,7 @@ title: Dr. Fast Finds
 <!-- TimeMicro Tiffany Blue Trailer Set -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/timemicro-tiffany-blue-trailer">
-        <img src="{{ site.baseurl }}/assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder">
+        <img src="{{ site.baseurl }}/assets/images/tftra.jpg" alt="TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder">
         <p>TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder</p>
         <p>Price: $55.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
