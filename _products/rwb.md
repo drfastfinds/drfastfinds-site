@@ -12,7 +12,7 @@ description: |
 
   <p>Care Instructions: Wipe clean.</p>
 
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg"
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-2.jpg"
