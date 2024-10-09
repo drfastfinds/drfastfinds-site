@@ -220,8 +220,7 @@ title: Dr. Fast Finds
     </a>
 </div>
 
-<div class="gallery">
-    <div class="product">
+<div class="product">
         <a href="{{ site.baseurl }}/products/lotus-super-7">
             <img src="{{ site.baseurl }}/assets/images/lts7.jpg" alt="Tamiya Lotus Super 7 Series II: A Classic Roadster">
             <p>Tamiya Lotus Super 7 Series II: A Classic Roadster</p>
@@ -259,7 +258,7 @@ title: Dr. Fast Finds
 
  <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-detail-up">
-            <img src="{{ site.baseurl }}/assets/images/ferrari-f2003-ga-detail-up.jpg" alt="Ferrari F2003-GA Super Detail-Up Set by Top Studio">
+            <img src="{{ site.baseurl }}/assets/images/tsfr.jpg" alt="Ferrari F2003-GA Super Detail-Up Set by Top Studio">
             <p>Ferrari F2003-GA Super Detail-Up Set by Top Studio</p>
             <p>Price: $85.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
