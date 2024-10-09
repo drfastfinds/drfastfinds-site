@@ -91,7 +91,7 @@ title: Dr. Fast Finds
 
 <!-- TPC 1:64 RWB 993 -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/tpc-rwb-993">
+    <a href="{{ site.baseurl }}/products/rwb">
         <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
         <p>TPC 1:64 RWB 993 1/64 Scale Model</p>
         <p>Price: $35.00</p>
