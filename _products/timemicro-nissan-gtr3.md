@@ -42,7 +42,7 @@ thumbnails:
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
     <p>Read more about the TimeMicro Normal Alloy Model: Nissan GTR3.0 Tiffany Blue on our blog: 
-        <a href="{{ site.baseurl }}/products/timemicro-nissan-gtr3">The TimeMicro Nissan GTR3: A Tiffany Blue Icon</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-tiffany-blue.html">The TimeMicro Nissan GTR3: A Tiffany Blue Icon</a>
     </p>
 </div>
 
