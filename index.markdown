@@ -132,7 +132,7 @@ title: Dr. Fast Finds
 <!-- TimeMicro Tiffany Blue Spyder -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/timemicro-tiffany-blue-spyder">
-        <img src="{{ site.baseurl }}/assets/images/tmc.jpg" alt="TimeMicro Tiffany Blue Spyder 1/64 Scale Model">
+        <img src="{{ site.baseurl }}/assets/images/assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Spyder 1/64 Scale Model">
         <p>TimeMicro Tiffany Blue Spyder 1/64 Scale Model</p>
         <p>Price: $40.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
