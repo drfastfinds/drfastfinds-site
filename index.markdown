@@ -101,7 +101,7 @@ title: Dr. Fast Finds
 
 <!-- Tamiya Toyota Gazoo Racing TS050 Hybrid -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/tamiya-toyota-ts050">
+    <a href="{{ site.baseurl }}/products/toyotagazoo">
         <img src="{{ site.baseurl }}/assets/images/tgaz.jpg" alt="Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale">
         <p>Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale</p>
         <p>Price: $100.00</p>
