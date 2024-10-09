@@ -163,9 +163,19 @@ title: Dr. Fast Finds
 <!-- Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/tamiya-redbull-rb6">
-        <img src="{{ site.baseurl }}/assets/images/tsrb.jpg" alt="Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale">
+        <img src="{{ site.baseurl }}/assets/images/rb6.jpg" alt="Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale">
         <p>Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale</p>
         <p>Price: $200.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Top Studio RB6 Super Detail-Up Set -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/top-studio-rb6">
+        <img src="{{ site.baseurl }}/assets/images/tsrb.jpg" alt="Top Studio 1/20 RB6 Super Detail-Up Set">
+        <p>Top Studio 1/20 RB6 Super Detail-Up Set</p>
+        <p>Price: $150.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
