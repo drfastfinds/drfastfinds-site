@@ -223,7 +223,7 @@ title: Dr. Fast Finds
 <div class="gallery">
     <div class="product">
         <a href="{{ site.baseurl }}/products/lotus-super-7">
-            <img src="{{ site.baseurl }}/assets/images/lotus-super-7.jpg" alt="Tamiya Lotus Super 7 Series II: A Classic Roadster">
+            <img src="{{ site.baseurl }}/assets/images/lts7.jpg" alt="Tamiya Lotus Super 7 Series II: A Classic Roadster">
             <p>Tamiya Lotus Super 7 Series II: A Classic Roadster</p>
             <p>Price: $65.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
@@ -232,32 +232,32 @@ title: Dr. Fast Finds
 
 <div class="product">
         <a href="{{ site.baseurl }}/products/toyota-2000-gt">
-            <img src="{{ site.baseurl }}/assets/images/toyota-2000-gt.jpg" alt="Inter Allied Toyota 2000 GT">
+            <img src="{{ site.baseurl }}/assets/images/t2000.jpg" alt="Inter Allied Toyota 2000 GT">
             <p>Inter Allied Toyota 2000 GT</p>
             <p>Price: $95.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
 
-  <div class="product">
+ <div class="product">
         <a href="{{ site.baseurl }}/products/toyota-88c-v">
-            <img src="{{ site.baseurl }}/assets/images/minolta-88c-v.jpg" alt="Hasegawa Minolta Toyota 88C-V: Iconic Racing Machine">
+            <img src="{{ site.baseurl }}/assets/images/hmin.jpg" alt="Hasegawa Minolta Toyota 88C-V: Iconic Racing Machine">
             <p>Hasegawa Minolta Toyota 88C-V: Iconic Racing Machine</p>
             <p>Price: $80.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
 
-  <div class="product">
+<div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-japan">
-            <img src="{{ site.baseurl }}/assets/images/ferrari-f2003-ga.jpg" alt="Fujimi Ferrari F2003-GA Japan GP">
+            <img src="{{ site.baseurl }}/assets/images/f2003.jpg" alt="Fujimi Ferrari F2003-GA Japan GP">
             <p>Fujimi Ferrari F2003-GA Japan GP</p>
             <p>Price: $70.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
 
-<div class="product">
+ <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-detail-up">
             <img src="{{ site.baseurl }}/assets/images/ferrari-f2003-ga-detail-up.jpg" alt="Ferrari F2003-GA Super Detail-Up Set by Top Studio">
             <p>Ferrari F2003-GA Super Detail-Up Set by Top Studio</p>
@@ -268,30 +268,31 @@ title: Dr. Fast Finds
 
 <div class="product">
         <a href="{{ site.baseurl }}/products/ford-gt40-roadster-sebring">
-            <img src="{{ site.baseurl }}/assets/images/ford-gt40-mk-ii.jpg" alt="Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring">
+            <img src="{{ site.baseurl }}/assets/images/fgt.jpg" alt="Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring">
             <p>Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring</p>
             <p>Price: $150.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
 
-<div class="product">
+ <div class="product">
         <a href="{{ site.baseurl }}/products/nissan-240-rs">
-            <img src="{{ site.baseurl }}/assets/images/nissan-240-rs.jpg" alt="Beemax Nissan 240 RS">
+            <img src="{{ site.baseurl }}/assets/images/nsnr.jpg" alt="Beemax Nissan 240 RS">
             <p>Beemax Nissan 240 RS</p>
             <p>Price: $55.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
-
+    
 <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-312p">
-            <img src="{{ site.baseurl }}/assets/images/ferrari-312p.jpg" alt="Bburago Ferrari 312P: A Diecast Tribute to Racing History">
+            <img src="{{ site.baseurl }}/assets/images/312.jpg" alt="Bburago Ferrari 312P: A Diecast Tribute to Racing History">
             <p>Bburago Ferrari 312P: A Diecast Tribute to Racing History</p>
             <p>Price: $90.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
+    
 </div>
 
 
