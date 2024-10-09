@@ -59,26 +59,164 @@ title: Dr. Fast Finds
 
 
 <div class="gallery">
-    <div class="product">
-        <a href="{{ site.baseurl }}/products/bugatti-divo">
-            <img src="{{ site.baseurl }}/assets/images/divo.jpg" alt="Bburago Bugatti Divo - Blue 1/18 Scale Model">
-            <p>Bburago Bugatti Divo - Blue 1/18 Scale Model</p>
-            <p>Price: $110.00</p>
-            <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-
-        </a>
-    </div>
-
+    <!-- Bugatti Divo -->
 <div class="product">
-        <a href="{{ site.baseurl }}/products/porsche-963">
-            <img src="{{ site.baseurl }}/assets/images/963.jpg" alt="Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale">
-            <p>Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale</p>
-            <p>Price: $40.00</p>
-            <p class="sold-out">SOLD OUT</p>
-            <!-- <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a> -->
+    <a href="{{ site.baseurl }}/products/bugatti-divo">
+        <img src="{{ site.baseurl }}/assets/images/divo.jpg" alt="Bburago Bugatti Divo - Blue 1/18 Scale Model">
+        <p>Bburago Bugatti Divo - Blue 1/18 Scale Model</p>
+        <p>Price: $110.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
 
-        </a>
-    </div>
+<!-- Porsche 963 -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/porsche-963">
+        <img src="{{ site.baseurl }}/assets/images/963.jpg" alt="Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale">
+        <p>Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale</p>
+        <p>Price: $40.00</p>
+        <p class="sold-out">SOLD OUT</p>
+    </a>
+</div>
 
+<!-- Trofeu Alpine A110 -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/trofeu-alpine-a110">
+        <img src="{{ site.baseurl }}/assets/images/trfa.jpg" alt="Trofeu Alpine A110 1/43 Scale Model">
+        <p>Trofeu Alpine A110 1/43 Scale Model</p>
+        <p>Price: $50.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- TPC 1:64 RWB 993 -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/tpc-rwb-993">
+        <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
+        <p>TPC 1:64 RWB 993 1/64 Scale Model</p>
+        <p>Price: $35.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Tamiya Toyota Gazoo Racing TS050 Hybrid -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/tamiya-toyota-ts050">
+        <img src="{{ site.baseurl }}/assets/images/tgaz.jpg" alt="Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale">
+        <p>Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale</p>
+        <p>Price: $60.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- TimeMicro AE86 Initial D Anime Version -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/timemicro-ae86-initial-d">
+        <img src="{{ site.baseurl }}/assets/images/ind.jpg" alt="TimeMicro AE86 Initial D Anime Version 1/64 Scale Model">
+        <p>TimeMicro AE86 Initial D Anime Version 1/64 Scale Model</p>
+        <p>Price: $45.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- TimeMicro Tiffany Blue Trailer Set -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/timemicro-tiffany-blue-trailer">
+        <img src="{{ site.baseurl }}/assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder">
+        <p>TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder</p>
+        <p>Price: $55.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- TimeMicro Tiffany Blue Spyder -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/timemicro-tiffany-blue-spyder">
+        <img src="{{ site.baseurl }}/assets/images/tmc.jpg" alt="TimeMicro Tiffany Blue Spyder 1/64 Scale Model">
+        <p>TimeMicro Tiffany Blue Spyder 1/64 Scale Model</p>
+        <p>Price: $40.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- TimeMicro Normal Alloy Model Nissan GTR3.0 Tiffany Blue -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/timemicro-nissan-gtr3">
+        <img src="{{ site.baseurl }}/assets/images/tmlb.jpg" alt="TimeMicro Normal Alloy Model: Nissan GTR3.0 Tiffany Blue, 1/64">
+        <p>TimeMicro Normal Alloy Model: Nissan GTR3.0 Tiffany Blue, 1/64</p>
+        <p>Price: $45.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- TimeMicro Coca Cola Spyder 918 Trailer Set -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/timemicro-coca-cola-spyder">
+        <img src="{{ site.baseurl }}/assets/images/tmcola.png" alt="TimeMicro Coca Cola Spyder 918 Trailer Set 1/64 Scale Model">
+        <p>TimeMicro Coca Cola Spyder 918 Trailer Set 1/64 Scale Model</p>
+        <p>Price: $55.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/tamiya-redbull-rb6">
+        <img src="{{ site.baseurl }}/assets/images/tsrb.jpg" alt="Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale">
+        <p>Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale</p>
+        <p>Price: $70.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Tamiya 1/12 McLaren MP4 -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/tamiya-mclaren-mp4">
+        <img src="{{ site.baseurl }}/assets/images/mp46.jpg" alt="Tamiya 1/12 McLaren MP4 1/12 Scale">
+        <p>Tamiya 1/12 McLaren MP4 1/12 Scale</p>
+        <p>Price: $120.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Studio27 BMW F1.06 Sauber -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/studio27-bmw-f106">
+        <img src="{{ site.baseurl }}/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber 1/24 Scale">
+        <p>Studio27 BMW F1.06 Sauber 1/24 Scale</p>
+        <p>Price: $85.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Porsche 911 1969 Spa-Francorchamps -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/porsche-911-spa-francorchamps">
+        <img src="{{ site.baseurl }}/assets/images/tp911.jpg" alt="Porsche 911 1969 Spa-Francorchamps 24th 1st">
+        <p>Porsche 911 1969 Spa-Francorchamps 24th 1st</p>
+        <p>Price: $90.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- McLaren MP4/6 Full Sponsor (Tabu Design) -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/mclaren-mp46-tabu-design">
+        <img src="{{ site.baseurl }}/assets/images/tabu.jpg" alt="McLaren MP4/6 Full Sponsor (Tabu Design)">
+        <p>McLaren MP4/6 Full Sponsor (Tabu Design)</p>
+        <p>Price: $80.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Lola T292 1973 SPA1000km -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/lola-t292-1973">
+        <img src="{{ site.baseurl }}/assets/images/lola.jpg" alt="Lola T292 1973 SPA1000km 1/43 Scale">
+        <p>Lola T292 1973 SPA1000km 1/43 Scale</p>
+        <p>Price: $75.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
 
 </div>
