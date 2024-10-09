@@ -12,18 +12,6 @@ description: |
 
   <p>Care Instructions: Wipe clean.</p>
 
-  <p><strong>Related Products:</strong></p>
-  <ul>
-    <li>TS050 LM 2018 Option (Decal)</li>
-    <li>TS050 LM 2018 Carbon Decal</li>
-    <li>Fast Guides: Toyota TS050 Hybrid</li>
-    <li>TS050 LM 2019/2018 Full Sponsor Logo (Decal)</li>
-    <li>TS050 Upgrade Parts</li>
-    <li>TS050 LM 2017 (Decal)</li>
-    <li>1/24 Toyota Gazoo Racing TS050 Hybrid 2019 (タミヤ)</li>
-    <li>Tamiya Model Magazine International No.289</li>
-  </ul>
-
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz-1.jpg"
