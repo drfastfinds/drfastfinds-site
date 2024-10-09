@@ -9,7 +9,7 @@ description: |
   <p>With precise detailing and a true-to-life design, the Tamiya Lotus Super 7 offers both beginners and seasoned model builders a rewarding experience. Relive the golden age of British roadsters with this high-quality kit from Tamiya.</p>
 
   <p>Approximate dimensions: 1/24 scale.</p>
-
+  
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/lts7.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/lts7-1.jpg"
@@ -26,9 +26,22 @@ thumbnails:
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-        <p class="youtube-link">For more details, check out the product video here: <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a></p>
-        <p>Read more about the Lotus Super 7 on our blog: <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/lotus%20super%207/classic%20cars/2024/09/25/lotus-super7.html" target="_blank">Lotus Super 7 Series II</a></p>
     </div>
+</div>
+
+<div class="thumbnail-carousel">
+    {% for thumbnail in page.thumbnails %}
+    <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+    {% endfor %}
+</div>
+
+<div style="text-align: center;">
+    <p class="youtube-link">For more details, check out the product video here: 
+        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
+    </p>
+    <p>Read more about the Lotus Super 7 on our blog: 
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/lotus%20super%207/classic%20cars/2024/09/25/lotus-super7.html" target="_blank">Lotus Super 7 Series II</a>
+    </p>
 </div>
 
 <style>
@@ -41,21 +54,42 @@ thumbnails:
 
 .product-image-box {
     flex-shrink: 0;
-    width: 500px;
-    height: 300px;
-    overflow: hidden;
+    width: 500px; 
+    height: 300px; 
+    overflow: hidden; 
 }
 
 .main-image {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain; 
     display: block;
 }
 
 .product-text {
     max-width: 400px;
     flex-grow: 1;
+}
+
+.thumbnail-carousel {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px;
+    justify-content: flex-start;
+}
+
+.thumbnail {
+    max-width: 80px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.youtube-link {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
 }
 
 .buy-now {
@@ -73,8 +107,17 @@ thumbnails:
 .buy-now:hover {
     background-color: #0056b3;
 }
-
-.youtube-link {
-    margin-top: 20px;
-}
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const mainImage = document.querySelector('.main-image');
+    const thumbnails = document.querySelectorAll('.thumbnail');
+
+    thumbnails.forEach(thumbnail => {
+        thumbnail.addEventListener('click', function() {
+            mainImage.src = this.src;
+        });
+    });
+});
+</script>
