@@ -41,7 +41,7 @@ thumbnails:
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
     <p>Read more about the TimeMicro Tiffany Blue Spyder on our blog: 
-        <a href="{{ site.baseurl }}/products/tiffany-blue-spyder">The TimeMicro Tiffany Blue Spyder: A Stylish Diecast Model</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-spyder-a-stylish-diecast-model.html">The TimeMicro Tiffany Blue Spyder: A Stylish Diecast Model</a>
     </p>
 </div>
 
