@@ -81,7 +81,7 @@ title: Dr. Fast Finds
 
 <!-- Trofeu Alpine A110 -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/trofeu-alpine-a110">
+    <a href="{{ site.baseurl }}/products/A110">
         <img src="{{ site.baseurl }}/assets/images/trfa.jpg" alt="Trofeu Alpine A110 1/43 Scale Model">
         <p>Trofeu Alpine A110 1/43 Scale Model</p>
         <p>Price: $155.00</p>
