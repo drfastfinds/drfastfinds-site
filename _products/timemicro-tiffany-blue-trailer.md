@@ -40,7 +40,7 @@ thumbnails:
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
     <p>Read more about the TimeMicro Tiffany Blue Trailer Set on our blog: 
-        <a href="{{ site.baseurl }}/products/timemicro-tiffany-blue-trailer">The TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-trailer-set-volkswagen-spyder.htmlr">The TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder</a>
     </p>
 </div>
 
