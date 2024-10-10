@@ -191,6 +191,6 @@ title: Order Page
 </script>
 
 <div class="thank-you-message">
-    <p>An email with a PayPal link for the shipment will be sent shortly after submission.</p>
+    <p>An email with a PayPal link for the shipment will be sent shortly after submission. We only accept credit card.</p>
     <p>You can contact <a href="mailto:drfastfinds@gmail.com">drfastfinds@gmail.com</a> with questions and concerns regarding your order.</p>
 </div>
