@@ -2,13 +2,19 @@
 layout: product
 title: "Hasegawa Minolta Toyota 88C-V: Iconic Racing Machine"
 price: 80.00
-youtube_link: "https://youtube.com/shorts/l2EClcuf04o?feature=share"
+youtube_link: "https://www.youtube.com/embed/ASAkPLcMg8E"
 description: |
   <p>The Hasegawa Minolta Toyota 88C-V represents an iconic racing machine from the world of endurance racing. This model kit, at 1/24 scale, perfectly captures the design and spirit of the Toyota 88C-V, known for its legendary performance at Le Mans and other endurance races.</p>
 
   <p>This highly detailed model kit allows builders to recreate one of the most memorable race cars from Toyota's rich motorsport history. Whether you're a collector or a hobbyist, this model kit provides a rewarding building experience and an impressive display piece for any motorsport enthusiast.</p>
 
   <p>Approximate dimensions: 1/24 scale.</p>
+
+  <h3>About the Toyota 88C-V</h3>
+  <p>The Toyota 88C-V was a Group C sports prototype entered by Toyota in 1988. The race car has a top speed of 375 km/h (233 mph), accelerates from 0–100 km/h (0–62 mph) in 3.8 seconds, produces 809 CV (595 kW; 798 hp) at 8000 rpm, and weighs 850 kg (1,870 lb). It is the successor to the Toyota 88C and the predecessor to the Toyota 89C-V. Designed and built by Dome, the 88C-V features a new design developed around Toyota's R32V 3.2 L (200 cu in) turbocharged V8 engine, replacing the previous model's inline-4. The car competed in the All Japan Sports Prototype Championship.</p>
+  
+  <h3>Racing History</h3>
+  <p>The 88C-V made its debut at the 1988 Fuji 500 miles with a single car entered for Geoff Lees, Masanori Sekiya, and Keiichi Suzuki but couldn't finish due to mechanical issues. It later participated in the Japanese round of the World Sports-Prototype Championship, finishing but classified last.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/hmin.jpg"
 thumbnails:
