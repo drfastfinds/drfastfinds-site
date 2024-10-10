@@ -2,11 +2,13 @@
 layout: product
 title: Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale
 price: 100.00
-youtube_link: "https://youtube.com/shorts/qtSTcmoXqks?feature=share"  # Add a YouTube link if you have one
+youtube_link: "https://www.youtube.com/watch?v=5jZxajKhcs8"
 description: |
   <p>The Tamiya Toyota Gazoo Racing TS050 Hybrid is a must-have model for motorsport enthusiasts and collectors alike. Limited to 3 per household, this high-quality kit accurately reproduces the body form of the actual TS050, focusing on aerodynamics and incorporating various aero devices, just like the real vehicle.</p>
 
-  <p>This model features a plated cockpit roof, detailed door mirrors, and front LED lights represented by inlet marks. The kit includes decals for the 7th and 8th cars, along with masking stickers for different colors.</p>
+  <p>The Toyota TS050 Hybrid, a closed-monocoque LMP1 hybrid sports prototype, is the direct successor to the TS040 Hybrid and debuted in the FIA World Endurance Championship in 2016. It features a 2.4L V6 twin-turbocharged engine combined with an advanced hybrid system, producing a total of 1000 hp. Despite its challenges, the TS050 clinched the 2019–20 FIA World Endurance Championship.</p>
+
+  <p>This model captures the essence of the iconic TS050 with plated cockpit roof details, LED lights, and decals for the 7th and 8th cars. The kit also includes masking stickers for different colors. Build enthusiasts can recreate the dramatic aerodynamics that defined Toyota's LMP1 prototype as it contended at Le Mans and other FIA endurance races.</p>
 
   <p>Approximate dimensions: Total length = 194 mm.</p>
 
@@ -37,7 +39,7 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-    <p class="youtube-link">For more details, check out the product video here: 
+    <p class="youtube-link">For more details, check out the product build video here: 
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
     <p>Read more about the Tamiya Toyota Gazoo Racing TS050 on our blog: 
