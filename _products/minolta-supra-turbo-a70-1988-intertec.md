@@ -32,7 +32,7 @@ thumbnails:
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-        <p class="youtube-link">For more details, check out the product video here: 
+        <p class="youtube-link">For a more detailed look, check out T-GARAGE carmodel builder's video here: 
             <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
         </p>
         <p>Read more about the Hasegawa Minolta Supra Turbo A70 on our blog: 
