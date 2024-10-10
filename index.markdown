@@ -203,8 +203,8 @@ title: Dr. Fast Finds
 <!-- Studio27 BMW F1.06 Sauber -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/studio27-bmw-f106">
-        <img src="{{ site.baseurl }}/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber 1/24 Scale">
-        <p>Studio27 BMW F1.06 Sauber 1/24 Scale</p>
+        <img src="{{ site.baseurl }}/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber 1/20 Scale">
+        <p>Studio27 BMW F1.06 Sauber 1/20 Scale</p>
         <p>Price: $385.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
