@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Porsche 911 1969 Spa-Francorchamps 24th 1st"
+title: "Porsche 911 1969 Spa-Francorchamps 24th 1st #39 G.Chasseuil / C.Ballot-Lena"
 price: 190.00
 youtube_link: "https://youtube.com/shorts/rSwsy5qdHQ8?feature=share"
 description: |
