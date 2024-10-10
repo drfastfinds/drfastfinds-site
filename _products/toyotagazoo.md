@@ -2,7 +2,7 @@
 layout: product
 title: Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale
 price: 100.00
-youtube_link: "https://www.youtube.com/watch?v=5jZxajKhcs8"
+youtube_link: "https://youtube.com/shorts/qtSTcmoXqks?feature=share"
 description: |
   <p>The Tamiya Toyota Gazoo Racing TS050 Hybrid is a must-have model for motorsport enthusiasts and collectors alike. Limited to 3 per household, this high-quality kit accurately reproduces the body form of the actual TS050, focusing on aerodynamics and incorporating various aero devices, just like the real vehicle.</p>
 
@@ -27,6 +27,11 @@ thumbnails:
     </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
+        
+        <!-- Embedded build video -->
+        <p>For a closer look, see Scaled Down Customs' video:</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5jZxajKhcs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
     </div>
@@ -39,10 +44,11 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-    <p class="youtube-link">For more details, check out the product build video:</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5jZxajKhcs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Read more about the Tamiya Toyota Gazoo Racing TS050 on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/toyota%20gazoo%20racing/ts050%20hybrid/2024/09/25/toyota-gazoo-ts050.html">The Tamiya Toyota Gazoo Racing TS050 Hybrid: A Collector's Model</a>
+    </p>
+    <p>Watch the product video here: 
+        <a href="{{ page.youtube_link }}" target="_blank">View on YouTube Shorts</a>
     </p>
 </div>
 
