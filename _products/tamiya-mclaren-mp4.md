@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Tamiya 1/12 McLaren MP4 1/12 Scale"
+title: "Tamiya 1/12 McLaren MP4"
 price: 620.00
 youtube_link: ""  # Add a YouTube link if you have one
 description: |
