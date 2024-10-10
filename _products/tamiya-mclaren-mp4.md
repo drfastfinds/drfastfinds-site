@@ -4,7 +4,9 @@ title: "Tamiya 1/12 McLaren MP4 1/12 Scale"
 price: 620.00
 youtube_link: ""  # Add a YouTube link if you have one
 description: |
-  <p>The Tamiya 1/12 McLaren MP4 model kit is a stunning representation of the legendary McLaren Formula 1 car. This highly detailed model is perfect for serious model builders and F1 fans alike, offering a 1/12 scale build that captures the technical brilliance and racing spirit of the iconic MP4.</p>
+  <p>The Tamiya 1/12 McLaren MP4 model kit is a stunning representation of the legendary McLaren Formula 1 car. This highly detailed model is perfect for serious model builders and F1 fans alike, offering a 1/12 scale build that captures the technical brilliance and racing spirit of the iconic MP4/6.</p>
+
+  <p>The McLaren MP4/6 is a Formula One racing car designed by McLaren's Neil Oatley, Matthew Jeffreys, David North, David Neilson, Bob Bell, and Mike Gascoyne; powered by the Honda RA121E V12 engine for use in the 1991 Formula One season, with the engine's design and development led by Osamu Goto. It was driven by reigning World Champion, Brazilian Ayrton Senna, and Austria's Gerhard Berger. Ayrton Senna would win his third World Championship in the MP4/6. The MP4/6 was notable for being the last F1 car to win the championship with a manual gearbox and the only F1 car powered by a V12 engine to do so.</p>
 
   <p>This premium kit includes fine details, from the engine components to the aerodynamic features, providing a realistic and challenging build for experienced modelers.</p>
 
