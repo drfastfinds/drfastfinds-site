@@ -12,10 +12,10 @@ description: |
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/t2000.jpg"
 thumbnails:
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-1.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-2.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-3.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-1.png"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-2.png"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-3.png"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-4.png"
 ---
 
 <div class="product-detail">
