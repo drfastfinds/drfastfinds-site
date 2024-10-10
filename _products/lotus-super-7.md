@@ -2,7 +2,7 @@
 layout: product
 title: "Tamiya Lotus Super 7 Series II: A Classic Roadster"
 price: 65.00
-youtube_link: "https://youtube.com/shorts/1BtwaSTqewc?feature=share"
+youtube_link: "https://www.youtube.com/watch?v=vzSoMvOCPcw"
 description: |
   <p>The Tamiya Lotus Super 7 Series II is an iconic model kit for fans of classic roadsters. Known for its lightweight design and incredible performance, this model kit captures the essence of the legendary Lotus Super 7. Whether you're a car enthusiast or a model kit hobbyist, this is a fantastic addition to your collection.</p>
 
@@ -36,9 +36,8 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-    <p class="youtube-link">For more details, check out the product video here: 
-        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
-    </p>
+    <p class="youtube-link">For more details, check out the product video here:</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vzSoMvOCPcw" frameborder="0" allowfullscreen></iframe>
     <p>Read more about the Lotus Super 7 on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/lotus%20super%207/classic%20cars/2024/09/25/lotus-super7.html" target="_blank">Lotus Super 7 Series II</a>
     </p>
