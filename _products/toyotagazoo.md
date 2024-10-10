@@ -42,6 +42,7 @@ thumbnails:
     <p class="youtube-link">For more details, check out the product build video here: 
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
+    <p class="youtube-link">For a closer look, see <a href="https://www.youtube.com/watch?v=5jZxajKhcs8" target="_blank">Scaled Down Customs' video...</a></p>
     <p>Read more about the Tamiya Toyota Gazoo Racing TS050 on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/toyota%20gazoo%20racing/ts050%20hybrid/2024/09/25/toyota-gazoo-ts050.html">The Tamiya Toyota Gazoo Racing TS050 Hybrid: A Collector's Model</a>
     </p>
