@@ -2,15 +2,19 @@
 layout: product
 title: "Studio27 BMW F1.06 Sauber 1/24 Scale"
 price: 385.00
-youtube_link: ""  # Add a YouTube link if you have one
+youtube_link: "https://www.youtube.com/watch?v=1vwBcPXk3tA"
 description: |
   <p>The Studio27 BMW F1.06 Sauber is a premium 1/24 scale model kit, offering a highly detailed and accurate representation of the BMW Sauber F1 car. This kit is perfect for advanced model builders looking to replicate the famous F1.06 from BMW's 2006 Formula 1 season.</p>
 
-  <p>With intricate parts and a focus on precision, this model captures the spirit of BMW's engineering excellence. It's a fantastic addition to any Formula 1 enthusiast's collection, showcasing a pivotal moment in Sauber's racing history.</p>
+  <p>The BMW Sauber F1.06 was driven by German Nick Heidfeld and Canadian Jacques Villeneuve, with Pole Robert Kubica replacing Villeneuve before the season's end. This was BMW's first full season as a team, previously having only supplied engines. The car, designed by Willy Rampf, Jacky Eeckelaert, and Seamus Mullarkey, was powered by a competitive engine, surprising many with its podium finishes.</p>
+
+  <p>Throughout the season, the F1.06 showed impressive form with two podium finishes—one for Heidfeld at the Hungaroring and another for Kubica at Monza. The car's innovative features included a flexible rear wing and some other design elements that drew attention throughout the season. The team's livery featured traditional BMW blue and white with red accents, making it a standout on the track.</p>
 
   <p>Approximate dimensions: 1/24 scale.</p>
 
   <p>Care Instructions: Handle with care during assembly, and follow the detailed instructions included for best results.</p>
+
+  <p>For a closer look at the model, check out the video here: <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/bms.jpg"
 thumbnails: []
@@ -28,9 +32,6 @@ thumbnails: []
 </div>
 
 <div style="text-align: center;">
-    <p class="youtube-link">For more details, check out the product video here: 
-        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
-    </p>
     <p>Read more about the Studio27 BMW F1.06 Sauber on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/studio27/bmw/f1/2024/09/25/studio27-bmw-f1-06-sauber.html">Studio27 BMW F1.06 Sauber</a>
     </p>
