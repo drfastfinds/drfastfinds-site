@@ -14,7 +14,8 @@ description: |
 
   <p>Care Instructions: Handle with care during assembly, and follow the detailed instructions included for best results.</p>
 
-  <p>For a closer look at the model, check out the video here: <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>.</p>
+  <p>For a closer look at the model, check out the video here:</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1vwBcPXk3tA" frameborder="0" allowfullscreen></iframe>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/bms.jpg"
 thumbnails: []
