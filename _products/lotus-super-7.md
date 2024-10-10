@@ -36,7 +36,7 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-    <p class="youtube-link">For more details, check out the product video here:</p>
+    <p class="youtube-link">For a closer look, check out Grand Makett Autó's build video here:</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vzSoMvOCPcw" frameborder="0" allowfullscreen></iframe>
     <p>Read more about the Lotus Super 7 on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/lotus%20super%207/classic%20cars/2024/09/25/lotus-super7.html" target="_blank">Lotus Super 7 Series II</a>
