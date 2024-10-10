@@ -10,9 +10,22 @@ description: |
 
   <p>This premium kit includes fine details, from the engine components to the aerodynamic features, providing a realistic and challenging build for experienced modelers.</p>
 
+  <p>For a closer look, check out the videos from Scalewheels and Hussein El Kaissy:</p>
+  
+  <p>Scalewheels Build Video:</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qmZVwPwAZB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <p>Hussein El Kaissy Build Video:</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h36-8ZOGRhQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   <p>Approximate dimensions: 1/12 scale.</p>
 
   <p>Care Instructions: Handle with care during assembly.</p>
+
+  <p>For the best results, consider purchasing the full set: 
+  <a href="https://drfastfinds.github.io/drfastfinds-site/products/top-studio-mp4" target="_blank">Top Studio MP4 Set</a> 
+  and 
+  <a href="https://drfastfinds.github.io/drfastfinds-site/products/mclaren-mp46-tabu-design" target="_blank">the McLaren MP4/6 Tabu Design Decals</a> to enhance the historical accuracy of your build.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tmc.jpg"
 thumbnails:
@@ -43,7 +56,7 @@ thumbnails:
     <p class="youtube-link">For more details, check out the product video here: 
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
-    <p>Read more about the Tamiya 1/12 McLaren MP4 1/12 Scale on our blog: 
+    <p>Read more about the Tamiya 1/12 McLaren MP4 on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/mclaren/mp4/2024/09/25/tamiya-mclaren-mp4.html">Tamiya McLaren MP4</a>
     </p>
 </div>
