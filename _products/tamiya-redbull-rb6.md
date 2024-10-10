@@ -6,7 +6,9 @@ youtube_link: ""  # Add a YouTube link if you have one
 description: |
   <p>The Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix model is an exceptional kit for enthusiasts and collectors. This detailed model captures the essence of one of the most successful Formula 1 cars in history, known for its innovative design and high performance.</p>
 
-  <p>With precise detailing and high-quality materials, this model kit offers a rewarding building experience, allowing you to recreate the iconic look of the Red Bull RB6.</p>
+  <p>The RB6 was the car that brought Red Bull Racing its first Constructors' and Drivers' World Championship in 2010, driven by Sebastian Vettel and Mark Webber. With a 2.4L Renault RS27 V8 engine, limited to 18,000 RPM, and an aerodynamic design by Adrian Newey, the RB6 was a dominant force on the track. It secured 9 race victories, 15 pole positions, and 6 fastest laps during the season.</p>
+
+  <p>This model kit by Tamiya offers precise detailing and high-quality materials, allowing you to recreate the iconic look of the Red Bull RB6 with its distinct carbon fiber composite chassis and pushrod suspension. The attention to detail includes the semi-automatic gearbox and Bridgestone tires on 13" OZ wheels.</p>
 
   <p>Approximate dimensions: 1/20 scale.</p>
 
