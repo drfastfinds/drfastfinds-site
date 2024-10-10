@@ -29,7 +29,7 @@ img.featured-image {
   <h1>Inter Allied Toyota 2000 GT</h1>
 
   <figure>
-    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/t2000.jpg" alt="Inter Allied Toyota 2000 GT" class="featured-image">
+    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-4.png" alt="Inter Allied Toyota 2000 GT" class="featured-image">
     <figcaption class="credit-note">The <em>Toyota 2000GT</em> Speed Record Car Kit by <em>Inter Allied</em>.</figcaption>
   </figure>
 
