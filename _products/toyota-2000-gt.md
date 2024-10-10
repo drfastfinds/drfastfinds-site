@@ -10,7 +10,7 @@ description: |
 
   <p>Approximate dimensions: 1/24 scale.</p>
 
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/t2000.jpg"
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-4.png"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-1.png"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-2.png"
