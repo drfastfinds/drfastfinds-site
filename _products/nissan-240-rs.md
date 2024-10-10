@@ -10,7 +10,7 @@ description: |
 
   <p>Approximate dimensions: 1/24 scale.</p>
 
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.jpg"
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-1.png"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-2.png"
