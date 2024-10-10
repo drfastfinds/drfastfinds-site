@@ -29,7 +29,7 @@ img.featured-image {
   <h1>Beemax Nissan 240 RS</h1>
 
   <figure>
-    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.jpg" alt="Beemax Nissan 240 RS" class="featured-image">
+    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png" alt="Beemax Nissan 240 RS" class="featured-image">
     <figcaption class="credit-note">The <em>Beemax Nissan 240 RS</em>, a remarkable rally model kit.</figcaption>
   </figure>
 
