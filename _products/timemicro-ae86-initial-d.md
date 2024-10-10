@@ -2,11 +2,28 @@
 layout: product
 title: TimeMicro AE86 Initial D Anime Version 1/64 Scale Model
 price: 45.00
-youtube_link: "https://youtube.com/shorts/mNlnAmBNDQ8?feature=share"  # Add a YouTube link if you have one
+youtube_link: "https://youtube.com/shorts/mNlnAmBNDQ8?feature=share"
 description: |
   <p>The TimeMicro AE86 Initial D Anime Version is a fantastic model for fans of the legendary anime and car culture. This 1/64 scale model beautifully captures the essence of the iconic Toyota AE86, known for its role in Initial D and its reputation as a lightweight, agile performance vehicle.</p>
 
-  <p>Perfectly detailed and crafted, this model is a must-have for collectors and enthusiasts alike. The vibrant design reflects the character's spirit and the thrill of street racing in the anime.</p>
+  <p>Commonly referred to as the eight-six or "Hachi-Roku," this car became an icon for a generation and continues to influence automotive enthusiasts. The GT Apex version, driven by Takumi Fujiwara in the anime, was praised for its perfect weight-to-power ratio, with a curb weight of around 950 kg and an output of 150 hp.</p>
+
+  <p>Takumi's AE86, a Toyota Sprinter Trueno, is meticulously crafted in this scale model, reflecting the car's unique specifications from the series:</p>
+
+  <ul>
+    <li>Model: Sprinter Trueno GT Apex</li>
+    <li>Year: 1983</li>
+    <li>Chassis: AE86</li>
+    <li>Engine: 1.6L DOHC 16v 4A-GE</li>
+    <li>Power: 150 hp (110 kW)</li>
+    <li>Weight: 950 kg approx.</li>
+    <li>Transmission: 5-speed manual</li>
+    <li>Traction: FR</li>
+  </ul>
+
+  <p>In the story, Takumi's father, Bunta Fujiwara, made significant modifications to the car, including upgrading the engine to a Group A spec 4A-GE 20v with 240 hp at 11,000 rpm, making it a formidable competitor in the racing world.</p>
+
+  <p>This model is a must-have for collectors and Initial D fans, showcasing the spirit of drifting and street racing that made the AE86 famous.</p>
 
   <p>Approximate dimensions: 1/64 scale.</p>
 
