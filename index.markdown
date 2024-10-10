@@ -213,8 +213,8 @@ title: Dr. Fast Finds
 <!-- Porsche 911 1969 Spa-Francorchamps -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/porsche-911-spa-francorchamps">
-        <img src="{{ site.baseurl }}/assets/images/tp911.jpg" alt="Porsche 911 1969 Spa-Francorchamps 24th 1st">
-        <p>Porsche 911 1969 Spa-Francorchamps 24th 1st</p>
+        <img src="{{ site.baseurl }}/assets/images/tp911.jpg" alt="Porsche 911 1969 Spa-Francorchamps 24th 1st #39 G.Chasseuil / C.Ballot-Lena">
+        <p>Porsche 911 1969 Spa-Francorchamps 24th 1st #39 G.Chasseuil / C.Ballot-Lena</p>
         <p>Price: $190.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
