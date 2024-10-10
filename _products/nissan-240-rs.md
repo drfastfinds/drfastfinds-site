@@ -12,10 +12,10 @@ description: |
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.jpg"
 thumbnails:
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-1.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-2.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-3.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-1.png"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-2.png"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-3.png"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-4.png"
 ---
 
 <div class="product-detail">
