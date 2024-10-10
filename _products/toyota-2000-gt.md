@@ -10,6 +10,12 @@ description: |
 
   <p>Approximate dimensions: 1/24 scale.</p>
 
+  <h3>Guide: Toyota 2000 GT World Speed Record</h3>
+  <p>After encouraging results with the 2000 GT-based 311 S at the 1966 Japanese Grand Prix and Suzuka 1000km, Toyota decided to attempt a series of high speed endurance records. The location chosen was Yatabe, where the Japanese Automobile Research Institute had opened a proving ground.</p>
+  <p>Over three days in early October, Toyota aimed to set records from 1000 to 5000 miles, 6 to 72 hours, and 2000 to 15,000 kilometers. The car used was an aluminum-bodied pre-production prototype, specially prepared for the event.</p>
+  <p>After modifications, including engine enhancements and aerodynamic adjustments, the record attempt was made with a team of five drivers sustaining an average speed of over 200 km/h for three days, resulting in 13 new international records.</p>
+  <p>Unfortunately, the record car was later destroyed in a pace car accident, but a replica exists in the factory collection.</p>
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-4.png"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-1.png"
