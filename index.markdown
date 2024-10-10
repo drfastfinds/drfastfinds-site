@@ -251,7 +251,7 @@ title: Dr. Fast Finds
 
 <div class="product">
         <a href="{{ site.baseurl }}/products/toyota-2000-gt">
-            <img src="{{ site.baseurl }}/assets/images/t2000.jpg" alt="Inter Allied Toyota 2000 GT">
+            <img src="{{ site.baseurl }}/assets/images/2000gt-4.png" alt="Inter Allied Toyota 2000 GT">
             <p>Inter Allied Toyota 2000 GT</p>
             <p>Price: $150.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
