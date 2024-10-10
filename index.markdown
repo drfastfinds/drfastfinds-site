@@ -297,7 +297,7 @@ title: Dr. Fast Finds
  <div class="product">
         <a href="{{ site.baseurl }}/products/nissan-240-rs">
             <img src="{{ site.baseurl }}/assets/images/nsnr.png" alt="Beemax Nissan 240 RS">
-            <p>Beemax Nissan 240 RS</p>
+            <p>Nissan 240 RS '84 Safari Rally</p>
             <p>Price: $155.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
