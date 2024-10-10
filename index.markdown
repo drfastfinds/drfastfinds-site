@@ -183,7 +183,7 @@ title: Dr. Fast Finds
 <!-- Tamiya 1/12 McLaren MP4 -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/tamiya-mclaren-mp4">
-        <img src="{{ site.baseurl }}/assets/images/tmc.jpg" alt="Tamiya 1/12 McLaren MP4 1/12 Scale">
+        <img src="{{ site.baseurl }}/assets/images/tmc.jpg" alt="Tamiya 1/12 McLaren MP4/6">
         <p>Tamiya 1/12 McLaren MP4 1/12 Scale</p>
         <p>Price: $620.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
