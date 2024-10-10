@@ -258,14 +258,14 @@ title: Dr. Fast Finds
         </a>
     </div>
 
- <div class="product">
-        <a href="{{ site.baseurl }}/products/toyota-88c-v">
-            <img src="{{ site.baseurl }}/assets/images/hmin.jpg" alt="Hasegawa Minolta Toyota 88C-V: Iconic Racing Machine">
-            <p>Hasegawa Minolta Toyota 88C-V: Iconic Racing Machine</p>
-            <p>Price: $80.00</p>
-            <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-        </a>
-    </div>
+<div class="product">
+    <a href="{{ site.baseurl }}/products/minolta-supra-turbo-a70-1988-intertec">
+        <img src="{{ site.baseurl }}/assets/images/hmin.jpg" alt="Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` (Model Car)">
+        <p>Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` (Model Car)</p>
+        <p>Price: $18.56</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
 
 <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-japan">
