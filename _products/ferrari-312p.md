@@ -48,7 +48,7 @@ Product Details and Features:
 </div>
 
 <div class="youtube-link">
-    <h3>Watch the Ferrari 312P in Action</h3>
+    <h3>Watch the Ferrari 312P Video</h3>
     <iframe width='560' height='315' src='{{ page.youtube_link }}' frameborder='0' allowfullscreen></iframe>
 </div>
 
