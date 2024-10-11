@@ -6,14 +6,19 @@
     <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
     <title>{{ page.title }} | Dr. Fast Finds</title>
     <style>
+        /* Global styles go here */
+
         /* Ensure the header uses flexbox for layout */
         header {
             display: flex;
-            justify-content: space-between; /* Space out logo, nav, */
-            align-items: center; /* Vertically center items */
+            justify-content: space-between; /* Space out logo, nav */
+            align-items: center;
             padding: 10px;
             background-color: #f8f9fa; /* Optional background color */
-            position: relative; /* Allows positioning of children */
+            position: sticky; /* Sticky header */
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
         }
 
         /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
@@ -37,27 +42,73 @@
             margin-right: 10px; /* Adds some space on the right */
         }
 
+        /* Styling changes */
+        body {
+            background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
 
+        /* Button styling */
+        .buy-now {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 15px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1em;
+            font-weight: bold;
+            margin-top: 10px;
+        }
 
+        .buy-now:hover {
+            background-color: #0056b3;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
 
+        .sold-out {
+            color: red;
+            font-weight: bold;
+        }
+
+        /* Image hover effect */
+        .product-image-box img {
+            transition: transform 0.3s ease;
+        }
+
+        .product-image-box img:hover {
+            transform: scale(1.05);
+        }
+
+        footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
 
     <!-- Header with Clickable Logos -->
     <header>
-        <!-- Dr. Fast Finds logo on the left -->
         <a href="{{ site.baseurl }}/">
             <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
         </a>
-
-
-        <!-- Mercado Libre logo and blog link on the right -->
         <nav>
-            <!-- Blog link -->
             <a href="{{ site.baseurl }}/blog.html">Blog</a>
-            
-            <!-- Mercado Libre link -->
             <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
                 <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo">
             </a>
@@ -69,9 +120,10 @@
         {{ content }}
     </main>
 
-    <!-- Footer (Optional) -->
+    <!-- Footer -->
     <footer>
-        <!-- Footer content here -->
+        &copy; {{ site.time | date: "%Y" }} Dr. Fast Finds. All rights reserved.
+        <a href="{{ site.baseurl }}/contact.html">Contact Us</a>
     </footer>
 
 </body>
