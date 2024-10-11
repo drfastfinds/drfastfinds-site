@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "TPC 1:64 RWB 993 1/64 Scale Model"
+title: "TPC 1/64 RWB 993 1/64 Scale Model"
 price: 35.00
 youtube_link: "https://youtube.com/shorts/vtYmvZLs2nM?feature=share"
 description: >
