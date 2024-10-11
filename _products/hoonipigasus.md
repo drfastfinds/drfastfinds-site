@@ -10,12 +10,12 @@ description: |
   
   <p>Approximate dimensions: 1/43 scale.</p>
   
-image: "{{ site.baseurl }}/assets/images/hpig-4.jpg"
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/hpig-4.jpg"
 thumbnails:
-  - "{{ site.baseurl }}/assets/images/hpig-1.jpg"
-  - "{{ site.baseurl }}/assets/images/hpig-2.jpg"
-  - "{{ site.baseurl }}/assets/images/hpig-3.jpg"
-  - "{{ site.baseurl }}/assets/images/hpig-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hpig-1.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hpig-2.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hpig-3.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hpig-4.jpg"
 ---
 
 <div class="product-detail">
@@ -38,7 +38,7 @@ thumbnails:
 <div style="text-align: center;">
     <p class="youtube-link">For an overview, check out the product video here:</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n8B37CEhEwQ" frameborder="0" allowfullscreen></iframe>
-    <p class="youtube-link">For a closer look, watch Aulgarage's review here:</p>
+    <p class="youtube-link">For a closer look, watch Aulgarage's review below:</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/y_HPB8HF540" frameborder="0" allowfullscreen></iframe>
     <p>Read more about the Hoonipigasus on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/2024/09/10/hoonipigasus-legendary-porsche.html" target="_blank">Hoonipigasus: A Legendary Porsche, Racing to the Clouds</a>
