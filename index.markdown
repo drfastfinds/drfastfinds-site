@@ -22,11 +22,12 @@ title: Dr. Fast Finds
 }
 
 .product img {
-    max-width: 100%;
-    height: 150px;
-    object-fit: cover;
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image covers the container */
     display: block;
     margin: 0 auto;
+    border-radius: 8px; /* To match the product card's border radius */
 }
 
 .product p {
