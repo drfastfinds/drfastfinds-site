@@ -40,22 +40,21 @@ thumbnails:
 <div class="product-detail">
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
+        <div class="thumbnail-carousel">
+            {% for thumbnail in page.thumbnails %}
+            <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+            {% endfor %}
+        </div>
     </div>
-    <div class="thumbnail-carousel">
-        {% for thumbnail in page.thumbnails %}
-        <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
-        {% endfor %}
+    <div class="video-container">
+        <h3>For a closer look, check out the detail video here:</h3>
+        <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
     </div>
-</div>
-
-<div class="video-container" style="text-align: center; margin-top: 20px;">
-    <h3>For a closer look, check out the detail video here:</h3>
-    <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
@@ -67,7 +66,6 @@ thumbnails:
 <style>
 .product-detail {
     display: flex;
-    flex-direction: column; /* Changed to column */
     align-items: flex-start;
     gap: 20px;
     margin-bottom: 20px;
@@ -76,19 +74,18 @@ thumbnails:
 .product-image-box {
     flex-shrink: 0;
     width: 500px; 
-    height: 300px; 
-    overflow: hidden; 
+    height: auto; 
 }
 
 .main-image {
     width: 100%; 
-    height: 100%; 
+    height: auto; 
     object-fit: contain; 
     display: block;
 }
 
 .thumbnail-carousel {
-    margin-top: 10px; /* Reduced margin */
+    margin-top: 10px; 
     display: flex;
     flex-wrap: wrap; 
     gap: 10px;
@@ -102,13 +99,17 @@ thumbnails:
     border-radius: 4px;
 }
 
+.video-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Center the video container */
+    max-width: 560px; /* Ensure the video container doesn't exceed the iframe width */
+}
+
 .product-text {
     max-width: 400px;
     flex-grow: 1;
-}
-
-.video-container {
-    margin-top: 20px;
 }
 
 .buy-now {
