@@ -274,7 +274,7 @@ title: Dr. Fast Finds
     <a href="{{ site.baseurl }}/products/minolta-supra-turbo-a70-1988-intertec">
         <img src="{{ site.baseurl }}/assets/images/hmin.jpg" alt="Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` (Model Car)">
         <p>Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` (Model Car)</p>
-        <p>Price: $18.56</p>
+        <p>Price: $80.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
