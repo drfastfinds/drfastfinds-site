@@ -45,9 +45,6 @@ thumbnails:
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-        <p class="youtube-link">For a closer look, check out PenrysCars Diecast detail video here: 
-            <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
-        </p>
     </div>
 </div>
 
@@ -57,7 +54,12 @@ thumbnails:
     {% endfor %}
 </div>
 
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center; margin-top: 20px;">
+    <h3>For a closer look, check out the detail video here:</h3>
+    <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
     <p>Read more about the Exoto | 1/18 | Ford GT40 MK II Roadster 1966 on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast%20models/exoto/ford/gt40/2024/09/25/exoto-ford-gt40-mk-ii-roadster-1966.html" target="_blank">Exoto | 1/18 | Ford GT40 MK II Roadster 1966</a>
     </p>
@@ -105,10 +107,8 @@ thumbnails:
     border-radius: 4px;
 }
 
-.youtube-link {
-    text-align: center;
+.video-container {
     margin-top: 20px;
-    font-size: 16px;
 }
 
 .buy-now {
