@@ -8,7 +8,8 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-3.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-4.jpg"
-youtube_link: "https://www.youtube.com/embed/lmYuXr5jG9o"  # Embed link
+youtube_link: "https://www.youtube.com/embed/lmYuXr5jG9o"  # Embed link for the Ferrari 312P
+ac_collection_link: "https://www.youtube.com/embed/m6nGbcmZFgM"  # Embed link for AC Collection
 description: |
   <p>The Bburago Ferrari 312P diecast model is a meticulously crafted tribute to one of Ferrari’s iconic racing cars from the late 1960s. Known for its sleek design and powerful V12 engine, the Ferrari 312P was Ferrari's entry into the highly competitive Group 6 Prototype-Sports Car category, aiming to regain dominance after boycotting the 1968 sports car season.</p>
 
@@ -19,6 +20,14 @@ description: |
   <p>The Bburago model brings this racing legend into your collection, reflecting the fine details of the Ferrari 312P’s body, interior, and engine layout. Whether you're a die-hard Ferrari fan or a collector of motorsport history, this model is a must-have piece.</p>
 
   <p>Approximate dimensions: 1/43 scale.</p>
+
+Product Details and Features:
+- **Brand**: Bburago
+- **Scale**: 1/43
+- **Model**: Ferrari 312P
+- **Color**: Red
+- **Material**: Diecast metal with plastic components
+- **Packaging**: Display box with Ferrari branding
 ---
 
 <div class="product-detail">
@@ -39,13 +48,13 @@ description: |
 </div>
 
 <div class="youtube-link">
-    <h3>Watch the Ferrari 312P in Action</h3>
-    <iframe width='560' height='315' src='{{ page.youtube_link }}' frameborder='0' allowfullscreen></iframe>
+    <h3>For a closer look, see AC Collection's Video</h3>
+    <iframe width='560' height='315' src='{{ page.ac_collection_link }}' frameborder='0' allowfullscreen></iframe>
 </div>
 
 <div style="text-align: center;">
     <p>Read more about the Bburago Ferrari 312P on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/bburago/ferrari/312p/2024/10/09/bburago-ferrari-312p.html" target="_blank">Bburago Ferrari 312P</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/ferrari/bburago/312p/2024/09/25/bburago-ferrari-312p.html" target="_blank">Bburago Ferrari 312P</a>
     </p>
 </div>
 
