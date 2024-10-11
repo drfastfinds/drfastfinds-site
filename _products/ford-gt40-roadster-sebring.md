@@ -67,6 +67,7 @@ thumbnails:
 <style>
 .product-detail {
     display: flex;
+    flex-direction: column; /* Changed to column */
     align-items: flex-start;
     gap: 20px;
     margin-bottom: 20px;
