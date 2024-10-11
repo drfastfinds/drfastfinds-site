@@ -16,8 +16,9 @@ description: |
 
   <p>Approximate dimensions: 1/20 scale.</p>
 
-  <p>Check out Francesco Marchese's build video using the Top Studio detail kit:</p>
+<p>Check out Francesco Marchese's build video using the <a href="https://drfastfinds.github.io/drfastfinds-site/products/ferrari-f2003-ga-detail-up" target="_blank">Top Studio</a> detail kit (which we sell):</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lyetoPi-ZZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
   <p>For more details, check out the product video here: 
   <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a></p>
