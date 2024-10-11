@@ -1,9 +1,104 @@
 ---
-layout: default
-title: {{ page.title }}
+layout: product
 ---
 
-<h1>{{ page.title }}</h1>
-<div class="product-content">
-    {{ content }}
+<div class="product-detail">
+    <div class="product-image-box">
+        <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
+        <div class="thumbnail-carousel">
+            {% for thumbnail in page.thumbnails %}
+            <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+            {% endfor %}
+        </div>
+    </div>
+    <div class="product-video">
+        <p class="youtube-link">
+            For a closer look, check out the video here: 
+            <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
+        </p>
+    </div>
 </div>
+
+<div class="product-text">
+    <p>{{ page.description }}</p>
+    <p>Price: ${{ page.price }}</p>
+    <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
+</div>
+
+<div style="text-align: center;">
+    <p>Read more about this product on our blog: 
+        <a href="{{ page.read_more_link }}" target="_blank">Read More</a>
+    </p>
+</div>
+
+<style>
+.product-detail {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.product-image-box {
+    flex-shrink: 0;
+    width: 500px; 
+    height: auto; 
+}
+
+.main-image {
+    width: 100%; 
+    height: auto; 
+    object-fit: contain; 
+    display: block;
+}
+
+.thumbnail-carousel {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px;
+}
+
+.thumbnail {
+    max-width: 80px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.product-video {
+    flex-grow: 1;
+}
+
+.product-text {
+    margin-top: 20px;
+}
+
+.buy-now {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.buy-now:hover {
+    background-color: #0056b3;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const mainImage = document.querySelector('.main-image');
+    const thumbnails = document.querySelectorAll('.thumbnail');
+
+    thumbnails.forEach(thumbnail => {
+        thumbnail.addEventListener('click', function() {
+            mainImage.src = this.src;
+        });
+    });
+});
+</script>
