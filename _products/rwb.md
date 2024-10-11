@@ -9,6 +9,17 @@ description: |
   <p>New in box. This model features a detailed interior and exterior, showcasing the distinct styling that RWB is renowned for. Made primarily of diecast metal with some plastic components.</p>
 
   <p>Care Instructions: Wipe clean.</p>
+  
+product_details: |
+  <ul>
+    <li><strong>Brand:</strong> TPC</li>
+    <li><strong>Scale:</strong> 1:64</li>
+    <li><strong>Model:</strong> Porsche 993 (RWB Edition)</li>
+    <li><strong>Color:</strong> Custom RWB livery</li>
+    <li><strong>Material:</strong> Diecast metal with plastic components</li>
+    <li><strong>Limited Edition:</strong> Yes, #815/999</li>
+    <li><strong>Packaging:</strong> TPC display box</li>
+  </ul>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
 thumbnails:
