@@ -17,22 +17,22 @@ title: Dr. Fast Finds
     border-radius: 8px;
     padding: 10px;
     text-align: center;
-    width: 200px; /* Set a fixed width for the product container */
-    height: 200px; /* Set a fixed height to create a square */
+    width: 200px; /* Fixed width for the product container */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden; /* Ensure no content overflows */
 }
 
 .product img {
     width: 100%; /* Image takes the full width of the container */
-    height: 100%; /* Image takes the full height of the container */
+    height: auto; /* Keep the image height auto to maintain aspect ratio */
+    max-height: 150px; /* Set a max height for the image */
     object-fit: contain; /* Ensures the entire image is visible within the square */
     display: block;
     margin: 0 auto;
 }
 
 .product p {
-    margin: 10px 0;
+    margin: 5px 0; /* Adjust margins for text */
 }
 
 .buy-now, .add-to-cart {
@@ -50,12 +50,12 @@ title: Dr. Fast Finds
 .buy-now:hover, .add-to-cart:hover {
     background-color: #0056b3;
 }
-     .sold-out {
+.sold-out {
     color: red;
-    font-size: 20px;
+    font-size: 16px; /* Slightly smaller font size for sold-out text */
     font-weight: bold;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 </style>
 
