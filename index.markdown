@@ -314,5 +314,3 @@ title: Dr. Fast Finds
     
 </div>
 
-
-</div>
