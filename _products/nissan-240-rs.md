@@ -10,7 +10,7 @@ description: >
 
   <p>Approximate dimensions: 1/24 scale, total length approximately 187mm.</p>
 
-product_details: >
+product_details: |
   <ul>
     <li><strong>Brand:</strong> Beemax</li>
     <li><strong>Model:</strong> Nissan 240 RS</li>
@@ -33,8 +33,13 @@ thumbnails:
     </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
-        <p>Price: ${{ page.price }}</p>
+        <p><strong>Price:</strong> ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
+
+        <!-- Insert Product Details Here -->
+        <div class="product-details">
+          {{ page.product_details | markdownify }}
+        </div>
     </div>
 </div>
 
