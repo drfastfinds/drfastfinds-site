@@ -46,8 +46,6 @@
 
         .product-detail {
             display: flex;
-            flex-direction: column; /* Column layout for main image and details */
-            align-items: center; /* Center align content */
             max-width: 800px; /* Limit width for better readability */
             margin: auto; /* Center the entire product detail section */
         }
@@ -56,6 +54,7 @@
             max-width: 500px; 
             width: 100%;
             overflow: hidden; 
+            margin-right: 20px; /* Space between image and video */
         }
 
         .main-image {
@@ -65,11 +64,16 @@
             display: block;
         }
 
+        .video-container {
+            width: 300px; /* Fixed width for video */
+            height: 300px; /* Fixed height for video */
+        }
+
         .thumbnail-carousel {
             display: flex;
             flex-wrap: wrap; 
             gap: 10px;
-            justify-content: center; /* Center thumbnails */
+            justify-content: flex-start; /* Align thumbnails to the left */
             margin-top: 20px;
         }
 
@@ -82,7 +86,7 @@
 
         .product-text {
             max-width: 500px; /* Limit the text block width to match the image */
-            text-align: center; /* Center text */
+            text-align: left; /* Left-align text */
             margin-top: 20px; /* Add margin above the text */
         }
 
@@ -142,21 +146,23 @@
             <div class="product-image-box">
                 <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
             </div>
-            <div class="thumbnail-carousel">
-                {% for thumbnail in page.thumbnails %}
-                <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}" onclick="changeMainImage('{{ thumbnail }}')">
-                {% endfor %}
-                <img class="thumbnail" src="{{ page.youtube_link }}" alt="YouTube Video" onclick="changeMainImage('{{ page.youtube_link }}')">
+            <div class="video-container">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ page.youtube_video_id }}" frameborder="0" allowfullscreen></iframe>
             </div>
-            <div class="product-text">
-                <p>{{ page.description }}</p>
-                <p>Price: ${{ page.price }}</p>
-                <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-                <div style="text-align: center; margin-top: 20px;">
-                    <p>Read more about this product on our blog: 
-                        <a href="{{ page.blog_link }}" target="_blank">Read More</a>
-                    </p>
-                </div>
+        </div>
+        <div class="thumbnail-carousel">
+            {% for thumbnail in page.thumbnails %}
+            <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}" onclick="changeMainImage('{{ thumbnail }}')">
+            {% endfor %}
+        </div>
+        <div class="product-text">
+            <p>{{ page.description }}</p>
+            <p>Price: ${{ page.price }}</p>
+            <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
+            <div style="text-align: left; margin-top: 20px;">
+                <p>Read more about this product on our blog: 
+                    <a href="{{ page.blog_link }}" target="_blank">Read More</a>
+                </p>
             </div>
         </div>
     </main>
@@ -169,14 +175,8 @@
 
     <script>
         function changeMainImage(src) {
-            const isYouTube = src.includes('youtube.com') || src.includes('youtu.be');
             const mainImageBox = document.querySelector('.product-image-box');
-
-            if (isYouTube) {
-                mainImageBox.innerHTML = `<iframe width="100%" height="300" src="${src}" frameborder="0" allowfullscreen></iframe>`;
-            } else {
-                mainImageBox.innerHTML = `<img class="main-image" src="${src}" alt="Main Image">`; // Replace image element
-            }
+            mainImageBox.innerHTML = `<img class="main-image" src="${src}" alt="Main Image">`; // Replace image element
         }
     </script>
 
