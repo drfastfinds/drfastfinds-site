@@ -12,7 +12,7 @@ thumbnails: {{ page.thumbnails }}
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
-    
+
     <div class="thumbnail-carousel">
         {% for thumbnail in page.thumbnails %}
         <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
@@ -36,8 +36,8 @@ thumbnails: {{ page.thumbnails }}
 <style>
 .product-detail {
     display: flex;
-    flex-direction: column;
-    align-items: center; /* Center everything */
+    flex-direction: column; /* Stack vertically */
+    align-items: flex-start; /* Align items to the left */
     margin-bottom: 20px;
 }
 
@@ -56,7 +56,7 @@ thumbnails: {{ page.thumbnails }}
 .thumbnail-carousel {
     margin: 10px 0; /* Spacing between the image and thumbnails */
     display: flex;
-    justify-content: center; /* Center the thumbnails */
+    justify-content: flex-start; /* Align thumbnails to the left */
     flex-wrap: wrap; 
     gap: 10px;
 }
@@ -76,7 +76,7 @@ thumbnails: {{ page.thumbnails }}
 
 .product-text {
     max-width: 500px; /* Limit text width to the width of the main image */
-    text-align: center; /* Center the product text */
+    text-align: left; /* Align text to the left */
 }
 
 .buy-now {
