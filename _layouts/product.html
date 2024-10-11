@@ -1,21 +1,25 @@
 ---
 layout: product
+title: {{ page.title }}
+price: {{ page.price }}
+youtube_link: {{ page.youtube_link }}
+description: {{ page.description }}
+image: {{ page.image }}
+thumbnails: {{ page.thumbnails }}
 ---
 
 <div class="product-detail">
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
-        <div class="thumbnail-carousel">
-            {% for thumbnail in page.thumbnails %}
-            <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
-            {% endfor %}
-        </div>
     </div>
-    <div class="product-video">
-        <p class="youtube-link">
-            For a closer look, check out the video here: 
-            <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
-        </p>
+    <div class="thumbnail-carousel">
+        {% for thumbnail in page.thumbnails %}
+        <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+        {% endfor %}
+    </div>
+    <div class="youtube-link">
+        <p>For a closer look, check out the product video here:</p>
+        <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -27,34 +31,34 @@ layout: product
 
 <div style="text-align: center;">
     <p>Read more about this product on our blog: 
-        <a href="{{ page.read_more_link }}" target="_blank">Read More</a>
+        <a href="{{ site.baseurl }}/your-blog-post-url" target="_blank">Read More</a>
     </p>
 </div>
 
 <style>
 .product-detail {
     display: flex;
-    align-items: flex-start;
-    gap: 20px;
+    flex-direction: column;
+    align-items: center; /* Center everything */
     margin-bottom: 20px;
 }
 
 .product-image-box {
-    flex-shrink: 0;
     width: 500px; 
-    height: auto; 
+    height: 300px; 
+    overflow: hidden; 
 }
 
 .main-image {
     width: 100%; 
-    height: auto; 
+    height: 100%; 
     object-fit: contain; 
-    display: block;
 }
 
 .thumbnail-carousel {
-    margin-top: 10px;
+    margin: 10px 0; /* Spacing between the image and thumbnails */
     display: flex;
+    justify-content: center; /* Center the thumbnails */
     flex-wrap: wrap; 
     gap: 10px;
 }
@@ -66,12 +70,14 @@ layout: product
     border-radius: 4px;
 }
 
-.product-video {
-    flex-grow: 1;
+.youtube-link {
+    margin-top: 20px;
+    text-align: center;
 }
 
 .product-text {
-    margin-top: 20px;
+    text-align: center; /* Center the product text */
+    max-width: 600px; /* Limit width for readability */
 }
 
 .buy-now {
@@ -83,6 +89,7 @@ layout: product
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
+    text-align: center;
 }
 
 .buy-now:hover {
