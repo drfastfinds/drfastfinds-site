@@ -10,7 +10,7 @@ description: |
   
   <p>Approximate dimensions: 1/43 scale.</p>
   
-image: "{{ site.baseurl }}/assets/images/hoonihead.jpg"
+image: "{{ site.baseurl }}/assets/images/hpig-4.jpg"
 thumbnails:
   - "{{ site.baseurl }}/assets/images/hpig-1.jpg"
   - "{{ site.baseurl }}/assets/images/hpig-2.jpg"
