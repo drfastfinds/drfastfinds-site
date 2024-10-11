@@ -16,6 +16,12 @@ description: |
 
   <p>Approximate dimensions: 1/20 scale.</p>
 
+  <p>Check out Francesco Marchese's build video using the Top Studio detail kit:</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lyetoPi-ZZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <p>For more details, check out the product video here: 
+  <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a></p>
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/f2003.jpg"
 ---
 
@@ -27,9 +33,6 @@ image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/f2003.jpg"
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-        <p class="youtube-link">For more details, check out the product video here: 
-            <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
-        </p>
         <p>Read more about the Fujimi Ferrari F2003-GA Japan GP on our blog: 
             <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/fujimi/ferrari/f2003-ga/2024/09/25/fujimi-ferrari-f2003-ga-japan-gp.html" target="_blank">Fujimi Ferrari F2003-GA Japan GP</a>
         </p>
