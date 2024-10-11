@@ -22,12 +22,12 @@ description: |
   <p>Approximate dimensions: 1/43 scale.</p>
 
 Product Details and Features:
-- **Brand**: Bburago
-- **Scale**: 1/43
-- **Model**: Ferrari 312P
-- **Color**: Red
-- **Material**: Diecast metal with plastic components
-- **Packaging**: Display box with Ferrari branding
+- Brand: Bburago
+- Scale: 1/43
+- Model: Ferrari 312P
+- Color: Red
+- Material: Diecast metal with plastic components
+- Packaging: Display box with Ferrari branding
 ---
 
 <div class="product-detail">
