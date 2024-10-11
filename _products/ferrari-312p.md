@@ -1,8 +1,8 @@
 ---
+---
 layout: product
-title: "Bburago Ferrari 312P: A Diecast Tribute to Racing History"
-price: 35.00
-youtube_link: ""
+title: "Bburago Ferrari 312P"
+price: 39.99
 description: |
   <p>The Bburago Ferrari 312P is a stunning diecast model that pays homage to one of the most iconic race cars in automotive history. This model beautifully captures the essence of the Ferrari 312P, known for its exceptional performance and rich racing heritage.</p>
 
@@ -10,7 +10,7 @@ description: |
 
   <p>Approximate dimensions: 1/43 scale.</p>
 
-product_details: >
+product_details: |
   <ul>
     <li><strong>Brand:</strong> Bburago</li>
     <li><strong>Scale:</strong> 1/43</li>
@@ -19,7 +19,6 @@ product_details: >
     <li><strong>Material:</strong> Diecast metal with plastic components</li>
     <li><strong>Packaging:</strong> Display box with Ferrari branding</li>
   </ul>
-
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-1.jpg"
