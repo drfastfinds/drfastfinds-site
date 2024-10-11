@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Beemax | 1:24 | Nissan 240 RS '84 Safari Rally"
+title: "Beemax 1/24 Nissan 240 RS '84 Safari Rally"
 price: 155.00
 youtube_link: ""
 description: |
