@@ -59,6 +59,7 @@ title: Order Page
         <option value="porsche-963" data-price="40.00">Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale - $40.00</option>
         <option value="A110" data-price="155.00">Trofeu Alpine A110 1/43 Scale Model - $155.00</option>
         <option value="rwb" data-price="35.00">TPC 1:64 RWB 993 1/64 Scale Model - $35.00</option>
+        <option value="ferrari-312p" data-price="50.00">Hoonipigasus: Ken Block's Porsche Racing Legend - $50.00/option>
         <option value="toyotagazoo" data-price="100.00">Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale - $100.00</option>
         <option value="timemicro-ae86-initial-d" data-price="45.00">TimeMicro AE86 Initial D Anime Version 1/64 Scale Model - $45.00</option>
         <option value="timemicro-tiffany-blue-trailer" data-price="70.00">TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder - $70.00</option>
