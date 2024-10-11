@@ -18,18 +18,17 @@ title: Dr. Fast Finds
     padding: 10px;
     text-align: center;
     width: 200px; /* Set a fixed width for the product container */
-    height: 250px; /* Adjust height to accommodate image and text */
+    height: 200px; /* Set a fixed height to create a square */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden; /* Ensure no content overflows */
 }
 
 .product img {
     width: 100%; /* Image takes the full width of the container */
-    height: 200px; /* Fix the height for the image */
-    object-fit: cover; /* Ensure image covers the area without stretching */
+    height: 100%; /* Image takes the full height of the container */
+    object-fit: contain; /* Ensures the entire image is visible within the square */
     display: block;
     margin: 0 auto;
-    border-radius: 8px;
 }
 
 .product p {
