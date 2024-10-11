@@ -33,8 +33,10 @@ image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/f2003.jpg"
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-        <p>Read more about the Fujimi Ferrari F2003-GA Japan GP on our blog: 
-            <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/fujimi/ferrari/f2003-ga/2024/09/25/fujimi-ferrari-f2003-ga-japan-gp.html" target="_blank">Fujimi Ferrari F2003-GA Japan GP</a>
+       <p>We also recommend the <a href="https://drfastfinds.github.io/drfastfinds-site/products/ferrari-f2003-ga-detail-up" target="_blank">Ferrari F2003-GA Super Detail-Up Set by Top Studio</a> for achieving an even higher level of detail in your model build.</p>
+
+<p>Read more about the Fujimi Ferrari F2003-GA Japan GP on our blog: 
+    <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/fujimi/ferrari/f2003-ga/2024/09/25/fujimi-ferrari-f2003-ga-japan-gp.html" target="_blank">Fujimi Ferrari F2003-GA Japan GP</a>
         </p>
     </div>
 </div>
