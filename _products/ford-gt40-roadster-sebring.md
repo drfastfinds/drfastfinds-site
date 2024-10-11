@@ -41,17 +41,16 @@ thumbnails:
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
+    <div class="thumbnail-carousel">
+        {% for thumbnail in page.thumbnails %}
+        <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+        {% endfor %}
+    </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
     </div>
-</div>
-
-<div class="thumbnail-carousel">
-    {% for thumbnail in page.thumbnails %}
-    <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
-    {% endfor %}
 </div>
 
 <div class="video-container" style="text-align: center; margin-top: 20px;">
@@ -87,13 +86,8 @@ thumbnails:
     display: block;
 }
 
-.product-text {
-    max-width: 400px;
-    flex-grow: 1;
-}
-
 .thumbnail-carousel {
-    margin-top: 20px;
+    margin-top: 10px; /* Reduced margin */
     display: flex;
     flex-wrap: wrap; 
     gap: 10px;
@@ -105,6 +99,11 @@ thumbnails:
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 4px;
+}
+
+.product-text {
+    max-width: 400px;
+    flex-grow: 1;
 }
 
 .video-container {
