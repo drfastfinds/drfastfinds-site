@@ -2,32 +2,20 @@
 layout: product
 title: "Bburago Ferrari 312P 1/43 Scale Model"
 price: 35.00
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"  # Main image
-thumbnails:
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-1.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-2.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-3.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-4.jpg"
-youtube_link: "https://www.youtube.com/embed/lmYuXr5jG9o"  # Embed link for the Ferrari 312P
-ac_collection_link: "https://www.youtube.com/embed/m6nGbcmZFgM"  # Embed link for AC Collection
-description: |
-  <p>The Bburago Ferrari 312P diecast model is a meticulously crafted tribute to one of Ferrari’s iconic racing cars from the late 1960s. Known for its sleek design and powerful V12 engine, the Ferrari 312P was Ferrari's entry into the highly competitive Group 6 Prototype-Sports Car category, aiming to regain dominance after boycotting the 1968 sports car season.</p>
-
-  <p>This 1/43 scale diecast captures the essence of the 312P, originally equipped with a 3.0L V12 engine, mid-mounted for optimal weight distribution and performance. The car made its debut at the 1969 12 Hours of Sebring, where it secured a second-place finish with drivers Mario Andretti and Chris Amon. It was a promising start that signaled Ferrari’s return to endurance racing glory.</p>
-
-  <p>The Ferrari 312P was designed both as an open-top Barchetta and later as a closed-top Berlinetta, showcasing Ferrari's adaptability in creating aerodynamic solutions to improve performance. Its short-lived racing career spanned key races, including the 24 Hours of Le Mans, where it faced off against fierce competitors like the Porsche 908 and the emerging Porsche 917. Despite its challenges, the 312P remains a symbol of Ferrari's dedication to motorsport excellence.</p>
-
-  <p>The Bburago model brings this racing legend into your collection, reflecting the fine details of the Ferrari 312P’s body, interior, and engine layout. Whether you're a die-hard Ferrari fan or a collector of motorsport history, this model is a must-have piece.</p>
-
-  <p>Approximate dimensions: 1/43 scale.</p>
-
-Product Details and Features:
-- Brand: Bburago
-- Scale: 1/43
-- Model: Ferrari 312P
-- Color: Red
-- Material: Diecast metal with plastic components
-- Packaging: Display box with Ferrari branding
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"  # Update with the correct path to the image
+youtube_link: "https://www.youtube.com/embed/m6nGbcmZFgM"  # Embed link for AC Collection video
+description: "<p>The Bburago Ferrari 312P diecast model is a tribute to one of Ferrari’s iconic racing cars from the late 1960s. This 1/43 scale model showcases the sleek design and powerful V12 engine of the original 312P, which made its debut at the 1969 12 Hours of Sebring.</p>
+<p>The model captures fine details of the Ferrari 312P’s body and interior, making it a must-have for any Ferrari enthusiast.</p>
+<p>Approximate dimensions: 1/43 scale.</p>
+<p><strong>Product Details and Features:</strong></p>
+<ul>
+<li><strong>Brand:</strong> Bburago</li>
+<li><strong>Scale:</strong> 1/43</li>
+<li><strong>Model:</strong> Ferrari 312P</li>
+<li><strong>Color:</strong> Red</li>
+<li><strong>Material:</strong> Diecast metal with plastic components</li>
+<li><strong>Packaging:</strong> Display box with Ferrari branding</li>
+</ul>"
 ---
 
 <div class="product-detail">
@@ -47,19 +35,9 @@ Product Details and Features:
     {% endfor %}
 </div>
 
-<div class="youtube-link">
-    <h3>Watch the Ferrari 312P Video</h3>
-    <iframe width='560' height='315' src='{{ page.youtube_link }}' frameborder='0' allowfullscreen></iframe>
-</div>
-
-<div class="youtube-link">
-    <h3>AC Collection Video</h3>
-    <iframe width='560' height='315' src='{{ page.ac_collection_link }}' frameborder='0' allowfullscreen></iframe>
-</div>
-
 <div style="text-align: center;">
-    <p>Read more about the Bburago Ferrari 312P on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/ferrari/bburago/312p/2024/09/25/bburago-ferrari-312p.html" target="_blank">Bburago Ferrari 312P</a>
+<p>Read more about the Bburago Ferrari 312P on our blog: 
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/ferrari/bburago/312p/2024/09/25/bburago-ferrari-312p.html">The Bburago Ferrari 312P: A Collector's Dream</a>
     </p>
 </div>
 
@@ -103,11 +81,6 @@ Product Details and Features:
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 4px;
-}
-
-.youtube-link {
-    text-align: center;
-    margin-top: 20px;
 }
 
 .buy-now {
