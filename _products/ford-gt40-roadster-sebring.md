@@ -1,10 +1,10 @@
 ---
 layout: product
-title: "Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring"
+title: "Exoto 1/18 Ford GT40 MK II Roadster 1966 | Winner, Sebring"
 price: 30000.00
 youtube_link: "https://www.youtube.com/embed/WOSqMf2vvbs"
 description: |
-  <p>The Exoto | 1:18 | Ford GT40 MK II Roadster 1966 is a stunning diecast model that celebrates the iconic Ford GT40, known for its legendary performance and triumph at the Sebring 12 Hours. This meticulously crafted model is a collector's dream, featuring exceptional detail and accuracy that captures the essence of the original race car.</p>
+  <p>The Exoto 1/18 Ford GT40 MK II Roadster 1966 is a stunning diecast model that celebrates the iconic Ford GT40, known for its legendary performance and triumph at the Sebring 12 Hours. This meticulously crafted model is a collector's dream, featuring exceptional detail and accuracy that captures the essence of the original race car.</p>
 
   <p>Winner, 1966 Sebring 12 Hours: Driven by Ken Miles and Lloyd Ruby, the Ford GT40 MK II Roadster took a surprising victory at the 1966 Sebring 12 Hours. The car, previously known as the Ford X-1, was converted to Mk II specifications by Kar Kraft for Shelby American. After testing several transmissions in early practice sessions, the car finally found success with a standard gearbox, leading it to a legendary win.</p>
 
@@ -16,7 +16,7 @@ description: |
   <h3>Product Details</h3>
   <ul>
     <li><strong>Brand:</strong> Exoto</li>
-    <li><strong>Scale:</strong> 1:18</li>
+    <li><strong>Scale:</strong> 1/18</li>
     <li><strong>Model:</strong> Ford GT40 MK II Roadster</li>
     <li><strong>Race:</strong> 1966 Sebring 12 Hours</li>
     <li><strong>Drivers:</strong> Ken Miles, Lloyd Ruby</li>
@@ -58,8 +58,8 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-    <p>Read more about the Exoto | 1:18 | Ford GT40 MK II Roadster 1966 on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast%20models/exoto/ford/gt40/2024/09/25/exoto-ford-gt40-mk-ii-roadster-1966.html" target="_blank">Exoto | 1:18 | Ford GT40 MK II Roadster 1966</a>
+    <p>Read more about the Exoto | 1/18 | Ford GT40 MK II Roadster 1966 on our blog: 
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast%20models/exoto/ford/gt40/2024/09/25/exoto-ford-gt40-mk-ii-roadster-1966.html" target="_blank">Exoto | 1/18 | Ford GT40 MK II Roadster 1966</a>
     </p>
 </div>
 
