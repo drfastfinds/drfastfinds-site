@@ -104,7 +104,7 @@ title: Dr. Fast Finds
 <!-- Hoonipigasus Model -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/hoonipigasus">
-        <img src="{{ site.baseurl }}/assets/images/hoonihead.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
+        <img src="{{ site.baseurl }}/assets/images/hpig-4.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
         <p>Hoonipigasus: Ken Block's Porsche Racing Legend</p>
         <p>Price: $50.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
