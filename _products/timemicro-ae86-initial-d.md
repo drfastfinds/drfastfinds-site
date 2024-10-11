@@ -4,7 +4,7 @@ title: TimeMicro AE86 Initial D Anime Version 1/64 Scale Model
 price: 45.00
 youtube_link: "https://youtube.com/shorts/mNlnAmBNDQ8?feature=share"
 description: |
-  <p>The TimeMicro AE86 Initial D Anime Version is a fantastic model for fans of the legendary anime and car culture. This 1/64 scale model beautifully captures the essence of the iconic Toyota AE86, known for its role in Initial D and its reputation as a lightweight, agile performance vehicle.</p>
+  <p>The Limited Edition TimeMicro AE86 Initial D Anime Version is a fantastic model for fans of the legendary anime and car culture. This 1/64 scale model beautifully captures the essence of the iconic Toyota AE86, known for its role in Initial D and its reputation as a lightweight, agile performance vehicle.</p>
 
   <p>Commonly referred to as the eight-six or "Hachi-Roku," this car became an icon for a generation and continues to influence automotive enthusiasts. The GT Apex version, driven by Takumi Fujiwara in the anime, was praised for its perfect weight-to-power ratio, with a curb weight of around 950 kg and an output of 150 hp.</p>
 
