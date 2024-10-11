@@ -10,7 +10,7 @@ description: >
 
   <p>Care Instructions: Wipe clean.</p>
   
-product_details: >
+ <p>product_details: >
   <ul>
     <li><strong>Brand:</strong> TPC</li>
     <li><strong>Scale:</strong> 1:64</li>
@@ -19,7 +19,7 @@ product_details: >
     <li><strong>Material:</strong> Diecast metal with plastic components</li>
     <li><strong>Limited Edition:</strong> Yes, #815/999</li>
     <li><strong>Packaging:</strong> TPC display box</li>
-  </ul>
+  </ul></p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
 thumbnails:
