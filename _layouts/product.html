@@ -7,8 +7,6 @@
     <title>{{ page.title }} | Dr. Fast Finds</title>
     <style>
         /* Global styles go here */
-
-        /* Ensure the header uses flexbox for layout */
         header {
             display: flex;
             justify-content: space-between; /* Space out logo, nav */
@@ -21,28 +19,24 @@
             box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
         }
 
-        /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
         header img {
             max-width: 77px;
             height: auto;
             margin: 10px; /* Adds a little padding around the logo */
         }
 
-        /* Navigation bar for right-hand content */
         nav {
             display: flex;
             align-items: center;
             margin-left: auto; /* Pushes navigation to the right */
         }
 
-        /* Increase the size of the Mercado Libre logo */
         .mercado-logo {
             max-width: 100px;
             height: auto;
             margin-right: 10px; /* Adds some space on the right */
         }
 
-        /* Styling changes */
         body {
             background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
             margin: 0;
@@ -50,7 +44,48 @@
             font-family: Arial, sans-serif;
         }
 
-        /* Button styling */
+        .product-detail {
+            display: flex;
+            flex-direction: column; /* Column layout for main image and details */
+            align-items: center; /* Center align content */
+            max-width: 800px; /* Limit width for better readability */
+            margin: auto; /* Center the entire product detail section */
+        }
+
+        .product-image-box {
+            max-width: 500px; 
+            width: 100%;
+            overflow: hidden; 
+        }
+
+        .main-image {
+            width: 100%; 
+            height: 300px; 
+            object-fit: contain; 
+            display: block;
+        }
+
+        .thumbnail-carousel {
+            display: flex;
+            flex-wrap: wrap; 
+            gap: 10px;
+            justify-content: center; /* Center thumbnails */
+            margin-top: 20px;
+        }
+
+        .thumbnail {
+            max-width: 80px;
+            cursor: pointer;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .product-text {
+            max-width: 500px; /* Limit the text block width to match the image */
+            text-align: center; /* Center text */
+            margin-top: 20px; /* Add margin above the text */
+        }
+
         .buy-now {
             background-color: #007bff;
             color: white;
@@ -66,22 +101,6 @@
         .buy-now:hover {
             background-color: #0056b3;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-        }
-
-        .sold-out {
-            color: red;
-            font-weight: bold;
-        }
-
-        /* Image hover effect */
-        .product-image-box img {
-            transition: transform 0.3s ease;
-            width: 100%; /* Ensure images take full width */
-            height: auto; /* Maintain aspect ratio */
-        }
-
-        .product-image-box img:hover {
-            transform: scale(1.05);
         }
 
         footer {
@@ -100,36 +119,6 @@
         footer a:hover {
             text-decoration: underline;
         }
-
-        .product-detail {
-            display: flex;
-            flex-direction: column; /* Column layout for main image and details */
-            align-items: center; /* Center align content */
-            max-width: 800px; /* Limit width for better readability */
-            margin: auto; /* Center the entire product detail section */
-        }
-
-        .thumbnail-carousel {
-            display: flex;
-            flex-wrap: wrap; 
-            gap: 10px;
-            justify-content: center; /* Center thumbnails */
-            margin-top: 20px;
-        }
-
-        .thumbnail {
-            max-width: 80px;
-            cursor: pointer;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-
-        .youtube-link {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 16px;
-        }
-
     </style>
 </head>
 <body>
@@ -155,19 +144,19 @@
             </div>
             <div class="thumbnail-carousel">
                 {% for thumbnail in page.thumbnails %}
-                <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
+                <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}" onclick="changeMainImage('{{ thumbnail }}')">
                 {% endfor %}
-                <iframe width="80" height="80" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
+                <img class="thumbnail" src="{{ page.youtube_link }}" alt="YouTube Video" onclick="changeMainImage('{{ page.youtube_link }}')">
             </div>
             <div class="product-text">
                 <p>{{ page.description }}</p>
                 <p>Price: ${{ page.price }}</p>
                 <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
-            </div>
-            <div style="text-align: center;">
-                <p>Read more about this product on our blog: 
-                    <a href="{{ page.blog_link }}" target="_blank">Read More</a>
-                </p>
+                <div style="text-align: center; margin-top: 20px;">
+                    <p>Read more about this product on our blog: 
+                        <a href="{{ page.blog_link }}" target="_blank">Read More</a>
+                    </p>
+                </div>
             </div>
         </div>
     </main>
@@ -177,6 +166,19 @@
         &copy; {{ site.time | date: "%Y" }} Dr. Fast Finds. All rights reserved.
         <a href="mailto:drfastfinds@gmail.com">Contact Us</a> Prices in USD.
     </footer>
+
+    <script>
+        function changeMainImage(src) {
+            const isYouTube = src.includes('youtube.com') || src.includes('youtu.be');
+            const mainImageBox = document.querySelector('.product-image-box');
+
+            if (isYouTube) {
+                mainImageBox.innerHTML = `<iframe width="100%" height="300" src="${src}" frameborder="0" allowfullscreen></iframe>`;
+            } else {
+                mainImageBox.innerHTML = `<img class="main-image" src="${src}" alt="Main Image">`; // Replace image element
+            }
+        }
+    </script>
 
 </body>
 </html>
