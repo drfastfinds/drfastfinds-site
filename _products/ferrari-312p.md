@@ -10,6 +10,16 @@ description: |
 
   <p>Approximate dimensions: 1/43 scale.</p>
 
+product_details: >
+  <ul>
+    <li><strong>Brand:</strong> Bburago</li>
+    <li><strong>Scale:</strong> 1/43</li>
+    <li><strong>Model:</strong> Ferrari 312P</li>
+    <li><strong>Color:</strong> Red</li>
+    <li><strong>Material:</strong> Diecast metal with plastic components</li>
+    <li><strong>Packaging:</strong> Display box with Ferrari branding</li>
+  </ul>
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-1.jpg"
