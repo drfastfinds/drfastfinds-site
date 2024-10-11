@@ -95,7 +95,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/rwb">
         <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
-        <p>TPC 1:64 RWB 993 1/64 Scale Model</p>
+        <p>TPC 1:64 RWB 993 1/64 Scale Model (Limited Edition)</p>
         <p>Price: $35.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
