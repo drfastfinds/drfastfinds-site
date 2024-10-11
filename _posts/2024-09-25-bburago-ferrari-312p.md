@@ -34,12 +34,12 @@ img.featured-image {
   </figure>
 
   <h2>Introduction</h2>
-  <p>The <strong>Bburago Ferrari 312P</strong> is a highly detailed 1:18 scale diecast model that pays tribute to Ferrari's legendary race car. The Ferrari 312P was developed to compete in endurance racing during the late 1960s, known for its sleek design and formidable performance. Bburago's model brings this racing icon to life in an intricately crafted collectible that will excite any racing fan or diecast enthusiast.</p>
+  <p>The <strong>Bburago Ferrari 312P</strong> is a highly detailed 1/43 scale diecast model that pays tribute to Ferrari's legendary race car. The Ferrari 312P was developed to compete in endurance racing during the late 1960s, known for its sleek design and formidable performance. Bburago's model brings this racing icon to life in an intricately crafted collectible that will excite any racing fan or diecast enthusiast.</p>
 
   <h2>Product Details and Features</h2>
   <ul>
     <li><strong>Brand:</strong> Bburago</li>
-    <li><strong>Scale:</strong> 1:18</li>
+    <li><strong>Scale:</strong> 1/43</li>
     <li><strong>Model:</strong> Ferrari 312P</li>
     <li><strong>Color:</strong> Red</li>
     <li><strong>Material:</strong> Diecast metal with plastic components</li>
