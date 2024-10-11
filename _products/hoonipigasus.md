@@ -38,7 +38,7 @@ thumbnails:
 <div style="text-align: center;">
  <p class="youtube-link">For a closer look, watch Aulgarage's review below:</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/y_HPB8HF540" frameborder="0" allowfullscreen></iframe>
-    <p class="youtube-link">For an overview, check out the product video here:</p>
+    <p class="youtube-link">For a qucik look, check out our short product video here:</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n8B37CEhEwQ" frameborder="0" allowfullscreen></iframe>
     <p>Read more about the Hoonipigasus on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/2024/09/10/hoonipigasus-legendary-porsche.html" target="_blank">Hoonipigasus: A Legendary Porsche, Racing to the Clouds</a>
