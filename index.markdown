@@ -166,7 +166,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/tamiya-redbull-rb6">
         <img src="{{ site.baseurl }}/assets/images/rb6.jpg" alt="Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale">
-        <p>Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale</p>
+        <p>Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix 1/20 Scale (Retired)</p>
         <p>Price: $200.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
@@ -176,7 +176,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/top-studio-rb6">
         <img src="{{ site.baseurl }}/assets/images/tsrb.jpg" alt="Top Studio 1/20 RB6 Super Detail-Up Set">
-        <p>Top Studio 1/20 RB6 Super Detail-Up Set</p>
+        <p>Top Studio 1/20 RB6 Super Detail-Up Set (Retired)</p>
         <p>Price: $180.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
@@ -186,7 +186,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/tamiya-mclaren-mp4">
         <img src="{{ site.baseurl }}/assets/images/tmc.jpg" alt="Tamiya 1/12 McLaren MP4/6">
-        <p>Tamiya 1/12 McLaren MP4</p>
+        <p>Tamiya 1/12 McLaren MP4/6 (Retired)</p>
         <p>Price: $620.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
@@ -196,7 +196,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/top-studio-mp4">
         <img src="{{ site.baseurl }}/assets/images/mp46.jpg" alt="Top Studio McLaren MP4/6 Super Detail-Up Set">
-        <p>Top Studio McLaren MP4/6 Super Detail-Up Set</p>
+        <p>Top Studio McLaren MP4/6 Super Detail-Up Set (Retired)</p>
         <p>Price: $800.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
@@ -272,7 +272,7 @@ title: Dr. Fast Finds
 <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-japan">
             <img src="{{ site.baseurl }}/assets/images/f2003.jpg" alt="Fujimi Ferrari F2003-GA Japan GP">
-            <p>Fujimi Ferrari F2003-GA Japan GP</p>
+            <p>Fujimi Ferrari F2003-GA Japan GP (Retired)</p>
             <p>Price: $170.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
@@ -281,7 +281,7 @@ title: Dr. Fast Finds
  <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-detail-up">
             <img src="{{ site.baseurl }}/assets/images/tsfr.jpg" alt="Ferrari F2003-GA Super Detail-Up Set by Top Studio">
-            <p>Ferrari F2003-GA Super Detail-Up Set by Top Studio</p>
+            <p>Ferrari F2003-GA Super Detail-Up Set by Top Studio (Retired)</p>
             <p>Price: $185.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
@@ -290,7 +290,7 @@ title: Dr. Fast Finds
 <div class="product">
         <a href="{{ site.baseurl }}/products/ford-gt40-roadster-sebring">
             <img src="{{ site.baseurl }}/assets/images/fgt.jpg" alt="Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring">
-            <p>Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring</p>
+            <p>Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring (Soon to beRetired)</p>
             <p>Price: $30000.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
