@@ -19,6 +19,7 @@ product_details: |
     <li><strong>Material:</strong> Diecast metal with plastic components</li>
     <li><strong>Packaging:</strong> Display box with Ferrari branding</li>
   </ul>
+  
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-1.jpg"
