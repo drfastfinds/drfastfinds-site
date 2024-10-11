@@ -1,8 +1,8 @@
 ---
 layout: product
-title: TPC 1:64 RWB 993 1/64 Scale Model
+title: "TPC 1:64 RWB 993 1/64 Scale Model"
 price: 35.00
-youtube_link: "https://youtube.com/shorts/vtYmvZLs2nM?feature=share"  # Add a YouTube link if you have one
+youtube_link: "https://youtube.com/shorts/vtYmvZLs2nM?feature=share"
 description: >
   <p>The TPC 1:64 RWB 993 is a beautifully crafted scale model that represents the iconic Porsche 993. It also glows in the dark! Known for its wide body and striking design, this model captures the essence of RWB's customization philosophy. Perfect for collectors and enthusiasts, the RWB 993 model is a fantastic addition to any diecast collection. This model is a limited edition #815/999.</p>
 
@@ -10,7 +10,7 @@ description: >
 
   <p>Care Instructions: Wipe clean.</p>
   
- <p>product_details: >
+product_details: >
   <ul>
     <li><strong>Brand:</strong> TPC</li>
     <li><strong>Scale:</strong> 1:64</li>
@@ -19,9 +19,9 @@ description: >
     <li><strong>Material:</strong> Diecast metal with plastic components</li>
     <li><strong>Limited Edition:</strong> Yes, #815/999</li>
     <li><strong>Packaging:</strong> TPC display box</li>
-  </ul></p>
+  </ul>
 
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-2.jpg"
@@ -35,6 +35,8 @@ thumbnails:
     </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
+        <p><strong>Product Details and Features:</strong></p>
+        <p>{{ page.product_details }}</p>
         <p>Price: ${{ page.price }}</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
     </div>
