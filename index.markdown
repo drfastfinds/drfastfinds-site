@@ -115,7 +115,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/timemicro-ae86-initial-d">
         <img src="{{ site.baseurl }}/assets/images/ind.jpg" alt="TimeMicro AE86 Initial D Anime Version 1/64 Scale Model">
-        <p>TimeMicro AE86 Initial D Anime Version 1/64 Scale Model</p>
+        <p>TimeMicro AE86 Initial D Anime Version 1/64 Scale Model (Limited Edition)</p>
         <p>Price: $45.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
