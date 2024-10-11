@@ -12,14 +12,12 @@ thumbnails: {{ page.thumbnails }}
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
+    
     <div class="thumbnail-carousel">
         {% for thumbnail in page.thumbnails %}
         <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}">
         {% endfor %}
-    </div>
-    <div class="youtube-link">
-        <p>For a closer look, check out the product video here:</p>
-        <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
+        <iframe class="thumbnail youtube-thumbnail" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -63,21 +61,22 @@ thumbnails: {{ page.thumbnails }}
     gap: 10px;
 }
 
-.thumbnail {
-    max-width: 80px;
+.thumbnail, .youtube-thumbnail {
+    max-width: 80px; /* Set uniform size for thumbnails and YouTube link */
+    height: auto; /* Maintain aspect ratio */
     cursor: pointer;
     border: 1px solid #ddd;
     border-radius: 4px;
 }
 
-.youtube-link {
-    margin-top: 20px;
-    text-align: center;
+.youtube-thumbnail {
+    width: 80px; /* Set width to match thumbnails */
+    height: 45px; /* Maintain a standard height for the YouTube thumbnail */
 }
 
 .product-text {
+    max-width: 500px; /* Limit text width to the width of the main image */
     text-align: center; /* Center the product text */
-    max-width: 600px; /* Limit width for readability */
 }
 
 .buy-now {
