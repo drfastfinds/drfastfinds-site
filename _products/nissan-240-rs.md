@@ -50,6 +50,9 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
+  <p>For a detailed look at what's inside the box, check out Pheedens Garage's unboxing video below:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lmYuXr5jG9o" frameborder="0" allowfullscreen></iframe>
     <p>Read more about the Beemax Nissan 240 RS on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/beemax/nissan/240%20rs/2024/09/25/beemax-nissan-240-rs.html" target="_blank">Beemax Nissan 240 RS</a>
     </p>
