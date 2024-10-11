@@ -101,6 +101,16 @@ title: Dr. Fast Finds
     </a>
 </div>
 
+<!-- Hoonipigasus Model -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/hoonipigasus">
+        <img src="{{ site.baseurl }}/assets/images/hoonihead.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
+        <p>Hoonipigasus: Ken Block's Porsche Racing Legend</p>
+        <p>Price: $50.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
 <!-- Tamiya Toyota Gazoo Racing TS050 Hybrid -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/toyotagazoo">
