@@ -32,7 +32,7 @@ thumbnails:
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p>Price: ${{ page.price }}</p>
-        <p>We recommend purchasing the Tamiya 1/20 Red Bull Racing F1 Renault RB6 to complement the pack and achieve the most detailed model possible!</p>
+        <p>We recommend purchasing the <a href="https://drfastfinds.github.io/drfastfinds-site/products/top-studio-rb6" target="_blank">Top Studio 1/20 RB6 Super Detail-Up Set</a> to complement the pack and achieve the most detailed model possible!</p>
         <a href="{{ site.baseurl }}/order" class="buy-now">Order Now</a>
     </div>
 </div>
