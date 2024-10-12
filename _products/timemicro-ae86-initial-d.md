@@ -3,6 +3,8 @@ layout: product
 title: TimeMicro AE86 Initial D Anime Version 1/64 Scale Model
 price: 45.00
 youtube_link: "https://youtube.com/shorts/mNlnAmBNDQ8?feature=share"
+youtube_video_id: "zDVjWrLf1OE"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/2024/09/06/my-first-post.html"
 description: |
   <p>The Limited Edition TimeMicro AE86 Initial D Anime Version is a fantastic model for fans of the legendary anime and car culture. This 1/64 scale model beautifully captures the essence of the iconic Toyota AE86, known for its role in Initial D and its reputation as a lightweight, agile performance vehicle.</p>
 
@@ -11,7 +13,7 @@ description: |
   <p>Takumi's AE86, a Toyota Sprinter Trueno, is meticulously crafted in this scale model, reflecting the car's unique specifications from the series:</p>
 
   <ul>
-    <li>Model: Sprinter Trueno GT Apex</li>
+    <li>Model (of the real car): Sprinter Trueno GT Apex</li>
     <li>Year: 1983</li>
     <li>Chassis: AE86</li>
     <li>Engine: 1.6L DOHC 16v 4A-GE</li>
@@ -24,10 +26,15 @@ description: |
   <p>In the story, Takumi's father, Bunta Fujiwara, made significant modifications to the car, including upgrading the engine to a Group A spec 4A-GE 20v with 240 hp at 11,000 rpm, making it a formidable competitor in the racing world.</p>
 
   <p>This model is a must-have for collectors and Initial D fans, showcasing the spirit of drifting and street racing that made the AE86 famous.</p>
+  <p>Check out our product video <a href="https://youtube.com/shorts/mNlnAmBNDQ8?feature=share" target="_blank">here</a>.</p>
 
-  <p>Approximate dimensions: 1/64 scale.</p>
-
-  <p>Care Instructions: Wipe clean.</p>
+  <p><strong>Brand:</strong> TimwMicro</p>
+  <p><strong>Model:</strong> Toyota AE86/p>
+  <p><strong>Scale:</strong> 1/64</p>
+  <p><strong>Category:</strong> Model Car</p>
+  <p><strong>Item Number:</strong> TM640407-S</p>
+  <p><strong>Rarity:</strong> Limited Production Run, never produced again</p>
+  
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind.jpg"
 thumbnails:
