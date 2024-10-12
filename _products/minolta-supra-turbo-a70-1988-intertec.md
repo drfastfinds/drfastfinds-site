@@ -3,12 +3,15 @@ layout: product
 title: "Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` (Model Car)"
 price: 80.00
 youtube_link: "https://www.youtube.com/embed/Xxq29MpZ69g"
+youtube_video_id: "Xxq29MpZ69g"  # Change here to use video ID
+blog_link: ""
 description: |
   <p>The Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` is a detailed 1/24 scale model car kit that replicates the iconic racing machine that competed in the All Japan Touring Car Championship. This model captures the spirit of the Toyota Supra with its striking design and impressive performance history.</p>
 
   <p>This highly detailed kit includes a variety of new plastic parts, allowing builders to recreate the wide-body, Minolta-colored machine introduced in the final round of the JTC in 1988. Whether you're a collector or a hobbyist, this model provides a rewarding building experience and an impressive display piece for any motorsport enthusiast.</p>
 
-  <p>Approximate dimensions: 1/24 scale.</p>
+  <p>Check out our product video <a href="https://youtube.com/shorts/l2EClcuf04o?feature=share" target="_blank">here</a>.</p>
+
 
   <h3>About the Toyota Supra A70</h3>
   <p>The Minolta Supra Turbo A70 was a formidable competitor in the 1988 All Japan Touring Car Championship. Known for its sleek design and turbocharged power, it raced under the Tom's team banner, showcasing the engineering prowess of Toyota.</p>
