@@ -3,6 +3,8 @@ layout: product
 title: "Exoto 1/18 Ford GT40 MK II Roadster 1966 | Winner, Sebring"
 price: 30000.00
 youtube_link: "https://www.youtube.com/embed/WOSqMf2vvbs"
+youtube_video_id: "WOSqMf2vvbs"  # Change here to use video ID
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast%20models/exoto/ford/gt40/2024/09/25/exoto-ford-gt40-mk-ii-roadster-1966.html"
 description: |
   <p>The Exoto 1/18 Ford GT40 MK II Roadster 1966 is a stunning diecast model that celebrates the iconic Ford GT40, known for its legendary performance and triumph at the Sebring 12 Hours. This meticulously crafted model is a collector's dream, featuring exceptional detail and accuracy that captures the essence of the original race car.</p>
 
