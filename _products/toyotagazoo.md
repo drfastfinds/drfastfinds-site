@@ -3,6 +3,9 @@ layout: product
 title: Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale
 price: 100.00
 youtube_link: "https://youtube.com/shorts/qtSTcmoXqks?feature=share"
+youtube_video_id: "VQ9nJLL0Ppk"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/toyota%20gazoo%20racing/ts050%20hybrid/2024/09/25/toyota-gazoo-ts050.html"
+
 description: |
   <p>The Tamiya Toyota Gazoo Racing TS050 Hybrid is a must-have model for motorsport enthusiasts and collectors alike. Limited to 3 per household, this high-quality kit accurately reproduces the body form of the actual TS050, focusing on aerodynamics and incorporating various aero devices, just like the real vehicle.</p>
 
@@ -10,7 +13,12 @@ description: |
 
   <p>This model captures the essence of the iconic TS050 with plated cockpit roof details, LED lights, and decals for the 7th and 8th cars. The kit also includes masking stickers for different colors. Build enthusiasts can recreate the dramatic aerodynamics that defined Toyota's LMP1 prototype as it contended at Le Mans and other FIA endurance races.</p>
 
-  <p>Approximate dimensions: Total length = 194 mm.</p>
+  <p>Check out our product video <a href="https://youtube.com/shorts/qtSTcmoXqks?feature=share" target="_blank">here</a>.</p>
+
+  <p><strong>Brand:</strong> Tamiya</p>
+  <p><strong>Model:</strong> Toyota Gazoo/p>
+  <p><strong>Scale:</strong> 1/24</p>
+  <p><strong>Category:</strong> Model Car Kit</p>
 
   <p>Care Instructions: Wipe clean.</p>
 
