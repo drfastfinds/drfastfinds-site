@@ -10,7 +10,7 @@ description: |
   <p>Material: Die-cast body, rubber tires, other parts made from eco-friendly ABS plastic. The wheels can turn, and some components are made from cast materials. The interior is highly detailed.</p>
   <p>Packaging: Color box packaging. We use thick, sturdy cardboard boxes and bubble wrap padding to ensure the product’s safety.</p>
   <p>Note: This is a static model, not a toy car, and is not suitable for children under 15 years old.</p>
-   <p>Check out our product video <a href="https://youtu.be/Y7SHeA4Hw98" target="_blank">here</a>.</p>
+  <p>Check out our product video <a href="https://youtu.be/Y7SHeA4Hw98" target="_blank">here</a>.</p>
   <p>For collectors: We wish you much joy in pursuing your collection dreams.</p>
 
 image: https://drfastfinds.github.io/drfastfinds-site/assets/images/963.jpg
