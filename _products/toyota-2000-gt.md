@@ -3,12 +3,20 @@ layout: product
 title: "Inter Allied Toyota 2000 GT"
 price: 150.00
 youtube_link: ""
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/inter%20allied/toyota/2000gt/2024/09/25/inter-allied-toyota-2000-gt.html"
+
 description: |
   <p>The Inter Allied Toyota 2000 GT is a premium model kit representing one of Japan's most iconic sports cars. This beautifully crafted 1/24 scale model showcases the sleek and stylish design that made the Toyota 2000 GT a legend in the automotive world. With exceptional detailing and craftsmanship, this kit is a must-have for car enthusiasts and collectors alike.</p>
 
   <p>Whether you're building for display or play, this model offers a rewarding experience with its intricate parts and faithful representation of the original vehicle. Add this rare gem to your collection and celebrate the legacy of Japanese engineering excellence.</p>
 
-  <p>Approximate dimensions: 1/24 scale.</p>
+  <p><strong>Brand:</strong> Inter Allied</p>
+  <p><strong>Model:</strong> Toyota 2000GT (Speed Record Car)</p>
+  <p><strong>Scale:</strong> 1/24</p>
+  <p><strong>Material:</strong> Resin</p>
+  <p><strong>Series:</strong> Modeler's</p>
+  <p><strong>Category:</strong> Model Car Kit</p>
+  <p><strong>Item Number:</strong> QM2402K</p>
 
   <h3>Guide: Toyota 2000 GT World Speed Record</h3>
   <p>After encouraging results with the 2000 GT-based 311 S at the 1966 Japanese Grand Prix and Suzuka 1000km, Toyota decided to attempt a series of high speed endurance records. The location chosen was Yatabe, where the Japanese Automobile Research Institute had opened a proving ground.</p>
