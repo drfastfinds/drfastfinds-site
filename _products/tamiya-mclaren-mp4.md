@@ -25,7 +25,7 @@ description: |
   <p><strong>Model:</strong> McLaren MP4/6</p>
   <p><strong>Scale:</strong> 1/12</p>
   <p><strong>Category:</strong> Model Car Kit</p>
-  <p><strong>Item Number:</strong> 12028</p>
+  <p><strong>Item Number:</strong> 89721</p>
 
   <p>Care Instructions: Handle with care during assembly.</p>
 
