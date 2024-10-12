@@ -10,9 +10,10 @@ description: |
 
   <p>With intricate detailing and vibrant colors, this set not only serves as a fantastic display piece but also embodies the spirit of fun and nostalgia associated with the Coca Cola brand.</p>
 
-  <p>Approximate dimensions: 1/64 scale.</p>
-
-  <p>Care Instructions: Wipe clean.</p>
+  <p><strong>Brand:</strong> TimeMicro</p>
+  <p><strong>Model:</strong> Porsche 918 Spyder and Trailer</p>
+  <p><strong>Scale:</strong> 1/64</p>
+  <p><strong>Category:</strong> Model Car</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tmcola.png"
 ---
