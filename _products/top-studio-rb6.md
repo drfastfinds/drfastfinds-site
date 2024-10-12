@@ -3,6 +3,8 @@ layout: product
 title: "Top Studio 1/20 RB6 Super Detail-Up Set"
 price: 180.00
 youtube_link: ""  # Add a YouTube link if you have one
+youtube_video_id: ""
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/top%20studio/red%20bull/rb6/2024/09/25/red-bull-rb6-super-detail-up-set.html"
 description: |
   <p>The Top Studio 1/20 RB6 Super Detail-Up Set is a must-have for model builders looking to enhance the realism of their Red Bull Racing RB6 model kit. This detail-up set offers high-quality parts and detailed components that add a new level of accuracy and complexity to your build.</p>
 
