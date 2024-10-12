@@ -2,7 +2,7 @@
 layout: product
 title: "Beemax 1/24 Nissan 240 RS '84 Safari Rally"
 price: 155.00
-youtube_link: "https://www.youtube.com/embed/lmYuXr5jG9o" # Link for YouTube video
+youtube_link: "https://www.youtube.com/watch?v=lmYuXr5jG9o"
 description: >
   <p>The Beemax Nissan 240 RS is a highly detailed model kit that captures the essence of this iconic rally car, which debuted in 1983 and competed in the 1984 Safari Rally. Known for its performance and success in motorsport, this model is a must-have for enthusiasts and collectors alike.</p>
 
