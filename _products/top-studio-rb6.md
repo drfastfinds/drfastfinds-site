@@ -6,11 +6,11 @@ youtube_link: ""  # Add a YouTube link if you have one
 youtube_video_id: ""
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/top%20studio/red%20bull/rb6/2024/09/25/red-bull-rb6-super-detail-up-set.html"
 description: |
-  <p>The Top Studio 1/20 RB6 Super Detail-Up Set is a must-have for model builders looking to enhance the realism of their Red Bull Racing RB6 model kit. This detail-up set offers high-quality parts and detailed components that add a new level of accuracy and complexity to your build.</p>
+  <p>The Top Studio 1/20 RB6 Super Detail-Up Set is a must-have for model builders looking to enhance the realism of their Tamiya Red Bull Racing RB6 (#20067) model kit. This detail-up set offers high-quality parts and detailed components that add a new level of accuracy and complexity to your build.</p>
 
   <p>With intricate photo-etched parts, wiring, and resin components, this set allows you to replicate the actual car with precision, making it perfect for dedicated modelers and F1 enthusiasts.</p>
 
-  <p>Approximate dimensions: 1/20 scale.</p>
+   <p><strong>Item Number:</strong> MD29014</p>
 
   <p>Care Instructions: Handle with care during assembly.</p>
 
