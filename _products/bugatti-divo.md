@@ -24,6 +24,7 @@ thumbnails:
 ---
 
 <div class="product-detail">
+  <h1>{{ title }}</h1>
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
