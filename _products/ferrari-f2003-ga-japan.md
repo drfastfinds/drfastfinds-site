@@ -3,6 +3,9 @@ layout: product
 title: "Fujimi Ferrari F2003-GA Japan GP"
 price: 170.00
 youtube_link: "https://youtube.com/shorts/c5ojLEgu6k8?feature=share"
+youtube_video_id: "P2bC8lWeV34"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/fujimi/ferrari/f2003-ga/2024/09/25/fujimi-ferrari-f2003-ga-japan-gp.html"
+
 description: |
   <p>The Fujimi Ferrari F2003-GA Japan GP model kit is a must-have for fans of Formula 1 racing and collectors alike. This 1/20 scale model accurately represents the iconic Ferrari F2003-GA, a car that played a pivotal role in Ferrari's successful 2003 Formula One season.</p>
 
@@ -14,7 +17,11 @@ description: |
 
   <p>The Fujimi kit captures the essence of this historic car, making it a perfect addition for any motorsport enthusiast or model builder. Its high-quality craftsmanship and detailed components offer an authentic representation of Ferrari’s iconic machine. Whether you're displaying it or assembling it, this model will undoubtedly be a centerpiece of any collection.</p>
 
-  <p>Approximate dimensions: 1/20 scale.</p>
+  <p><strong>Brand:</strong> Fujimi</p>
+  <p><strong>Model:</strong> Ferrari F2003-GA Japan</p>
+  <p><strong>Scale:</strong> 1/20</p>
+  <p><strong>Category:</strong> Model Car Kit</p>
+  <p><strong>Item Number:</strong> FUJ09080</p>
 
   <p>Check out Francesco Marchese's build video using the <a href="https://drfastfinds.github.io/drfastfinds-site/products/ferrari-f2003-ga-detail-up" target="_blank">Top Studio</a> detail kit (which we sell):</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lyetoPi-ZZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
