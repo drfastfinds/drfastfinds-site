@@ -2,7 +2,7 @@
 layout: product
 title: "Beemax 1/24 Nissan 240 RS '84 Safari Rally"
 price: 155.00
-youtube_link: ""
+youtube_link: "https://www.youtube.com/embed/lmYuXr5jG9o" # Link for YouTube video
 description: >
   <p>The Beemax Nissan 240 RS is a highly detailed model kit that captures the essence of this iconic rally car, which debuted in 1983 and competed in the 1984 Safari Rally. Known for its performance and success in motorsport, this model is a must-have for enthusiasts and collectors alike.</p>
 
@@ -31,6 +31,9 @@ thumbnails:
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
+    <div class="youtube-video">
+        <iframe width="300" height="200" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
+    </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p><strong>Price:</strong> ${{ page.price }}</p>
@@ -50,9 +53,6 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-  <p>For a detailed look at what's inside the box, check out Pheedens Garage's unboxing video below:</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lmYuXr5jG9o" frameborder="0" allowfullscreen></iframe>
     <p>Read more about the Beemax Nissan 240 RS on our blog: 
         <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/beemax/nissan/240%20rs/2024/09/25/beemax-nissan-240-rs.html" target="_blank">Beemax Nissan 240 RS</a>
     </p>
@@ -78,6 +78,10 @@ thumbnails:
     height: 100%; 
     object-fit: contain; 
     display: block;
+}
+
+.youtube-video {
+    flex-shrink: 0; 
 }
 
 .product-text {
