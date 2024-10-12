@@ -20,8 +20,6 @@ description: |
   <p><strong>Scale:</strong> 1/24</p>
   <p><strong>Category:</strong> Model Car Kit</p>
 
-  <p>Care Instructions: Wipe clean.</p>
-
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz-1.jpg"
