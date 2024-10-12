@@ -37,8 +37,7 @@ description: |
   <p>For more insights into the build experience, check out these forum discussions: 
     <a href="https://intscalemodeller.com/viewtopic.php?t=29175" target="_blank">IntScaleModeller</a>, 
     <a href="https://www.modelcarsmag.com/forums/topic/152775-tamiya-mclaren-mp46-build/" target="_blank">ModelCarsMag</a>, and 
-    <a href="https://www.britmodeller.com/forums/index.php?/topic/235060365-tamiya-mclaren-mp46-112/" target="_blank">Britmodeller</a>.
-</p>
+    <a href="https://www.britmodeller.com/forums/index.php?/topic/235060365-tamiya-mclaren-mp46-112/" target="_blank">Britmodeller</a>.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tmc.jpg"
 thumbnails:
