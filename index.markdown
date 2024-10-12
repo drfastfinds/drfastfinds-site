@@ -132,7 +132,7 @@ title: Dr. Fast Finds
 <div class="product">
     <a href="{{ site.baseurl }}/products/hoonipigasus">
         <img src="{{ site.baseurl }}/assets/images/hpig-4.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
-        <p>TPC 1/64 Hoonipigasus Scale Model (limited Ediition)</p>
+        <p>TPC 1/64 Hoonipigasus Scale Model (Limited Ediition)</p>
         <p>Price: $50.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
