@@ -3,6 +3,8 @@ layout: product
 title: "TimeMicro Coca Cola Spyder 918 Trailer Set 1/64 Scale Model"
 price: 65.00
 youtube_link: "https://youtube.com/shorts/34NZMo40ivs?feature=share"
+youtube_video_id: "34NZMo40ivs"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/coca%20cola/timemicro/2024/09/25/time-micro-coca-cola-spyder-918-trailer-set.html"
 description: |
   <p>The TimeMicro Coca Cola Spyder 918 Trailer Set is a delightful addition for collectors and fans of diecast models. This 1/64 scale model beautifully captures the iconic Coca Cola branding, showcasing the stylish Spyder alongside its trailer.</p>
 
