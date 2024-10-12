@@ -1,26 +1,25 @@
 ---
 layout: product
-title: Bburago Ferrari 312P 1/43 Scale Model
-price: 35.00
-youtube_link: "https://www.youtube.com/embed/m6nGbcmZFgM"  # Embed link for AC Collection video
+title: Bburago Bugatti Divo - Blue 1/18 Scale Model
+price: 110.00
+youtube_link: "https://youtu.be/2XmxBOCf4wI"
+youtube_video_id: "vKFNaTYut1w"
+
 description: |
-  <p>The Bburago Ferrari 312P diecast model is a tribute to one of Ferrari’s iconic racing cars from the late 1960s. This 1/43 scale model showcases the sleek design and powerful V12 engine of the original 312P, which made its debut at the 1969 12 Hours of Sebring.</p>
-  <p>The model captures fine details of the Ferrari 312P’s body and interior, making it a must-have for any Ferrari enthusiast.</p>
-  <p><strong>Product Details and Features:</strong></p>
-  <ul>
-    <li><strong>Brand:</strong> Bburago</li>
-    <li><strong>Scale:</strong> 1/43</li>
-    <li><strong>Model:</strong> Ferrari 312P</li>
-    <li><strong>Color:</strong> Red</li>
-    <li><strong>Material:</strong> Diecast metal with plastic components</li>
-    <li><strong>Packaging:</strong> Display box with Ferrari branding</li>
-  </ul>
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"
+  <p>The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.</p>
+
+  <p>New in box. This model features real rubber tires and steerable wheels for an authentic feel. Both the interior and exterior are meticulously detailed, including a functional frunk (front trunk) and doors that open. Made primarily of diecast metal with some plastic components.</p>
+
+  <p>Approximate dimensions: L-9.75", W-4.75", H-2.5".</p>
+
+  <p>Care Instructions: Wipe clean.</p>
+
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo.jpg"
 thumbnails:
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-1.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-2.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-3.jpg"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-1.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-2.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-3.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-4.jpg"
 ---
 
 <div class="product-detail">
@@ -40,14 +39,12 @@ thumbnails:
     {% endfor %}
 </div>
 
-<div class="video-container" style="text-align: center; margin-top: 20px;">
-    <h3>Watch the AC Collection Video</h3>
-    <iframe width='560' height='315' src='{{ page.youtube_link }}' frameborder='0' allowfullscreen></iframe>
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
-    <p>Read more about the Bburago Ferrari 312P on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/ferrari/bburago/312p/2024/09/25/bburago-ferrari-312p.html">The Bburago Ferrari 312P: A Collector's Dream</a>
+<div style="text-align: center;">
+    <p class="youtube-link">For more details, check out the product video here: 
+        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
+    </p>
+    <p>Read more about the Bugatti Divo on our blog: 
+        <a href="{{ site.baseurl }}/2024/09/06/my-first-post.html">The Bugatti Divo: A Symphony of Speed and Performance</a>
     </p>
 </div>
 
@@ -93,8 +90,10 @@ thumbnails:
     border-radius: 4px;
 }
 
-.video-container {
+.youtube-link {
+    text-align: center;
     margin-top: 20px;
+    font-size: 16px;
 }
 
 .buy-now {
