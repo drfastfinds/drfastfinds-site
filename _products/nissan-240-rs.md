@@ -33,7 +33,7 @@ thumbnails:
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
     <div class="youtube-video">
-        <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lmYuXr5jG9o" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="product-text">
         <p>{{ page.description }}</p>
