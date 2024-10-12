@@ -4,6 +4,7 @@ title: "Bburago Ferrari 312P 1/43 Scale Model"
 price: 35.00
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"  # Main product image
 youtube_link: "https://www.youtube.com/embed/m6nGbcmZFgM"  # Embed link for AC Collection video
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/ferrari/bburago/312p/2024/09/25/bburago-ferrari-312p.html"
 description: "<p>The Bburago Ferrari 312P diecast model is a tribute to one of Ferrari’s iconic racing cars from the late 1960s. This 1/43 scale model showcases the sleek design and powerful V12 engine of the original 312P, which made its debut at the 1969 12 Hours of Sebring.</p>
 <p>The model captures fine details of the Ferrari 312P’s body and interior, making it a must-have for any Ferrari enthusiast.</p>
 <p>Approximate dimensions: 1/43 scale.</p>
