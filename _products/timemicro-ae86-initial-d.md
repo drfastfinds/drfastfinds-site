@@ -29,7 +29,7 @@ description: |
   <p>Check out our product video <a href="https://youtube.com/shorts/mNlnAmBNDQ8?feature=share" target="_blank">here</a>.</p>
 
   <p><strong>Brand:</strong> TimwMicro</p>
-  <p><strong>Model:</strong> Toyota AE86/p>
+  <p><strong>Model:</strong> Toyota AE86</p>
   <p><strong>Scale:</strong> 1/64</p>
   <p><strong>Category:</strong> Model Car</p>
   <p><strong>Item Number:</strong> TM640407-S</p>
