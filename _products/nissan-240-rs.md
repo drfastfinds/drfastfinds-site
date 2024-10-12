@@ -32,9 +32,9 @@ thumbnails:
     <div class="product-image-box">
         <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
     </div>
-    <div class="youtube-video">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/lmYuXr5jG9o" frameborder="0" allowfullscreen></iframe>
-    </div>
+<div class="youtube-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lmYuXr5jG9o" frameborder="0" allowfullscreen></iframe>
+</div>
     <div class="product-text">
         <p>{{ page.description }}</p>
         <p><strong>Price:</strong> ${{ page.price }}</p>
