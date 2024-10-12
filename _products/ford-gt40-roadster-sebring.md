@@ -17,7 +17,7 @@ description: |
 
   <h3>Product Details</h3>
   <ul>
-    <li><strong>Brand:</strong> Exoto</li>
+    <li><strong>Brand:</strong> Exoto (retired)</li>
     <li><strong>Scale:</strong> 1/18</li>
     <li><strong>Model:</strong> Ford GT40 MK II Roadster</li>
     <li><strong>Race:</strong> 1966 Sebring 12 Hours</li>
