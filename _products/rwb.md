@@ -3,6 +3,9 @@ layout: product
 title: "TPC 1/64 RWB 993 1/64 Scale Model"
 price: 35.00
 youtube_link: "https://youtube.com/shorts/vtYmvZLs2nM?feature=share"
+youtube_video_id: "vtYmvZLs2nM"  # Change here to use video ID
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/rwb/tpc/porsche/2024/09/25/tpc-rwb-993.html"
+
 description: >
   <p>The TPC 1/64 RWB 993 is a beautifully crafted scale model that represents the iconic Porsche 993. It also glows in the dark! Known for its wide body and striking design, this model captures the essence of RWB's customization philosophy. Perfect for collectors and enthusiasts, the RWB 993 model is a fantastic addition to any diecast collection. This model is a limited edition #815/999.</p>
 
