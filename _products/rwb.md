@@ -29,7 +29,7 @@ product_details: >
     <li><strong>Packaging:</strong> TPC display box</li>
   </ul>
 
-image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg"
+image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-2.jpg"
