@@ -8,10 +8,7 @@ description: >
   <p>The Beemax Nissan 240 RS is a highly detailed model kit that captures the essence of this iconic rally car, which debuted in 1983 and competed in the 1984 Safari Rally. Known for its performance and success in motorsport, this model is a must-have for enthusiasts and collectors alike.</p>
 
   <p>This assembly kit replicates the Nissan 240RS that participated in the 1984 Safari Rally, featuring unique details such as large over fenders, animal guards, and auxiliary lights. The interior also includes competition-specific details like a roll cage, providing a rewarding building experience and allowing you to recreate one of Nissan's legendary vehicles.</p>
-
-  <p>Approximate dimensions: 1/24 scale, total length approximately 187mm.</p>
-
-product_details: |
+  
   <p><strong>Brand:</strong> Beemax</p>
   <p><strong>Model:</strong> Nissan 240 RS</p>
   <p><strong>Scale:</strong> 1/24</p>
