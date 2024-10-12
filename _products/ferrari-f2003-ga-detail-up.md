@@ -3,6 +3,7 @@ layout: product
 title: "Ferrari F2003-GA Super Detail-Up Set by Top Studio"
 price: 185.00
 youtube_link: ""
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/top%20studio/ferrari/f2003-ga/2024/09/25/ferrari-f2003-ga-super-detail-up-set.html"
 description: |
   <p>The Ferrari F2003-GA Super Detail-Up Set by Top Studio is the ultimate enhancement for enthusiasts looking to elevate their Ferrari F2003-GA model to the next level. This premium detail-up set features high-quality components that add realism and precision to your model, ensuring a standout display piece.</p>
 
