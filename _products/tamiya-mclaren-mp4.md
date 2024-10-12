@@ -3,7 +3,7 @@ layout: product
 title: "Tamiya 1/12 McLaren MP4/6"
 price: 620.00
 youtube_link: ""  # Add a YouTube link if you have one
-youtube_video_id: "l_ctx2WNEJI"
+youtube_video_id: "nky9frSUr8A"
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/mclaren/mp4/2024/09/25/tamiya-mclaren-mp4.html"
 
 description: |
