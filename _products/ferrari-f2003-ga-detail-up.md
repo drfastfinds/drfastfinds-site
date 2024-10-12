@@ -8,7 +8,9 @@ description: |
 
   <p>Designed specifically for the Ferrari F2003-GA, this set includes meticulously crafted parts that reflect the intricate details of the original racing car. Perfect for both collectors and hobbyists, this detail-up set will enhance your building experience and the overall appearance of your model.</p>
 
-  <p>Approximate dimensions: Compatible with 1/20 scale Ferrari F2003-GA models.</p>
+  <p>Compatible with 1/20 scale Ferrari F2003-GA models.</p>
+
+  <p><strong>Item Number:</strong> MD29013</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsfr.jpg"
 thumbnails:
