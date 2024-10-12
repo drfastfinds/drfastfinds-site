@@ -3,6 +3,9 @@ layout: product
 title: "Studio27 BMW F1.06 Sauber 1/20 Scale"
 price: 385.00
 youtube_link: "https://www.youtube.com/watch?v=1vwBcPXk3tA"
+youtube_video_id: "1vwBcPXk3tA"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/studio27/bmw/f1/2024/09/25/studio27-bmw-f1-06-sauber.html"
+
 description: |
   <p>The Studio27 BMW F1.06 Sauber is a premium 1/20 scale model kit, offering a highly detailed and accurate representation of the BMW Sauber F1 car. This kit is perfect for advanced model builders looking to replicate the famous F1.06 from BMW's 2006 Formula 1 season.</p>
 
@@ -10,12 +13,13 @@ description: |
 
   <p>Throughout the season, the F1.06 showed impressive form with two podium finishes—one for Heidfeld at the Hungaroring and another for Kubica at Monza. The car's innovative features included a flexible rear wing and some other design elements that drew attention throughout the season. The team's livery featured traditional BMW blue and white with red accents, making it a standout on the track.</p>
 
-  <p>Approximate dimensions: 1/20 scale.</p>
+   <p><strong>Brand:</strong> Studio27</p>
+  <p><strong>Model:</strong> BMW F1.06 Sauber</p>
+  <p><strong>Scale:</strong> 1/20</p>
+  <p><strong>Category:</strong> Model Car Kit</p>
+  <p><strong>Item Number:</strong> ST27-FK20197</p>
 
   <p>Care Instructions: Handle with care during assembly, and follow the detailed instructions included for best results.</p>
-
-  <p>For a closer look at the model, check out the video here:</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1vwBcPXk3tA" frameborder="0" allowfullscreen></iframe>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/bms.jpg"
 thumbnails: []
