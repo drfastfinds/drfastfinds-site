@@ -65,31 +65,15 @@
         }
 
         .main-image {
-            width: 100%; /* Full width for responsive image */
+            width: 500px; /* Fixed width for main image */
             height: 300px; /* Fixed height for main image */
             object-fit: contain; /* Maintain aspect ratio */
             border: 1px solid #ddd; /* Optional border for clarity */
         }
 
-        .video-wrap {
-            width: 100%; /* Full width for video */
-            max-width: 1280px; /* Max width for video */
-            margin: 0 auto; /* Center the video */
-        }
-
         .video-container {
-            position: relative;
-            overflow: hidden;
-            height: 0;
-            padding-bottom: 56.25%; /* creates a 16:9 aspect ratio */
-        }
-
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
+            width: 500px; 
+            height: 500px;
         }
 
         .thumbnail-carousel {
@@ -174,10 +158,8 @@
                         {% endfor %}
                     </div>
                 </div>
-                <div class="video-wrap">
-                    <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/{{ page.youtube_video_id }}" frameborder="0" allowfullscreen></iframe>
-                    </div>
+                <div class="video-container">
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ page.youtube_video_id }}" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="product-text">
