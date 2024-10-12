@@ -1,8 +1,11 @@
 ---
 layout: product
-title: "Tamiya 1/12 McLaren MP4"
+title: "Tamiya 1/12 McLaren MP4/6"
 price: 620.00
 youtube_link: ""  # Add a YouTube link if you have one
+youtube_video_id: "l_ctx2WNEJI"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/mclaren/mp4/2024/09/25/tamiya-mclaren-mp4.html"
+
 description: |
   <p>The Tamiya 1/12 McLaren MP4 model kit is a stunning representation of the legendary McLaren Formula 1 car. This highly detailed model is perfect for serious model builders and F1 fans alike, offering a 1/12 scale build that captures the technical brilliance and racing spirit of the iconic MP4/6.</p>
 
@@ -18,7 +21,11 @@ description: |
   <p>Hussein El Kaissy Build Video:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/h36-8ZOGRhQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  <p>Approximate dimensions: 1/12 scale.</p>
+  <p><strong>Brand:</strong> Tamiya</p>
+  <p><strong>Model:</strong> McLaren MP4/6</p>
+  <p><strong>Scale:</strong> 1/12</p>
+  <p><strong>Category:</strong> Model Car Kit</p>
+  <p><strong>Item Number:</strong> 12028</p>
 
   <p>Care Instructions: Handle with care during assembly.</p>
 
@@ -26,6 +33,12 @@ description: |
   <a href="https://drfastfinds.github.io/drfastfinds-site/products/top-studio-mp4" target="_blank">Top Studio MP4 Set</a> 
   and 
   <a href="https://drfastfinds.github.io/drfastfinds-site/products/mclaren-mp46-tabu-design" target="_blank">the McLaren MP4/6 Tabu Design Decals</a> to enhance the historical accuracy of your build.</p>
+
+  <p>For more insights into the build experience, check out these forum discussions: 
+    <a href="https://intscalemodeller.com/viewtopic.php?t=29175" target="_blank">IntScaleModeller</a>, 
+    <a href="https://www.modelcarsmag.com/forums/topic/152775-tamiya-mclaren-mp46-build/" target="_blank">ModelCarsMag</a>, and 
+    <a href="https://www.britmodeller.com/forums/index.php?/topic/235060365-tamiya-mclaren-mp46-112/" target="_blank">Britmodeller</a>.
+</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tmc.jpg"
 thumbnails:
