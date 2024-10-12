@@ -29,6 +29,10 @@ description: |
   <p>For more details, check out the product video here: 
   <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a></p>
 
+  <p>For more insights into the build experience, check out these forum discussions: 
+    <a href="https://www.automotiveforums.com/t1086938-fujimi_ferrari_f2003_ga.html">AutomotiveForums</a> and 
+    <a href="[https://www.modelcarsmag.com/forums/topic/152775-tamiya-mclaren-mp46-build/](https://www.britmodeller.com/forums/index.php?/topic/234959417-fujimi-ferrari-f2003-ga/)" target="_blank">ModelCarsMag</a></p>
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/f2003.jpg"
 ---
 
