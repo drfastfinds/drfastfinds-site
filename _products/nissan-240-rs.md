@@ -12,13 +12,12 @@ description: >
   <p>Approximate dimensions: 1/24 scale, total length approximately 187mm.</p>
 
 product_details: |
-  <ul>
-    <li><strong>Brand:</strong> Beemax</li>
-    <li><strong>Model:</strong> Nissan 240 RS</li>
-    <li><strong>Scale:</strong> 1/24</li>
-    <li><strong>Category:</strong> Model Kit</li>
-    <li><strong>Includes:</strong> High-quality plastic parts, decals, and detailed instructions for assembly</li>
-  </ul>
+  <p><strong>Brand:</strong> Beemax</p>
+  <p><strong>Model:</strong> Nissan 240 RS</p>
+  <p><strong>Scale:</strong> 1/24</p>
+  <p><strong>Category:</strong> Model Kit</p>
+  <p><strong>Includes:</strong> High-quality plastic parts, decals, and detailed instructions for assembly</p>
+
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png"
 thumbnails:
