@@ -3,12 +3,15 @@ layout: product
 title: "Top Studio McLaren MP4/6 Super Detail-Up Set"
 price: 800.00
 youtube_link: ""  # Add a YouTube link if you have one
+youtube_video_id: "zEJVOfeSzE4"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/top%20studio/mclaren/mp4/6/2024/09/25/mclaren-mp4-6-super-detail-up-set.html"
+
 description: |
-  <p>The Top Studio McLaren MP4/6 Super Detail-Up Set is an extraordinary kit for the most dedicated model builders and McLaren fans. This set is designed to enhance the Tamiya McLaren MP4/6 kit with extreme detail, offering precision parts to replicate the iconic F1 car's features to an unparalleled level of accuracy.</p>
+  <p>The Top Studio McLaren MP4/6 Super Detail-Up Set is an extraordinary kit for the most dedicated model builders and McLaren fans. This set is designed to enhance the Tamiya McLaren MP4/6 (89721) kit with extreme detail, offering precision parts to replicate the iconic F1 car's features to an unparalleled level of accuracy.</p>
 
   <p>From the engine to the chassis and aerodynamic components, this detail-up set is perfect for those seeking to push their modeling skills to the next level. It's a premium product designed for experts looking for the finest details.</p>
 
-  <p>Approximate dimensions: 1/20 scale.</p>
+  <p><strong>Item Number:</strong> TD23160</p>
 
   <p>Care Instructions: Handle with care during assembly. Recommended for experienced model builders.</p>
 
