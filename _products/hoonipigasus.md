@@ -1,14 +1,22 @@
 ---
 layout: product
-title: "Hoonipigasus: Ken Block's Porsche Racing Legend"
+title: "TPC 1/64 Hoonipigasus Scale Model (Limited Ediition)"
 price: 50.00
 youtube_link: "https://youtu.be/n8B37CEhEwQ"
+youtube_video_id: "06iBzGSDA40"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/2024/09/10/hoonipigasus-legendary-porsche.html"
+
 description: |
   <p>The Hoonipigasus is an iconic model that pays tribute to Ken Block's incredible legacy in motorsports. Known for its stunning design and powerful performance, this model captures the essence of the legendary Porsche Hoonipigasus. A perfect addition for any car enthusiast or model collector.</p>
 
   <p>With remarkable attention to detail, this model showcases the artistic livery inspired by the historic 1971 Porsche 917/20 “Pink Pig.” Experience the spirit of racing with this high-quality representation of the Hoonipigasus.</p>
+  <p>Check out our product video <a href="https://youtube.com/shorts/ze9GpKpcico?feature=share" target="_blank">here</a>.</p>
+
+  <p><strong>Brand:</strong> TPC</p>
+  <p><strong>Model:</strong> Hoonipigasus (Porsche 911)</p>
+  <p><strong>Scale:</strong> 1/64</p>
+  <p><strong>Category:</strong> Model Car</p>
   
-  <p>Approximate dimensions: 1/43 scale.</p>
   
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/hpig-4.jpg"
 thumbnails:
