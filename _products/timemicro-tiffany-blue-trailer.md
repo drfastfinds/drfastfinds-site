@@ -10,9 +10,10 @@ description: |
 
   <p>Perfect for display or play, this model captures the spirit of adventure and the joy of classic automotive design. Whether you're a fan of diecast models or simply appreciate fine craftsmanship, this trailer set is a must-have for any collection.</p>
 
-  <p>Approximate dimensions: 1/64 scale.</p>
-
-  <p>Care Instructions: Wipe clean.</p>
+  <p><strong>Brand:</strong> TimeMicro</p>
+  <p><strong>Model:</strong> Volkswagen and Porsche Spyder</p>
+  <p><strong>Scale:</strong> 1/64</p>
+  <p><strong>Category:</strong> Model Car</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tftra.jpg"
 thumbnails:
