@@ -43,6 +43,7 @@
             padding: 0;
             font-family: Arial, sans-serif;
         }
+        
 
         .product-detail {
             display: flex;
@@ -51,6 +52,17 @@
             margin: 20px auto;
             text-align: left; /* Ensure everything aligns to the left */
         }
+
+        <!-- Product Details Section -->
+<div class="product-details">
+    <h3>Product Details:</h3>
+    <p><strong>Brand:</strong> {{ page.brand }}</p>
+    <p><strong>Model:</strong> {{ page.model }}</p>
+    <p><strong>Scale:</strong> {{ page.scale }}</p>
+    <p><strong>Model Number:</strong> {{ page.model_number }}</p>
+    <p><strong>Category:</strong> {{ page.category }}</p>
+    <p><strong>Rarity:</strong> {{ page.rarity }}</p>
+</div>
 
         .image-video-container {
             display: flex;
