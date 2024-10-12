@@ -103,7 +103,7 @@ title: Dr. Fast Finds
 <div class="product">
         <a href="{{ site.baseurl }}/products/ford-gt40-roadster-sebring">
             <img src="{{ site.baseurl }}/assets/images/fgt.jpg" alt="Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring">
-            <p>Exoto 1/18 Ford GT40 MK II Roadster 1966 Winner, Sebring (Soon to beRetired)</p>
+            <p>Exoto 1/18 Ford GT40 MK II Roadster 1966 Winner, Sebring (Retired)</p>
             <p>Price: $30000.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
