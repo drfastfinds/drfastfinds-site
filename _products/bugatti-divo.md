@@ -10,6 +10,8 @@ description: |
   <p>The Bugatti Divo is a standout in the world of model cars due to its exclusivity and high-performance design. Limited to just 40 real-life units, owning a scale model of the Divo brings a piece of Bugatti’s elite engineering into your collection. With its striking aerodynamic features, including the massive fixed rear wing and advanced cooling systems, the Divo model beautifully captures the essence of a track-focused hypercar. For model car enthusiasts, the Divo represents the perfect combination of luxury, speed, and rarity, making it a must-have for any serious collection.</p>
 
   <p>New in box. This model features real rubber tires and steerable wheels for an authentic feel. Both the interior and exterior are meticulously detailed, including a functional frunk (front trunk) and doors that open. Made primarily of diecast metal with some plastic components.</p>
+  <p>Check out our product video <a href="https://youtu.be/2XmxBOCf4wI" target="_blank">here</a>.</p>
+
   <p><strong>Brand:</strong> Bburago</p>
   <p><strong>Model:</strong> Bugatti Divo</p>
   <p><strong>Scale:</strong> 1/18</p>
