@@ -2,10 +2,17 @@
 layout: product
 title: "McLaren MP4/6 Full Sponsor (Tabu Design)"
 price: 50.00
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tabu%20design/mp4/6/mclaren/2024/09/25/mp4-6-full-sponsor-tabu-design.html"
 description: |
   <p>The McLaren MP4/6 Full Sponsor decal set by Tabu Design is designed for enthusiasts looking to add historical accuracy to their Tamiya 1/12 scale McLaren MP4/6 model. This decal set features the full range of sponsor logos that were present on the original race car, capturing its iconic look as seen on the track in 1991.</p>
 
   <p>Whether you're a modeler or a collector, this set offers an authentic finishing touch that enhances the detail and realism of your McLaren MP4/6 Tamiya kit.</p>
+
+  <p><strong>Brand:</strong> Tabu Design</p>
+  <p><strong>Model:</strong> For Tamiya McLaren MP4/6</p>
+  <p><strong>Scale:</strong> 1/12</p>
+  <p><strong>Category:</strong> Decal</p>
+  <p><strong>Item Number:</strong> 	TABU12028</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tabu.jpg"
 thumbnails: []
