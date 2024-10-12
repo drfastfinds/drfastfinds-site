@@ -10,6 +10,12 @@ description: |
 
   <p>This highly detailed kit includes a variety of new plastic parts, allowing builders to recreate the wide-body, Minolta-colored machine introduced in the final round of the JTC in 1988. Whether you're a collector or a hobbyist, this model provides a rewarding building experience and an impressive display piece for any motorsport enthusiast.</p>
 
+  <p><strong>Brand:</strong> BHasegawa</p>
+  <p><strong>Model:</strong>  Minolta Supra Turbo A70 `1988 InterTEC`</p>
+  <p><strong>Scale:</strong> 1/24</p>
+  <p><strong>Category:</strong> Model Kit</p>
+  <p><strong>Includes:</strong> High-quality plastic parts, decals, and detailed instructions for assembly</p>
+
   <p>Check out our product video <a href="https://youtube.com/shorts/l2EClcuf04o?feature=share" target="_blank">here</a>.</p>
 
 
