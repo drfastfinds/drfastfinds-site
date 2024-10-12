@@ -3,6 +3,8 @@ layout: product
 title: "Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix"
 price: 200.00
 youtube_link: "https://youtube.com/shorts/qtSTcmoXqks?feature=share"
+youtube_video_id: "z2gH5UPB9sY"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/tamiya/red%20bull/rb6/2024/09/25/tamiya-red-bull-racing-f1-renault-rb6.html"
 description: |
   <p>The Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix model is an exceptional kit for enthusiasts and collectors. This detailed model captures the essence of one of the most successful Formula 1 cars in history, known for its innovative design and high performance.</p>
 
@@ -10,12 +12,16 @@ description: |
 
   <p>This model kit by Tamiya offers precise detailing and high-quality materials, allowing you to recreate the iconic look of the Red Bull RB6 with its distinct carbon fiber composite chassis and pushrod suspension. The attention to detail includes the semi-automatic gearbox and Bridgestone tires on 13" OZ wheels.</p>
 
+  <p>Check out this britmodeller forum entry for more nitty gritty details <a href="[https://www.youtube.com/watch?v=vzSoMvOCPcw](https://www.britmodeller.com/forums/index.php?/topic/234967005-dual-tamiya-and-dtm-redbull-rb6-build-tamiya-car-take-2/)" target="_blank">here</a>.</p>
+
   <p>For a closer look, check out the video from Johansson's Car Modeling Studio:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rTrcbZC-6Wg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  <p>Approximate dimensions: 1/20 scale.</p>
-
-  <p>Care Instructions: Wipe clean.</p>
+  <p><strong>Brand:</strong> Tamiya</p>
+  <p><strong>Model:</strong> Red Bull Racing F1 Renault RB6 Grand Prix</p>
+  <p><strong>Scale:</strong> 1/20</p>
+  <p><strong>Category:</strong> Model Car Kit</p>
+  <p><strong>Item Number:</strong> 20067</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/rb6.jpg"
 thumbnails:
