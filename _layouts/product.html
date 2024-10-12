@@ -46,35 +46,38 @@
 
         .product-detail {
             display: flex;
-            max-width: 800px; /* Limit width for better readability */
-            margin: auto; /* Center the entire product detail section */
+            flex-direction: column;
+            max-width: 800px;
+            margin: 20px auto;
+            text-align: left; /* Ensure everything aligns to the left */
         }
 
         .product-image-box {
-            max-width: 500px; 
+            max-width: 500px; /* Image block width */
             width: 100%;
-            overflow: hidden; 
-            margin-right: 20px; /* Space between image and video */
+            margin-right: 20px;
         }
 
         .main-image {
             width: 100%; 
-            height: 300px; 
-            object-fit: contain; 
-            display: block;
+            height: auto; 
+            object-fit: contain;
         }
 
         .video-container {
-            width: 300px; /* Fixed width for video */
-            height: 300px; /* Fixed height for video */
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 300px; 
+            height: 200px;
         }
 
         .thumbnail-carousel {
             display: flex;
-            flex-wrap: wrap; 
+            flex-wrap: wrap;
             gap: 10px;
             justify-content: flex-start; /* Align thumbnails to the left */
-            margin-top: 20px;
+            margin-top: 10px;
+            max-width: 500px; /* Same width as main image */
         }
 
         .thumbnail {
@@ -85,9 +88,9 @@
         }
 
         .product-text {
-            max-width: 500px; /* Limit the text block width to match the image */
-            text-align: left; /* Left-align text */
-            margin-top: 20px; /* Add margin above the text */
+            max-width: 500px; /* Ensure the text width matches the image */
+            text-align: left;
+            margin-top: 20px;
         }
 
         .buy-now {
@@ -145,15 +148,15 @@
         <div class="product-detail">
             <div class="product-image-box">
                 <img class="main-image" src="{{ page.image }}" alt="{{ page.title }}">
+                <div class="thumbnail-carousel">
+                    {% for thumbnail in page.thumbnails %}
+                    <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}" onclick="changeMainImage('{{ thumbnail }}')">
+                    {% endfor %}
+                </div>
             </div>
             <div class="video-container">
                 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/{{ page.youtube_video_id }}" frameborder="0" allowfullscreen></iframe>
             </div>
-        </div>
-        <div class="thumbnail-carousel">
-            {% for thumbnail in page.thumbnails %}
-            <img class="thumbnail" src="{{ thumbnail }}" alt="Thumbnail of {{ page.title }}" onclick="changeMainImage('{{ thumbnail }}')">
-            {% endfor %}
         </div>
         <div class="product-text">
             <p>{{ page.description }}</p>
@@ -175,8 +178,8 @@
 
     <script>
         function changeMainImage(src) {
-            const mainImageBox = document.querySelector('.product-image-box');
-            mainImageBox.innerHTML = `<img class="main-image" src="${src}" alt="Main Image">`; // Replace image element
+            const mainImageBox = document.querySelector('.main-image');
+            mainImageBox.src = src;
         }
     </script>
 
