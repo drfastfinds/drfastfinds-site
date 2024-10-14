@@ -15,7 +15,6 @@ description: |
   <p><strong>Scale:</strong> 1/43</p>
   <p><strong>Category:</strong> Model Car</p>
 
-  <p>Care Instructions: Wipe clean with a soft cloth.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tp911.jpg"
 thumbnails: []
