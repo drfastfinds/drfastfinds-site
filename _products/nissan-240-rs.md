@@ -15,6 +15,7 @@ description: >
   <p><strong>Category:</strong> Model Kit</p>
   <p><strong>Includes:</strong> High-quality plastic parts, decals, and detailed instructions for assembly</p>
 
+<p>For enthusiasts looking for more information about the Beemax Nissan 240 RS and its construction, we recommend checking out these detailed forum discussions: <a href="https://www.britmodeller.com/forums/index.php?/topic/235099082-beemax-nissan-240rs-safari-rally-1984/" target="_blank">Beemax Nissan 240RS - Safari Rally 1984</a> and <a href="https://www.britmodeller.com/forums/index.php?/topic/235095383-beemax-nissan-240-rs-safari-rally/" target="_blank">Beemax Nissan 240 RS - Safari Rally</a>. These threads provide insights from fellow builders and offer tips and techniques for creating a stunning model.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png"
 thumbnails:
