@@ -40,6 +40,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind-3.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind.jpg"
 ---
 
 <div class="product-detail">
