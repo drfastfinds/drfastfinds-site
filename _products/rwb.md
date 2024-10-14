@@ -15,8 +15,6 @@ description: >
   <p><strong>Model:</strong> Porsche 993 RWB</p>
   <p><strong>Scale:</strong> 1/64</p>
   <p><strong>Category:</strong> Model Car</p>
-
-  <p>Care Instructions: Wipe clean.</p>
   
 product_details: >
   <ul>
