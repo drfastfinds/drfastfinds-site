@@ -22,7 +22,6 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-2.png"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-3.png"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr-4.png"
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png"
 ---
 
 <div class="product-detail">
