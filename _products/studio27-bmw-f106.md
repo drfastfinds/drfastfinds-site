@@ -21,6 +21,9 @@ description: |
 
   <p>Care Instructions: Handle with care during assembly, and follow the detailed instructions included for best results.</p>
 
+  <p>You can see a completed model of the Studio 27 BMW Sauber F106 <a href="https://www.modelcarsmag.com/forums/topic/92144-studio-27-bmw-sauber-f106/" target="_blank">here</a>.</p>
+
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/bms.jpg"
 thumbnails: []
 ---
