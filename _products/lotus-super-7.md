@@ -9,7 +9,7 @@ description: |
   <p>The Tamiya Lotus Super 7 Series II is an iconic model kit for fans of classic roadsters. Known for its lightweight design and incredible performance, this model kit captures the essence of the legendary Lotus Super 7. Whether you're a car enthusiast or a model kit hobbyist, this is a fantastic addition to your collection.</p>
 
   <p>With precise detailing and a true-to-life design, the Tamiya Lotus Super 7 offers both beginners and seasoned model builders a rewarding experience. Relive the golden age of British roadsters with this high-quality kit from Tamiya.</p>
-  <p>Check out our product video <a href="https://www.youtube.com/watch?v=vzSoMvOCPcw" target="_blank">here</a>.</p>
+  <p>Check out our product video <a href="https://youtube.com/shorts/1BtwaSTqewc?feature=share" target="_blank">here</a>.</p>
 
   <p><strong>Brand:</strong> Tamiya</p>
   <p><strong>Model:</strong> Lotus Super 7 Series II</p>
