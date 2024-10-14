@@ -32,8 +32,8 @@ description: |
   <p>For more insights into the build experience, check out these forum discussions: 
     <a href="https://www.automotiveforums.com/t1086938-fujimi_ferrari_f2003_ga.html">AutomotiveForums</a>, 
     <a href="https://www.modelcarsmag.com/forums/topic/152775-tamiya-mclaren-mp46-build/](https://www.britmodeller.com/forums/index.php?/topic/234959417-fujimi-ferrari-f2003-ga/)" target="_blank">ModelCarsMag</a>,
-    <a href="https://www.britmodeller.com/forums/index.php?/topic/234964681-fujimi-ferrari-f2003-japan-gp-120/" target="_blank">here</a>, and 
-    <a href="https://www.britmodeller.com/forums/index.php?/topic/234959417-fujimi-ferrari-f2003-ga/" target="_blank">here</a>.</p>
+    <a href="https://www.britmodeller.com/forums/index.php?/topic/234964681-fujimi-ferrari-f2003-japan-gp-120/" target="_blank">Britmodeller</a>, and 
+    <a href="https://www.britmodeller.com/forums/index.php?/topic/234959417-fujimi-ferrari-f2003-ga/" target="_blank">Britmodeller</a>.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/f2003.jpg"
 ---
