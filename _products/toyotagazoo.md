@@ -24,8 +24,7 @@ description: |
     <a href="https://intscalemodeller.com/viewtopic.php?t=28836" target="_blank">IntScaleModeller</a>, 
     <a href="https://www.modelcarsmag.com/forums/topic/182713-2018-gazoo-racing-toyota-ts050-hybrid/" target="_blank">Model Cars Magazine</a>, 
     and 
-    <a href="https://www.britmodeller.com/forums/index.php?/topic/235083960-24h-le-mans-2019-toyota-ts050-hybrid-gazoo-racing-tamiya-124/" target="_blank">Britmodeller</a>.
-</p>
+    <a href="https://www.britmodeller.com/forums/index.php?/topic/235083960-24h-le-mans-2019-toyota-ts050-hybrid-gazoo-racing-tamiya-124/" target="_blank">Britmodeller</a>.</p>
 
 
 
