@@ -4,7 +4,7 @@ title: Bburago Porsche 963 LMDH #5 Lemans 1/24 Scale
 price: 40.00
 youtube_link: "https://youtu.be/Y7SHeA4Hw98"
 youtube_video_id: "j4eVay4VLn0"  # Change here to use video ID
-blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/beemax/nissan/240%20rs/2024/09/25/beemax-nissan-240-rs.html"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/porsche/lmdh/racing/fia%20wec/imsa/2024/10/11/porsche-963.html"
 description: |
   <p>Size: 21.17 x 8.32 x 4.78 cm</p>
   <p>Material: Die-cast body, rubber tires, other parts made from eco-friendly ABS plastic. The wheels can turn, and some components are made from cast materials. The interior is highly detailed.</p>
