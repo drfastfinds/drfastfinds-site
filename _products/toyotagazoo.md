@@ -16,7 +16,7 @@ description: |
   <p>Check out our product video <a href="https://youtube.com/shorts/qtSTcmoXqks?feature=share" target="_blank">here</a>.</p>
 
   <p><strong>Brand:</strong> Tamiya</p>
-  <p><strong>Model:</strong> Toyota Gazoo/p>
+  <p><strong>Model:</strong> Toyota Gazoo</p>
   <p><strong>Scale:</strong> 1/24</p>
   <p><strong>Category:</strong> Model Car Kit</p>
 
