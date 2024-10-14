@@ -118,32 +118,21 @@ title: Dr. Fast Finds
     </a>
 </div>
 
-<!-- TPC 1:64 RWB 993 -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/rwb">
-        <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
-        <p>TPC 1:64 RWB 993 1/64 Scale Model (Limited Edition)</p>
-        <p>Price: $35.00</p>
-        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-    </a>
-</div>
+        <a href="{{ site.baseurl }}/products/toyota-2000-gt">
+            <img src="{{ site.baseurl }}/assets/images/2000gt-4.png" alt="Inter Allied Toyota 2000 GT">
+            <p>Inter Allied Toyota 2000 GT 1/24 Model Car Kit</p>
+            <p>Price: $150.00</p>
+            <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+        </a>
+    </div>
 
-<!-- Hoonipigasus Model -->
+    <!-- Studio27 BMW F1.06 Sauber -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/hoonipigasus">
-        <img src="{{ site.baseurl }}/assets/images/hpig-4.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
-        <p>TPC 1/64 Hoonipigasus Scale Model (Limited Ediition)</p>
-        <p>Price: $50.00</p>
-        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-    </a>
-</div>
-
-<!-- Tamiya Toyota Gazoo Racing TS050 Hybrid -->
-<div class="product">
-    <a href="{{ site.baseurl }}/products/toyotagazoo">
-        <img src="{{ site.baseurl }}/assets/images/tgaz.jpg" alt="Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale">
-        <p>Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Model Car Kit</p>
-        <p>Price: $100.00</p>
+    <a href="{{ site.baseurl }}/products/studio27-bmw-f106">
+        <img src="{{ site.baseurl }}/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber 1/20 Scale">
+        <p>Studio27 BMW F1.06 Sauber 1/20 Model Car Kit</p>
+        <p>Price: $385.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
@@ -199,6 +188,36 @@ title: Dr. Fast Finds
     </a>
 </div>
 
+<!-- TPC 1:64 RWB 993 -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/rwb">
+        <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
+        <p>TPC 1:64 RWB 993 1/64 Scale Model (Limited Edition)</p>
+        <p>Price: $35.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Hoonipigasus Model -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/hoonipigasus">
+        <img src="{{ site.baseurl }}/assets/images/hpig-4.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
+        <p>TPC 1/64 Hoonipigasus Scale Model (Limited Ediition)</p>
+        <p>Price: $50.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Tamiya Toyota Gazoo Racing TS050 Hybrid -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/toyotagazoo">
+        <img src="{{ site.baseurl }}/assets/images/tgaz.jpg" alt="Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale">
+        <p>Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Model Car Kit</p>
+        <p>Price: $100.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
 <div class="product">
         <a href="{{ site.baseurl }}/products/lotus-super-7">
             <img src="{{ site.baseurl }}/assets/images/lts7.jpg" alt="Tamiya Lotus Super 7 Series II: A Classic Roadster">
@@ -208,14 +227,6 @@ title: Dr. Fast Finds
         </a>
     </div>
 
-<div class="product">
-        <a href="{{ site.baseurl }}/products/toyota-2000-gt">
-            <img src="{{ site.baseurl }}/assets/images/2000gt-4.png" alt="Inter Allied Toyota 2000 GT">
-            <p>Inter Allied Toyota 2000 GT 1/24 Model Car Kit</p>
-            <p>Price: $150.00</p>
-            <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-        </a>
-    </div>
 
 <!-- Tamiya 1/20 Red Bull Racing F1 Renault RB6 Grand Prix -->
 <div class="product">
@@ -285,15 +296,6 @@ title: Dr. Fast Finds
         </a>
     </div>
 
-<!-- Studio27 BMW F1.06 Sauber -->
-<div class="product">
-    <a href="{{ site.baseurl }}/products/studio27-bmw-f106">
-        <img src="{{ site.baseurl }}/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber 1/20 Scale">
-        <p>Studio27 BMW F1.06 Sauber 1/20 Model Car Kit</p>
-        <p>Price: $385.00</p>
-        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-    </a>
-</div>
 
 <!-- Porsche 911 1969 Spa-Francorchamps -->
 <div class="product">
