@@ -60,13 +60,20 @@ title: Dr. Fast Finds
 
 @media (max-width: 768px) {
     .product {
-        width: calc(33.33% - 13.33px); /* 3 products per row */
+        width: calc(33.33% - 20px); /* 3 products per row */
     }
 }
 
 @media (max-width: 480px) {
     .product {
-        width: calc(33.33% - 13.33px); /* 3 products per row */
+        width: calc(33.33% - 20px); /* 3 products per row */
+    }
+
+    .product p,
+    .buy-now,
+    .add-to-cart,
+    .sold-out {
+        font-size: 10px; /* Further reduced font size for mobile */
     }
 }
     
