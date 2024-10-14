@@ -122,8 +122,6 @@ title: Order Page
     <input type="hidden" id="order-summary-field" name="order-summary">
 
     <button type="submit">Submit Order</button>
-</form>
-
 
 <script>
     let total = 0;
