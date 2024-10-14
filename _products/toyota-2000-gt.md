@@ -18,6 +18,9 @@ description: |
   <p><strong>Category:</strong> Model Car Kit</p>
   <p><strong>Item Number:</strong> QM2402K</p>
 
+  <p>For more inspiration and examples of various builds of the Beemax Nissan 240 RS, visit the <a href="https://forum.deagostini.co.uk/default.aspx?g=topics&f=406&__utma=210999945.144857440.1728943839.1728943839.1728943839.1&__utmb=210999945.0.10.1728943839&__utmc=210999945&__utmx=-&__utmz=210999945.1728943839.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)&__utmv=-&__utmk=50015461" target="_blank">DeAgostini Forum category</a>. Here you can explore different builders' techniques and share your own experiences.</p>
+
+
   <h3>Guide: Toyota 2000 GT World Speed Record</h3>
   <p>After encouraging results with the 2000 GT-based 311 S at the 1966 Japanese Grand Prix and Suzuka 1000km, Toyota decided to attempt a series of high speed endurance records. The location chosen was Yatabe, where the Japanese Automobile Research Institute had opened a proving ground.</p>
   <p>Over three days in early October, Toyota aimed to set records from 1000 to 5000 miles, 6 to 72 hours, and 2000 to 15,000 kilometers. The car used was an aluminum-bodied pre-production prototype, specially prepared for the event.</p>
