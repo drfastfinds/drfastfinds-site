@@ -20,6 +20,11 @@ title: Dr. Fast Finds
     width: 200px; /* Fixed width for the product container */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden; /* Ensure no content overflows */
+    position: relative; /* Makes the container the reference for the absolute positioning */
+    min-height: 350px; /* Fixed minimum height for consistency */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Ensures the button stays at the bottom */
 }
 
 .product img {
@@ -36,10 +41,6 @@ title: Dr. Fast Finds
 }
 
 .order-now {
-    position: absolute;
-    bottom: 10px; /* Fix the button 10px from the bottom of the product box */
-    left: 50%;
-    transform: translateX(-50%); /* Center the button horizontally */
     display: inline-block;
     padding: 10px 20px;
     background-color: #ffcc00; /* Yellow background */
@@ -48,6 +49,7 @@ title: Dr. Fast Finds
     border-radius: 5px;
     font-weight: bold;
     text-align: center;
+    margin-top: auto; /* Push the button to the bottom */
 }
 
 .order-now:hover {
