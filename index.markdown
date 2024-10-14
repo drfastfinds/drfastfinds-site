@@ -79,6 +79,20 @@ title: Dr. Fast Finds
     margin-top: 5px;
 }
 
+    /* Desktop height */
+@media (min-width: 769px) {
+    .product {
+        min-height: 300px; /* Adjust this value for desktop */
+    }
+}
+
+/* Tablet and mobile heights */
+@media (max-width: 768px) {
+    .product {
+        min-height: 200px; /* Adjust this value for tablets */
+    }
+}
+
 @media (max-width: 768px) {
     .product {
         width: calc(33.33% - 35px); /* 3 products per row */
