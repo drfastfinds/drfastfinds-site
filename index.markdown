@@ -35,6 +35,23 @@ title: Dr. Fast Finds
     margin: 5px 0; /* Adjust margins for text */
 }
 
+    .order-now {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue background */
+    color: #fff; /* White text */
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    align-self: center; /* Center button horizontally */
+}
+
+.order-now:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
 .buy-now, .add-to-cart {
     display: inline-block;
     padding: 10px 20px;
