@@ -188,26 +188,6 @@ title: Dr. Fast Finds
     </a>
 </div>
 
-<!-- TPC 1:64 RWB 993 -->
-<div class="product">
-    <a href="{{ site.baseurl }}/products/rwb">
-        <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
-        <p>TPC 1:64 RWB 993 1/64 Scale Model (Limited Edition)</p>
-        <p>Price: $35.00</p>
-        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-    </a>
-</div>
-
-<!-- Hoonipigasus Model -->
-<div class="product">
-    <a href="{{ site.baseurl }}/products/hoonipigasus">
-        <img src="{{ site.baseurl }}/assets/images/hpig-4.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
-        <p>TPC 1/64 Hoonipigasus Scale Model (Limited Ediition)</p>
-        <p>Price: $50.00</p>
-        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
-    </a>
-</div>
-
 <!-- Tamiya Toyota Gazoo Racing TS050 Hybrid -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/toyotagazoo">
@@ -295,6 +275,26 @@ title: Dr. Fast Finds
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
     </div>
+
+    <!-- TPC 1:64 RWB 993 -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/rwb">
+        <img src="{{ site.baseurl }}/assets/images/tpc.jpg.jpg" alt="TPC 1:64 RWB 993 1/64 Scale Model">
+        <p>TPC 1:64 RWB 993 1/64 Scale Model (Limited Edition)</p>
+        <p>Price: $35.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
+
+<!-- Hoonipigasus Model -->
+<div class="product">
+    <a href="{{ site.baseurl }}/products/hoonipigasus">
+        <img src="{{ site.baseurl }}/assets/images/hpig-4.jpg" alt="Hoonipigasus: Ken Block's Porsche Racing Legend">
+        <p>TPC 1/64 Hoonipigasus Scale Model (Limited Ediition)</p>
+        <p>Price: $50.00</p>
+        <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
+    </a>
+</div>
 
 
 <!-- Porsche 911 1969 Spa-Francorchamps -->
