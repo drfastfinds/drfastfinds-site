@@ -59,14 +59,14 @@ title: Dr. Fast Finds
 }
 
 @media (max-width: 768px) {
-    .product-gallery {
-        grid-template-columns: repeat(3, 1fr); /* 3 products per row for tablets */
+    .product {
+        width: calc(33.33% - 20px); /* Maintain 3 products per row */
     }
 }
 
 @media (max-width: 480px) {
-    .product-gallery {
-        grid-template-columns: repeat(3, 1fr); /* 3 products per row for smaller mobile devices */
+    .product {
+        width: calc(33.33% - 20px); /* Maintain 3 products per row */
     }
 }
     
