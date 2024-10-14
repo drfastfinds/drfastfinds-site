@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "TimeMicro Nissan GTR3.0 Tiffany Blue, 1/64"
+title: "TimeMicro Nissan GTR3.0 Tiffany Blue 1/64"
 price: 45.00
 youtube_link: "https://youtube.com/shorts/36I22GR1Jx8?feature=share"
 youtube_video_id: "36I22GR1Jx8"
