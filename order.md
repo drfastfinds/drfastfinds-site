@@ -4,7 +4,7 @@ title: Order Page
 ---
 
 <style>
-    form {
+   form {
         display: flex;
         flex-direction: column;
         max-width: 600px;
@@ -13,6 +13,8 @@ title: Order Page
         border: 1px solid #ddd;
         border-radius: 8px;
         background-color: #f9f9f9;
+        overflow-y: auto; /* Allow vertical scrolling for the form */
+        max-height: 80vh; /* Set a maximum height for the form */
     }
     label {
         font-weight: bold;
