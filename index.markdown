@@ -57,6 +57,19 @@ title: Dr. Fast Finds
     text-align: center;
     margin-top: 5px;
 }
+
+    @media (max-width: 768px) {
+    .product {
+        width: calc(50% - 20px); /* 2 products per row on tablet/medium screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .product {
+        width: calc(100% - 20px); /* 1 product per row on mobile screens */
+    }
+}
+    
 </style>
 
 
