@@ -12,7 +12,7 @@ description: |
 
   <p>This model kit by Tamiya offers precise detailing and high-quality materials, allowing you to recreate the iconic look of the Red Bull RB6 with its distinct carbon fiber composite chassis and pushrod suspension. The attention to detail includes the semi-automatic gearbox and Bridgestone tires on 13" OZ wheels.</p>
 
-  <p>Check out this britmodeller forum entry for more nitty gritty details <a href="[https://www.youtube.com/watch?v=vzSoMvOCPcw](https://www.britmodeller.com/forums/index.php?/topic/234967005-dual-tamiya-and-dtm-redbull-rb6-build-tamiya-car-take-2/)" target="_blank">here</a>.</p>
+  <p>Check out this britmodeller forum entry for more nitty gritty details <a href="https://www.britmodeller.com/forums/index.php?/topic/234967005-dual-tamiya-and-dtm-redbull-rb6-build-tamiya-car-take-2/" target="_blank">here</a>.</p>
 
   <p>For a closer look, check out the video from Johansson's Car Modeling Studio:</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rTrcbZC-6Wg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
