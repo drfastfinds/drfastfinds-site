@@ -35,21 +35,23 @@ title: Dr. Fast Finds
     margin: 5px 0; /* Adjust margins for text */
 }
 
-    .order-now {
+.order-now {
+    position: absolute;
+    bottom: 10px; /* Fix the button 10px from the bottom of the product box */
+    left: 50%;
+    transform: translateX(-50%); /* Center the button horizontally */
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff; /* Blue background */
-    color: #fff; /* White text */
+    background-color: #ffcc00; /* Yellow background */
+    color: #0056b3; /* Blue text */
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
     text-align: center;
-    margin-top: 10px;
-    align-self: center; /* Center button horizontally */
 }
 
 .order-now:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+    background-color: #e6b800; /* Darker yellow on hover */
 }
 
 .buy-now, .add-to-cart {
