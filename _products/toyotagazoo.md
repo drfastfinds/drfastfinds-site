@@ -25,6 +25,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz-3.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz.jpg"
 ---
 
 <div class="product-detail">
