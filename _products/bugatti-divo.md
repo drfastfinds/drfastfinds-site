@@ -23,6 +23,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-3.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/divo.jpg"
 ---
 
 <div class="product-detail">
