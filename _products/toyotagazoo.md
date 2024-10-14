@@ -20,6 +20,14 @@ description: |
   <p><strong>Scale:</strong> 1/24</p>
   <p><strong>Category:</strong> Model Car Kit</p>
 
+  <p>For discussions and builds related to the Toyota TS050 Hybrid, try checking out the following forums:</p>
+<ul>
+    <li><a href="https://intscalemodeller.com/viewtopic.php?t=28836" target="_blank">IntScaleModeller: Toyota TS050 Hybrid Build</a></li>
+    <li><a href="https://www.modelcarsmag.com/forums/topic/182713-2018-gazoo-racing-toyota-ts050-hybrid/" target="_blank">Model Cars Magazine: 2018 Gazoo Racing Toyota TS050 Hybrid</a></li>
+    <li><a href="https://www.britmodeller.com/forums/index.php?/topic/235083960-24h-le-mans-2019-toyota-ts050-hybrid-gazoo-racing-tamiya-124/" target="_blank">Britmodeller: 24h Le Mans 2019 Toyota TS050 Hybrid Gazoo Racing</a></li>
+</ul>
+
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tgaz-1.jpg"
