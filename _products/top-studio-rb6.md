@@ -12,8 +12,6 @@ description: |
 
    <p><strong>Item Number:</strong> MD29014</p>
 
-  <p>Care Instructions: Handle with care during assembly.</p>
-
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsrb.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsrb-1.jpg"
