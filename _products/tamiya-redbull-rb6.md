@@ -23,6 +23,10 @@ description: |
   <p><strong>Category:</strong> Model Car Kit</p>
   <p><strong>Item Number:</strong> 20067</p>
 
+  <p>For more information on the model, check out the forum discussion 
+    <a href="https://www.modelcarsmag.com/forums/topic/81435-2010-red-bull-formula-one/" target="_blank">here</a>.</p>
+
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/rb6.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rb6-1.jpg"
