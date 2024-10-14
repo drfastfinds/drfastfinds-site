@@ -11,7 +11,7 @@ description: |
   <p>With excellent detailing and craftsmanship, this model not only serves as a great display piece but also embodies the spirit of performance and luxury that the GTR brand represents. It's perfect for both display and play, making it a must-have for any car lover's collection.</p>
 
   <p><strong>Brand:</strong> TimeMicro</p>
-  <p><strong>Model:</strong> Nissan GTR3.0/p>
+  <p><strong>Model:</strong> Nissan GTR3.0</p>
   <p><strong>Scale:</strong> 1/64</p>
   <p><strong>Category:</strong> Model Car</p>
 
