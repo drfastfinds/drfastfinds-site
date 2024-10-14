@@ -21,6 +21,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/mp46-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/mp46-3.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/mp46-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/mp46.jpg"
 ---
 
 <div class="product-detail">
