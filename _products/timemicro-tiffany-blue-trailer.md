@@ -20,6 +20,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tftra-1.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tftra-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tftra-3.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tftra.jpg"
 ---
 <div class="product-detail">
     <div class="product-image-box">
