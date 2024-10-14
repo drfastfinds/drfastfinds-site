@@ -33,6 +33,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-3.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/rwb-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tpc.jpg.jpg"
 ---
 
 <div class="product-detail">
