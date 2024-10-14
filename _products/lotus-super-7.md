@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Tamiya Lotus Super 7 Series II: A Classic Roadster"
+title: "Tamiya Lotus Super 7 Series II"
 price: 65.00
 youtube_link: "https://www.youtube.com/watch?v=vzSoMvOCPcw"
 youtube_video_id: "l_ctx2WNEJI"
