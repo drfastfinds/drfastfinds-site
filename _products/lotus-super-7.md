@@ -16,6 +16,12 @@ description: |
   <p><strong>Scale:</strong> 1/24</p>
   <p><strong>Category:</strong> Model Car Kit</p>
   <p><strong>Item Number:</strong> 24357</p>
+
+  <p>For helpful resources and builds related to the Lotus Super 7 Series II, check out these links: 
+    <a href="https://www.modelersite.com/en/112074/building-the-lotus-super-7-series-ii-for-beginners--tamiya-24046-1-24-scale" target="_blank">Building the Lotus Super 7 Series II for Beginners</a>, 
+    <a href="https://finescale.com/product-info/kit-reviews/2020/11/workbench-review-tamiya-lotus-super-7-series-ii" target="_blank">Workbench Review: Tamiya Lotus Super 7 Series II</a>, 
+    and 
+    <a href="https://uamf.org.uk/viewtopic.php?t=4707" target="_blank">UAMF Forum Discussion</a>.</p>
   
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/lts7.jpg"
 thumbnails:
