@@ -22,7 +22,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-1.jpg"  # Thumbnail image 1
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-2.jpg"  # Thumbnail image 2
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-3.jpg"  # Thumbnail image 3
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-4.jpg"  # Thumbnail image 4
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"  # Thumbnail image 4
 ---
 
 <div class="product-detail">
