@@ -31,6 +31,7 @@ thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hmin-2.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hmin-3.jpg"
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hmin-4.jpg"
+  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/hmin.jpg"
 ---
 
 <div class="product-detail">
