@@ -19,6 +19,7 @@ thumbnails:
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-2.jpg
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-3.jpg
   - https://drfastfinds.github.io/drfastfinds-site/assets/images/963-4.jpg
+  - https://drfastfinds.github.io/drfastfinds-site/assets/images/963.jpg
 ---
 
 <div class="product-detail">
