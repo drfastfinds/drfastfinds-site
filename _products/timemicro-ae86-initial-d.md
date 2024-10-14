@@ -26,7 +26,6 @@ description: |
   <p>In the story, Takumi's father, Bunta Fujiwara, made significant modifications to the car, including upgrading the engine to a Group A spec 4A-GE 20v with 240 hp at 11,000 rpm, making it a formidable competitor in the racing world.</p>
 
   <p>This model is a must-have for collectors and Initial D fans, showcasing the spirit of drifting and street racing that made the AE86 famous.</p>
-  <p>Check out our product video <a href="https://youtube.com/shorts/mNlnAmBNDQ8?feature=share" target="_blank">here</a>.</p>
 
   <p><strong>Brand:</strong> TimwMicro</p>
   <p><strong>Model:</strong> Toyota AE86</p>
