@@ -32,9 +32,7 @@ description: |
   <p><strong>Scale:</strong> 1/64</p>
   <p><strong>Category:</strong> Model Car</p>
   <p><strong>Item Number:</strong> TM640407-S</p>
-  <p><strong>Rarity:</strong> Limited Production Run, never produced again</p>
   
-
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/ind-1.jpg"
