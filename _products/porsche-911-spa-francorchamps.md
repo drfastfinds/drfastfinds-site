@@ -3,12 +3,17 @@ layout: product
 title: "Porsche 911 1969 Spa-Francorchamps 24th 1st #39 G.Chasseuil / C.Ballot-Lena"
 price: 190.00
 youtube_link: "https://youtube.com/shorts/rSwsy5qdHQ8?feature=share"
+youtube_video_id: "rSwsy5qdHQ8"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/porsche/trofeu/1:43/2024/09/25/porsche-spa-francorchamps.html"
 description: |
   <p>The Porsche 911 from the 1969 Spa-Francorchamps race is a historic model for Porsche fans and collectors alike. This 1/43 scale model captures the essence of the vehicle that claimed 1st place in the 24th edition of the Spa-Francorchamps endurance race.</p>
 
   <p>Built with attention to detail, this model reflects Porsche's timeless design and racing heritage, making it a must-have for enthusiasts. Whether for display or collecting, this diecast model embodies the thrill of Porsche’s motorsport achievements.</p>
 
-  <p>Approximate dimensions: 1/43 scale.</p>
+  <p><strong>Brand:</strong> Trofeu</p>
+  <p><strong>Model:</strong> Porsche 911 1969</p>
+  <p><strong>Scale:</strong> 1/43</p>
+  <p><strong>Category:</strong> Model Car</p>
 
   <p>Care Instructions: Wipe clean with a soft cloth.</p>
 
