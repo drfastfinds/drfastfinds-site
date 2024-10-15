@@ -202,32 +202,32 @@ title: Dr. Fast Finds
     </a>
 </div>
 
-<!-- TimeMicro Tiffany Blue Trailer Set -->
+<!-- TimeMicro Light Blue Trailer Set -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/timemicro-tiffany-blue-trailer">
-        <img src="{{ site.baseurl }}/assets/images/tftra.jpg" alt="TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder">
-        <p>TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder 1/64 Scale Model</p>
+    <a href="{{ site.baseurl }}/products/timemicro-Light-blue-trailer">
+        <img src="{{ site.baseurl }}/assets/images/tftra.jpg" alt="TimeMicro Light Blue Trailer Set: Volkswagen and Spyder">
+        <p>TimeMicro Light Blue Trailer Set: Volkswagen and Spyder 1/64 Scale Model</p>
         <p>Price: $70.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
 
-<!-- TimeMicro Tiffany Blue Spyder -->
+<!-- TimeMicro Light Blue Spyder -->
 <div class="product">
-    <a href="{{ site.baseurl }}/products/tiffany-blue-spyder">
-        <img src="{{ site.baseurl }}/assets/images/tmblue.jpg.jpg" alt="TimeMicro Tiffany Blue Spyder 1/64 Scale Model">
-        <p>TimeMicro Tiffany Blue Spyder 1/64 Scale Model</p>
+    <a href="{{ site.baseurl }}/products/Light-blue-spyder">
+        <img src="{{ site.baseurl }}/assets/images/tmblue.jpg.jpg" alt="TimeMicro Light Blue Spyder 1/64 Scale Model">
+        <p>TimeMicro Light Blue Spyder 1/64 Scale Model</p>
         <p>Price: $40.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
 
 
-<!-- TimeMicro Normal Alloy Model Nissan GTR3.0 Tiffany Blue -->
+<!-- TimeMicro Normal Alloy Model Nissan GTR3.0 Light Blue -->
 <div class="product">
     <a href="{{ site.baseurl }}/products/timemicro-nissan-gtr3">
-        <img src="{{ site.baseurl }}/assets/images/tmlb.jpg" alt="TimeMicro Normal Alloy Model: Nissan GTR3.0 Tiffany Blue, 1/64">
-        <p>TimeMicro Nissan GTR3.0 Tiffany Blue, 1/64 Scale Model</p>
+        <img src="{{ site.baseurl }}/assets/images/tmlb.jpg" alt="TimeMicro Normal Alloy Model: Nissan GTR3.0 Light Blue, 1/64">
+        <p>TimeMicro Nissan GTR3.0 Light Blue, 1/64 Scale Model</p>
         <p>Price: $45.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
