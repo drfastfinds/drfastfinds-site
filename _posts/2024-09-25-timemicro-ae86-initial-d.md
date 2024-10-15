@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>TimeMicro AE86 Initial D Anime Version: A Tribute to the Classic Series</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/ind.jpg" alt="TimeMicro AE86 Initial D" class="featured-image">
