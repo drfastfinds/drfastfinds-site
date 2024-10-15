@@ -1,12 +1,12 @@
 ---
 layout: product
-title: "TimeMicro Nissan GTR3.0 Tiffany Blue 1/64"
+title: "TimeMicro Nissan GTR3.0 Light Blue 1/64"
 price: 45.00
 youtube_link: "https://youtube.com/shorts/36I22GR1Jx8?feature=share"
 youtube_video_id: "36I22GR1Jx8"
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-tiffany-blue.html"
 description: |
-  <p>The TimeMicro Nissan GTR3.0 in Tiffany Blue is a remarkable addition for diecast collectors and automotive enthusiasts. This 1/64 scale model showcases the stunning design and vibrant color that captures the essence of the iconic Nissan GTR.</p>
+  <p>The TimeMicro Nissan GTR3.0 in Light Blue is a remarkable addition for diecast collectors and automotive enthusiasts. This 1/64 scale model showcases the stunning design and vibrant color that captures the essence of the iconic Nissan GTR.</p>
 
   <p>With excellent detailing and craftsmanship, this model not only serves as a great display piece but also embodies the spirit of performance and luxury that the GTR brand represents. It's perfect for both display and play, making it a must-have for any car lover's collection.</p>
 
@@ -45,8 +45,8 @@ thumbnails:
     <p class="youtube-link">For more details, check out the product video here: 
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
-    <p>Read more about the TimeMicro Normal Alloy Model: Nissan GTR3.0 Tiffany Blue on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-tiffany-blue.html">The TimeMicro Nissan GTR3: A Tiffany Blue Icon</a>
+    <p>Read more about the TimeMicro Normal Alloy Model: Nissan GTR3.0 Light Blue on our blog: 
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-tiffany-blue.html">The TimeMicro Nissan GTR3: A Light Blue Icon</a>
     </p>
 </div>
 
