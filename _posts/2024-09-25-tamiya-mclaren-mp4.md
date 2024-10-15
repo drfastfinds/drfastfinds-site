@@ -52,7 +52,6 @@ img.featured-image {
 
   <h2>Price and Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online store</a> for purchase options.</p>
 
   <p>The <strong>Tamiya 1/12 McLaren MP4</strong> is a superb choice for model builders looking to add an iconic Formula 1 car to their collection. With its high level of detail and precision parts, this kit delivers an excellent building experience and an impressive finished product.</p>
 </div>
