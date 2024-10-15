@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Beemax Nissan 240 RS '84 Safari Rally</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png" alt="Beemax Nissan 240 RS '84 Safari Rally" class="featured-image">
