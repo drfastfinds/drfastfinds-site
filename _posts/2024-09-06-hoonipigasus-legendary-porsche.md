@@ -23,7 +23,6 @@ img.porsche-image {
 </style>
 
 <div class="content-container">
-    <h1>The Hoonipigasus: A Legendary Porsche, Racing to the Clouds</h1>
 
     <p>Every year, motorsport enthusiasts gather in Colorado Springs to witness one of the most intense and thrilling races in the world—the <a href="https://ppihc.org/" target="_blank">Broadmoor Pikes Peak International Hill Climb</a>, often referred to as “The Race to the Clouds.” This iconic event challenges drivers to navigate 156 hair-raising turns across a 12.42-mile ascent, culminating at 14,115 feet above sea level. It’s no surprise that the Pikes Peak Hill Climb has become a proving ground for some of the world’s most extreme racecars.</p>
 
