@@ -44,8 +44,5 @@ img.featured-image {
   <p>Glen's account of the rally highlights the unique trials faced by competitors. He vividly remembers how the oil line leading to the engine caused discomfort during long stretches, yet he persevered. "It was a fantastic car," he stated, reminiscing about the thrill of driving an Alpine designed for endurance.</p>
   <p>Years later, Glen embarked on a remarkable journey to acquire a different A110 that had been racing in Africa. This new project proved to be a labor of love, as the vehicle was in disrepair, requiring significant restoration. The experience underscored the challenges of reviving a piece of rally history, filled with moments of frustration but ultimately rewarding upon its completion.</p>
 
-  <h2>Conclusion: A Symbol of Passion</h2>
-  <p>The <strong>Alpine A110</strong> stands as a testament to the spirit of rally racing, embodying both triumph and tribulation. Whether it's the thrill of competition or the dedication of enthusiasts like Glen, the A110 continues to captivate the hearts of car lovers and collectors alike. Its legacy is not just in victories but in the stories of those who experienced its journey firsthand.</p>
-  
   <p>Explore our <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">collection of diecast models</a> and bring home a piece of this rally legend!</p>
 </div>
