@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Bburago Ferrari 312P 1/43 Scale Model</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg" alt="Bburago Ferrari 312P 1/43 Scale Model" class="featured-image">
