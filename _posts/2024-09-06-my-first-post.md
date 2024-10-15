@@ -9,9 +9,25 @@ date: 2024-09-06
     margin: 0 auto;   /* Centers the container horizontally */
     padding: 20px;    /* Optional: adds padding around the content */
 }
+img.featured-image {
+    display: block;
+    margin: 20px auto;
+    width: 100%; /* Ensure it takes full width of its container */
+    max-width: 600px; /* Limit the max width */
+}
+.credit-note {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+}
 </style>
 
 <div class="content-container">
+    <figure>
+        <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/soymotor.jpg" alt="Bugatti Divo" class="featured-image">
+        <figcaption class="credit-note">The <em>Bugatti Divo</em>: A symphony of speed and performance. Image credit: <a href="https://soymotor.com" target="_blank">soymotor.com</a>.</figcaption>
+    </figure>
+    
     <p>The Bugatti Divo stands as a paragon of automotive engineering and exclusivity. Unveiled at the 2018 Monterey Car Week, the Divo is not just another hypercar; it is a manifestation of Bugatti’s dedication to blending luxury with unbridled performance. Limited to just 40 units, each Divo is a masterpiece of engineering, meticulously crafted at Bugatti’s Molsheim facility in France.</p>
     
     <p>Named in honor of Albert Divo, the legendary French racing driver, the Divo embodies Bugatti’s rich racing heritage. This hypercar, priced at approximately $5.78 million, shifts the focus from grand touring to exhilarating cornering, challenging the very boundaries of road-going performance.</p>
