@@ -45,7 +45,7 @@ img.featured-image {
     <p>In summary, the Bugatti Divo is more than just a hypercar; it’s a celebration of speed, performance, and luxury. Whether on winding roads or racetracks, the Divo is designed to deliver an unforgettable driving experience, embodying the essence of Bugatti’s commitment to excellence.</p>
 
     <p><strong>Status:</strong> In Stock</p>
-  <p>You can order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+  <p>You can order the Bburago model from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
     <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 
