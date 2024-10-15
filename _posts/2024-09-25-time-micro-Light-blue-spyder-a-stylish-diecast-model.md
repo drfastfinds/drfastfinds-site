@@ -57,6 +57,5 @@ img.featured-image {
 
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Light Blue Spyder</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t wait too long—this limited edition won’t be available forever!</p>
-  <p>Explore our full range of diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
 
 </div>
