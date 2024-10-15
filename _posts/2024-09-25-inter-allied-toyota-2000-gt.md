@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Inter Allied Toyota 2000 GT</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/2000gt-4.png" alt="Inter Allied Toyota 2000 GT" class="featured-image">
