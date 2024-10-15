@@ -59,7 +59,7 @@ title: Order Page
         <option value="bugatti-divo" data-price="110.00">Bburago Bugatti Divo - Blue 1/18 Scale Model - $110.00</option>
         <option value="porsche-963" data-price="40.00">Bburago Porsche 963 LMDH #5 Le Mans 1/24 Scale - $40.00</option>
         <option value="ferrari-312p" data-price="35.00">Bburago Ferrari 312P - $35.00</option>
-        <option value="ford-gt40-roadster-sebring" data-price="30000.00">Exoto | 1:18 | Ford GT40 MK II Roadster 1966 - $30,000.00</option>
+        <option value="ford-gt40-roadster-sebring" data-price="30000.00">Exoto | 1:18 | Ford GT40 MK II Roadster 1966 - $3000.00</option>
         <option value="toyota-88c-v" data-price="80.00">Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` 1/24 Model Car Kit - $80.00</option>
         <option value="toyota-2000-gt" data-price="150.00">Inter Allied Toyota 2000 GT - $150.00</option>
         <option value="studio27-bmw-f106" data-price="385.00">Studio27 BMW F1.06 Sauber 1/24 Scale - $255.00</option>
