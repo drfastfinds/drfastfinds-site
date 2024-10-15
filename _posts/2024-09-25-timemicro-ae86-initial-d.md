@@ -48,12 +48,10 @@ img.featured-image {
   </ul>
 
   <h2>What Makes It Special?</h2>
-  <p>This model is more than just a toy—it's a tribute to the cultural impact of the <em>Initial D</em> series. The AE86 was a humble car that, thanks to its role in the anime, gained legendary status in the automotive world. The TimeMicro version captures the details of the anime’s hero car, including its famous 'Fujiwara Tofu Shop' decal, making it a unique addition to any collection.</p>
+  <p>This model is more than just a toy—it's a tribute to the cultural impact of the <em>Initial D</em> series. The AE86 was a humble car that, thanks to its role in the anime, gained legendary status in the automotive world. The TimeMicro version captures the details of the anime’s hero car in an 'as drawn' style, making it a unique addition to any collection.</p>
 
   <h2>Where to Buy</h2>
   <p>If you want to add the <strong>TimeMicro AE86 Initial D Anime Version</strong> to your collection, you can purchase it at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. With its rich history and cultural significance, this model won't last long, so be sure to grab it while you can!</p>
   <p>Check out more collectible diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
 
-  <h2>Conclusion</h2>
-  <p>The <strong>TimeMicro AE86 Initial D Anime Version</strong> is a fantastic choice for collectors who love the intersection of anime and car culture. Whether you’re a die-hard <em>Initial D</em> fan or a diecast model enthusiast, this piece will make a standout addition to your collection.</p>
 </div>
