@@ -36,22 +36,31 @@ img.featured-image {
   <h2>Introduction</h2>
   <p>The <strong>Tamiya Lotus Super 7 Series II</strong> is a highly detailed model kit of one of the most beloved roadsters in automotive history. The Lotus Super 7, introduced in the 1960s, is known for its lightweight design and spirited performance. This Tamiya model perfectly captures the essence of this British classic, offering collectors and model builders an exciting project.</p>
 
-  <h2>Product Details and Features</h2>
+  <h2>Lotus Seven Overview</h2>
+  <p>The <strong>Lotus Seven</strong> is a two-seat, open-top sports car manufactured by Lotus Cars (initially called Lotus Engineering) between 1957 and 1975. Designed by Colin Chapman, the Seven is celebrated for its philosophy of performance through lightness and simplicity, featuring an aluminum-wrapped tubular chassis that contributes to its lightweight nature.</p>
+
+  <h2>Specifications</h2>
   <ul>
-    <li><strong>Brand:</strong> Tamiya</li>
-    <li><strong>Scale:</strong> 1:24</li>
-    <li><strong>Model:</strong> Lotus Super 7 Series II</li>
-    <li><strong>Color:</strong> British Racing Green with Yellow accents</li>
-    <li><strong>Material:</strong> Plastic model kit</li>
-    <li><strong>Packaging:</strong> Box with assembly instructions</li>
+    <li><strong>Manufacturer:</strong> Lotus Cars</li>
+    <li><strong>Designer:</strong> Colin Chapman</li>
+    <li><strong>Period:</strong> 1957-1975</li>
+    <li><strong>Configuration:</strong> Front longitudinal engine, rear-wheel drive</li>
+    <li><strong>Length:</strong> 3366 millimeters</li>
+    <li><strong>Width:</strong> 1549 millimeters</li>
+    <li><strong>Successor:</strong> Caterham Super Seven</li>
   </ul>
 
-  <h2>What Makes It Special?</h2>
-  <p>The Lotus Super 7 is a symbol of simplicity and performance, offering an open-air, back-to-basics driving experience. This model kit by Tamiya brings the same simplicity and detail to the world of scale modeling. From its streamlined bodywork to the authentic Lotus badging, the kit reflects the spirit of the car.</p>
+  <h2>Significance and Legacy</h2>
+  <p>The Lotus Seven's simple design and lightweight structure made it popular among both casual drivers and motorsport enthusiasts, with over 2,500 units sold. Following Colin Chapman's sale of the Seven license to Caterham Cars in 1973, the Caterham Seven continues to be manufactured today, retaining the original’s spirit while adding modern performance enhancements.</p>
+
+  <h2>Replicas and Variants</h2>
+  <p>Due to its iconic design, numerous companies have produced replicas of the Lotus Seven. Examples include Garbí, Donkervoort, and Westfield Sportscars. These replicas, while similar in appearance, are distinct from the original Lotus Sevens, which are built under license.</p>
+
+  <h2>Television and Video Game Appearances</h2>
+  <p>The Lotus 7 has made notable appearances in popular culture, including being driven by Patrick McGoohan in the 1967 television series "The Prisoner" and featured as a stealable vehicle in the video game "Grand Theft Auto: London 1969," where it is referred to as "Locust."</p>
 
   <h2>Where to Buy</h2>
   <p>If you’re interested in building the <strong>Tamiya Lotus Super 7 Series II</strong>, you can find it on <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">Dr. Fast Finds Online Shop</a>. Act quickly to secure this classic!</p>
 
-  <h2>Conclusion</h2>
   <p>The <strong>Tamiya Lotus Super 7 Series II</strong> is a must-have for fans of classic cars and scale modeling. Its timeless design and ease of assembly make it a standout piece in any collection, whether on display or built with pride.</p>
 </div>
