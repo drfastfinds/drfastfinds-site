@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tamiya 1/12 McLaren MP4"
+title: "Tamiya 1/12 McLaren MP4/6"
 date: 2024-09-25
 author: "Dr. Fast Finds"
 categories: ["Collectibles", "Model Kits", "Tamiya", "McLaren", "MP4"]
@@ -26,7 +26,7 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Tamiya 1/12 McLaren MP4</h1>
+  <h1>Tamiya 1/12 McLaren MP4/6</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tmc.jpg" alt="Tamiya McLaren MP4" class="featured-image">
@@ -35,6 +35,11 @@ img.featured-image {
 
   <h2>Introduction</h2>
   <p>For model-building enthusiasts and Formula 1 fans, the <strong>Tamiya 1/12 McLaren MP4</strong> offers an opportunity to build an incredibly detailed version of the McLaren race car. Tamiya is renowned for its precision-engineered kits, and this model is no exception, providing everything needed to replicate one of Formula 1's iconic cars.</p>
+
+  <h2>The McLaren MP4/6: A Championship-Winning Car</h2>
+  <p>The <strong>McLaren MP4/6</strong> was designed by Neil Oatley for the McLaren team in the 1991 Formula One season. Driven by three-time world champion Ayrton Senna and Austrian driver Gerhard Berger, the MP4/6 showcased exceptional performance. Senna won the first four races of the season, including the United States, Brazil, San Marino, and Monaco, before Williams and Nigel Mansell found their stride with the FW14, which dominated mid-season.</p>
+  
+  <p>Despite this competition, Senna's consistent podium finishes helped McLaren, prompting him to urge Honda to enhance its engine development program. Honda responded with an updated V12 engine, while Oatley redesigned several features of the car, including the stalks and wings. Senna clinched his third and final Drivers' Championship in Japan with a second-place finish behind teammate Berger, later winning the final race in Australia. The MP4/6 recorded eight race wins, ten pole positions, and secured McLaren's fourth consecutive Constructors' Championship.</p>
 
   <h2>Product Details and Features</h2>
   <ul>
@@ -49,6 +54,5 @@ img.featured-image {
   <p><strong>Status:</strong> In Stock</p>
   <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online store</a> for purchase options.</p>
 
-  <h2>Conclusion</h2>
   <p>The <strong>Tamiya 1/12 McLaren MP4</strong> is a superb choice for model builders looking to add an iconic Formula 1 car to their collection. With its high level of detail and precision parts, this kit delivers an excellent building experience and an impressive finished product.</p>
 </div>
