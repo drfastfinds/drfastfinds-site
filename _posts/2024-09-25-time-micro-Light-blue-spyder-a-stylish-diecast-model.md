@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>TimeMicro Light Blue Spyder: A Stylish Diecast Model</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tmblue.jpg.jpg" alt="TimeMicro Light Blue Spyder" class="featured-image">
