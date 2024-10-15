@@ -159,16 +159,49 @@
             }
         }
 
-        @media (max-width: 480px) {
-            .product-detail {
-                padding: 5px 10px; /* Smaller padding for very small screens */
-            }
+        @media (max-width: 768px) {
+    /* Make the container stack */
+    .image-video-container {
+        flex-direction: column;
+        align-items: center; /* Center the container */
+    }
 
-            .buy-now {
-                font-size: 0.9em;
-                padding: 8px 12px;
-            }
-        }
+    /* Thumbnails on the left of the main image */
+    .product-image-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .thumbnail-carousel {
+        order: -1; /* Move thumbnails to the top */
+        display: flex;
+        justify-content: center;
+        gap: 10px; /* Space between thumbnails */
+        margin-bottom: 10px;
+    }
+
+    .main-image {
+        width: 100%;
+        height: auto;
+        max-width: 400px; /* Adjust max-width for mobile */
+    }
+
+    /* Center YouTube video below main image */
+    .video-container {
+        width: 100%;
+        max-width: 400px;
+        margin-top: 20px;
+    }
+
+    /* Ensure product text is centered but left-aligned */
+    .product-text {
+        text-align: left;
+        margin: 0 auto;
+        padding: 0 10px; /* Add padding to avoid edge touching */
+        max-width: 400px;
+    }
+}
         
     </style>
 </head>
