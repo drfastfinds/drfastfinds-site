@@ -59,9 +59,3 @@ img.featured-image {
     <li><strong>Item Size:</strong> 16 x 7.5 x 6.6 cm</li>
     <li><strong>Weight:</strong> 136g</li>
   </ul>
-
-  <h2>Where to Buy</h2>
-  <p>Keep an eye on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.
-
-  <p>The <strong>Porsche 911 1969 Spa-Francorchamps</strong> is a must-have for motorsport enthusiasts and diecast collectors alike. Its attention to detail, limited availability, and rich history make it a prized addition to any collection.</p>
-</div>
