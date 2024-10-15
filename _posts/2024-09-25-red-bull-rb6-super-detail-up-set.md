@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Red Bull RB6 Super Detail-Up Set by Top Studio</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tsrb.jpg" alt="Red Bull RB6 Super Detail-Up Set" class="featured-image">
