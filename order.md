@@ -64,9 +64,9 @@ title: Order Page
         <option value="toyota-2000-gt" data-price="150.00">Inter Allied Toyota 2000 GT - $150.00</option>
         <option value="studio27-bmw-f106" data-price="385.00">Studio27 BMW F1.06 Sauber 1/24 Scale - $255.00</option>
         <option value="timemicro-ae86-initial-d" data-price="45.00">TimeMicro AE86 Initial D Anime Version 1/64 Scale Model - $45.00</option>
-        <option value="timemicro-tiffany-blue-trailer" data-price="70.00">TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder - $70.00</option>
-        <option value="tiffany-blue-spyder" data-price="40.00">TimeMicro Tiffany Blue Spyder 1/64 Scale Model - $40.00</option>
-        <option value="timemicro-nissan-gtr3" data-price="45.00">TimeMicro Nissan GTR3.0 Tiffany Blue, 1/64 - $45.00</option>
+        <option value="timemicro-Light-blue-trailer" data-price="70.00">TimeMicro Light Blue Trailer Set: Volkswagen and Spyder - $70.00</option>
+        <option value="Light-blue-spyder" data-price="40.00">TimeMicro Light Blue Spyder 1/64 Scale Model - $40.00</option>
+        <option value="timemicro-nissan-gtr3" data-price="45.00">TimeMicro Nissan GTR3.0 Light Blue, 1/64 - $45.00</option>
         <option value="timemicro-coca-cola-spyder" data-price="65.00">TimeMicro Coca Cola Spyder 918 Trailer Set 1/64 Scale Model - $65.00</option>
         <option value="toyotagazoo" data-price="100.00">Tamiya Toyota Gazoo Racing TS050 Hybrid 1/24 Scale - $100.00</option>
         <option value="lotus-super-7" data-price="65.00">Tamiya Lotus Super 7 Series II - $65.00</option>
