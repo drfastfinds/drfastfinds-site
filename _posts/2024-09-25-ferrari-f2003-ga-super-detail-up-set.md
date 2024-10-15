@@ -44,6 +44,9 @@ img.featured-image {
 
   <h2>Price and Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
+  
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
 
   <p>Whether you're looking to enhance the visual realism of your <strong>Ferrari F2003-GA</strong> model or aiming for an award-winning finish, the <strong>Super Detail-Up Set by Top Studio</strong> is the ultimate addition. With precision parts and expert craftsmanship, this kit ensures a stunning final result that captures the essence of one of Formula 1's most iconic cars.</p>
 </div>
