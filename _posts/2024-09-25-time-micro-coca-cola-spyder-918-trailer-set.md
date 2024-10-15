@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>TimeMicro Coca Cola Spyder 918 Trailer Set: A Refreshing Diecast Model</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tmcola.png" alt="TimeMicro Coca Cola Spyder 918 Trailer Set" class="featured-image">
