@@ -98,6 +98,17 @@
         footer a:hover {
             text-decoration: underline;
         }
+
+        @media (max-width: 768px) {
+    header {
+        padding: 5px; /* Reduce padding for mobile */
+    }
+
+    header img {
+        max-width: 60px; /* Reduce logo size for mobile, if desired */
+        height: auto;
+    }
+}
    
     </style>
 </head>
@@ -110,7 +121,7 @@
         </a>
 <nav>
     <a href="{{ site.baseurl }}/blog.html">
-        <img src="{{ site.baseurl }}/assets/images/blg.png" alt="Blog" class="blog-logo" style="max-width: 100px; height: auto; margin-right: -5px;"> <!-- Adjust spacing here -->
+        <img src="{{ site.baseurl }}/assets/images/blg.png" alt="Blog" class="blog-logo" style="max-width: 100px; height: auto; margin-right: -10px;"> <!-- Adjust spacing here -->
     </a>
     <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
         <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo" style="max-width: 100px; height: auto;">
