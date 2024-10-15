@@ -59,8 +59,6 @@ img.featured-image {
 
   <h2>Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online store</a> for more details.</p>
 
-  <h2>Conclusion</h2>
   <p>This <strong>1:18 Exoto Ford GT40 MK II Roadster</strong> model is a must-have for any motorsport enthusiast or collector of historic race cars. With its detailed craftsmanship and iconic backstory, this diecast model brings the legacy of the Ford GT40's Sebring victory to life.</p>
 </div>
