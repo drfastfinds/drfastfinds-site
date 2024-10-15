@@ -52,7 +52,7 @@ img.featured-image {
     <li><strong>Includes:</strong> Highly detailed plastic parts, decals, and instructions for assembly.</li>
   </ul>
 
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a</p>
+  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
   <h2>Build Your Piece of F1 History</h2>
   <p>The <strong>Tamiya Red Bull Racing F1 Renault RB6</strong> model kit is a fantastic way to bring the excitement of Formula 1 racing into your collection. With its precision-engineered parts and realistic details, this kit is ideal for both collectors and model-making enthusiasts who want to recreate the car that made history in the 2010 season.</p>
