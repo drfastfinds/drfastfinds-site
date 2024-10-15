@@ -48,7 +48,10 @@ img.featured-image {
   <p>This assembly kit replicates the Nissan 240 RS that participated in the 1984 Safari Rally, featuring unique details such as large over fenders, animal guards, and auxiliary lights. The interior also includes competition-specific details like a roll cage, providing a rewarding building experience and allowing you to recreate one of Nissan's legendary vehicles.</p>
 
   <h2>Price and Availability</h2>
-  <p><strong>Status:</strong> In Stock</p>>
+  <p><strong>Status:</strong> In Stock</p>
+  <p>You can also order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+    <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
 
   <p>The <strong>Beemax Nissan 240 RS</strong> is the perfect kit for fans of rallying and scale model builders. With its attention to detail and quality craftsmanship, this model kit allows you to recreate a piece of motorsport history in stunning scale form.</p>
 
@@ -57,7 +60,5 @@ img.featured-image {
     <a href="https://www.automotiveforums.com/t1086938-beemax_nissan_240rs_-_safari_rally_1984.html" target="_blank">Beemax Nissan 240RS - Safari Rally 1984</a> and 
     <a href="https://www.britmodeller.com/forums/index.php?/topic/234964681-beemax-nissan-240-rs-safari-rally/" target="_blank">Beemax Nissan 240 RS - Safari Rally</a>. These threads provide insights from fellow builders and offer tips and techniques for creating a stunning model.
   </p>
-
-  <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 </div>
