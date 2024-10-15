@@ -61,7 +61,7 @@ img.featured-image {
   <p>The TS050 Hybrid was designed to meet the demands of WEC’s evolving regulations. Featuring a raised front splitter and narrower rear diffuser, the aerodynamic modifications were crucial in managing the balance between downforce and drag. Toyota also worked closely with Michelin to optimize tire performance, making the car capable of withstanding the brutal conditions of endurance racing. Tamiya has faithfully recreated these details, from the sleek aerodynamic body to the iconic livery of Toyota Gazoo Racing.</p>
 
   <h2>Where to Buy</h2>
-  <p>If you’re excited about building the <strong>Tamiya Toyota Gazoo Racing TS050 Hybrid</strong> model kit, you can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+  <p>If you’re excited about building the <strong>Tamiya Toyota Gazoo Racing TS050 Hybrid</strong> model kit, you can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a> or on MercadoLibre</p>
 
   
   <p>The <strong>Tamiya Toyota Gazoo Racing TS050 Hybrid</strong> is a fitting tribute to one of the most innovative cars in endurance racing history. For model builders and racing enthusiasts alike, this kit provides a rewarding building experience and an impressive display piece, capturing the essence of Toyota's cutting-edge engineering and racing spirit.</p>
