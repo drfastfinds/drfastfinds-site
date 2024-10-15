@@ -64,7 +64,7 @@ img.featured-image {
 
   <h2>Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>Also available at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p>. <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+  <p>Available at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p>. <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
       
   <p>If you're a collector or enthusiast of vintage sports cars, the <strong>Inter Allied Toyota 2000GT Speed Record Car Kit</strong> is a must-have addition to your collection. With exceptional attention to detail and a design focused on accuracy, this model kit perfectly captures the spirit of one of Toyota's most celebrated cars.</p>
