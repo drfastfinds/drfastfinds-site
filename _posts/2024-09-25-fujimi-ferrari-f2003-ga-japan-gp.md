@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Fujimi Ferrari F2003-GA Japan GP</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/f2003.jpg" alt="Fujimi Ferrari F2003-GA Japan GP" class="featured-image">
