@@ -59,5 +59,7 @@ img.featured-image {
     <li><strong>Weight:</strong> 136g</li>
   </ul>
 
-  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p> or on MercadoLibre by clicking the MercadoLibre logo above.
+<p>You can order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p> 
 
