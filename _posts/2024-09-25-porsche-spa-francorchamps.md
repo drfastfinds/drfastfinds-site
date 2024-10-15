@@ -58,3 +58,6 @@ img.featured-image {
     <li><strong>Item Size:</strong> 16 x 7.5 x 6.6 cm</li>
     <li><strong>Weight:</strong> 136g</li>
   </ul>
+
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p> or on MercadoLibre by clicking the MercadoLibre logo above.
+
