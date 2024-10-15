@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Hasegawa Minolta Supra Turbo A70 '1988 InterTEC' Model Car</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/hmin.jpg" alt="Hasegawa Minolta Supra Turbo A70 '1988 InterTEC'" class="featured-image">
