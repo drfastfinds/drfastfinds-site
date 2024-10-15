@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>MP4/6 Full Sponsor (Tabu Design)</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tabu.jpg" alt="MP4/6 Full Sponsor by Tabu Design" class="featured-image">
