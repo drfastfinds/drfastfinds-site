@@ -54,6 +54,5 @@ img.featured-image {
   <p>If you’re interested in adding the <strong>TimeMicro Light Blue Trailer Set</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. This limited edition set is not to be missed!</p>
   <p>Explore our full range of diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
 
-  <h2>Conclusion</h2>
   <p>The <strong>TimeMicro Light Blue Trailer Set</strong> is an exceptional choice for diecast collectors looking for something stylish and unique. Its vibrant color and quality design make it a fantastic addition to any collection.</p>
 </div>
