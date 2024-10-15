@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Tamiya 1/12 McLaren MP4/6</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tmc.jpg" alt="Tamiya McLaren MP4" class="featured-image">
