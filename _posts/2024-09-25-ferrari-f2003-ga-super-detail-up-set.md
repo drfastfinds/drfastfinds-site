@@ -26,8 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Ferrari F2003-GA Super Detail-Up Set by Top Studio</h1>
-
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tsfr.jpg" alt="Ferrari F2003-GA Super Detail-Up Set" class="featured-image">
     <figcaption class="credit-note">The ultimate detail-up set for the <em>Ferrari F2003-GA</em> model by Top Studio.</figcaption>
