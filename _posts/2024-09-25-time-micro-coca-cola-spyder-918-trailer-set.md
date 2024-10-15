@@ -51,5 +51,6 @@ img.featured-image {
 
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Coca Cola Spyder 918 Trailer Set</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t miss out on this limited edition piece!</p>
-  <p>Explore our full range of diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
-</div>
+
+ <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
