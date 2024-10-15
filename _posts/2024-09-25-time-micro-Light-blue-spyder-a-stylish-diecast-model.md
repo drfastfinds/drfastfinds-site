@@ -55,6 +55,6 @@ img.featured-image {
   <p>The <strong>Porsche 918 Spyder</strong> is a well-known model, and this <em>Light Blue</em> diecast version offers something a little different. The bright, vibrant color gives it a fresh twist on the classic design, making it a standout piece for anyone who loves cars or unique collectibles.</p>
 
   <h2>Where to Buy</h2>
-  <p>If you’re interested in adding the <strong>TimeMicro Light Blue Spyder</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t wait too long—this limited edition won’t be available forever!</p>
+  <p>If you’re interested in adding the <strong>TimeMicro Light Blue Spyder</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. Don’t wait too long—this limited edition won’t be available forever! <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 </div>
