@@ -26,7 +26,7 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>TimeMicro Normal Alloy Model: Nissan GTR3.0 Light Blue, 1/64 (Liberty Walk LBWK Edition)</h1>
+  <h1>TimeMicro Nissan GTR3.0 Light Blue, 1/64 (Liberty Walk LBWK Edition)</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tmlb.jpg" alt="TimeMicro Nissan GTR3.0 Light Blue" class="featured-image">
