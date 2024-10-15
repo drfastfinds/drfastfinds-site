@@ -56,6 +56,8 @@ img.featured-image {
 
   <h2>Availability</h2>
   <p>You can also purchase by going to <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p>
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
 
   <h2>Drive the Legend</h2>
   <p>If you're interested in a virtual experience, you can also drive this car using a Gran Turismo mod. Check out the replica created by a fan on <a href="https://www.reddit.com/r/granturismo/comments/1ccdym1/i_created_a_replica_of_the_1988_intertec_group_a/" target="_blank">Reddit</a>!</p>
