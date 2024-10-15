@@ -51,7 +51,7 @@ img.porsche-image {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j34S2Me8xRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><strong>Status:</strong> In Stock</p>
-  <p>You can order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+  <p>You can order the TPC model from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
     <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 
