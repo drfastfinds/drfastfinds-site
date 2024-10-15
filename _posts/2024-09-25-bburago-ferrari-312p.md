@@ -50,7 +50,8 @@ img.featured-image {
   <p>The model captures fine details of the Ferrari 312P’s body and interior, making it a must-have for any Ferrari enthusiast. The Ferrari 312P holds a special place in racing history, known for its participation in endurance racing and its streamlined, aerodynamically efficient design. This Bburago model captures every detail, from the sleek curves of the bodywork to the racing decals. It's a perfect piece for Ferrari fans or anyone who appreciates classic race cars.</p>
 
   <h2>Where to Buy</h2>
-  <p>You can add the <strong>Bburago Ferrari 312P</strong> to your collection by visiting <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p> <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+  <p>You can add the <strong>Bburago Ferrari 312P</strong> to your collection by visiting <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p> 
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 
   <p>The <strong>Bburago Ferrari 312P</strong> is a stunning recreation of a classic Ferrari race car. Perfect for diecast collectors and racing fans, this model offers a blend of historical significance and exceptional craftsmanship.</p>
