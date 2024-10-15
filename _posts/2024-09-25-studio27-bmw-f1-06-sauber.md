@@ -34,7 +34,9 @@ img.featured-image {
   </figure>
 
   <h2>Introduction</h2>
-  <p>The <strong>BMW F1.06 Sauber</strong>, driven by the legendary BMW Sauber F1 team, was a standout in the 2006 Formula 1 season. <em>Studio27</em> has meticulously recreated this car in a stunning model kit, perfect for any collector or Formula 1 enthusiast.</p>
+  <p>The <strong>BMW F1.06 Sauber</strong> was a single-seater car raced by the BMW Sauber team in the 2006 Formula One season. It was driven by Nick Heidfeld, who joined from Williams, and Jacques Villeneuve, who was later replaced by Robert Kubica. This marked the first year BMW competed as a full team after previously supplying engines.</p>
+  
+  <p>Although the 2006 season was viewed as transitional, the F1.06 exceeded expectations, becoming a points contender throughout the year. The car achieved two podium finishes: one for Heidfeld at the Hungarian Grand Prix and another for Kubica in Italy. The BMW Sauber team finished fifth in the Constructors' Championship, accumulating 36 points. Notably, the car featured innovative designs, such as a flexible rear wing and vertical pylons, which sparked some controversy during the season.</p>
 
   <h2>Product Details and Features</h2>
   <ul>
@@ -47,7 +49,7 @@ img.featured-image {
 
   <h2>Price and Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online store</a> for purchase options.</p>
+  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p>
 
   <h2>Conclusion</h2>
   <p>The <strong>Studio27 BMW F1.06 Sauber</strong> is the ideal choice for any Formula 1 fan looking to add a beautifully detailed model to their collection. With its attention to accuracy and design, this kit is a great tribute to the BMW Sauber team’s legacy in the world of motorsport.</p>
