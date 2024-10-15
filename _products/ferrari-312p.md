@@ -19,7 +19,6 @@ description: "<p>The Bburago Ferrari 312P diecast model is a tribute to one of F
 <li><strong>Packaging:</strong> Display box with Ferrari branding</li>
 </ul>"
 thumbnails:
-  - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-2.jpg"  # Thumbnail image 2
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312-3.jpg"  # Thumbnail image 3
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/312.jpg"  # Thumbnail image 4
 ---
