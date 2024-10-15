@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beemax Nissan 240 RS"
+title: "Beemax Nissan 240 RS '84 Safari Rally"
 date: 2024-09-25
 author: "Dr. Fast Finds"
 categories: ["Collectibles", "Model Kits", "Beemax", "Nissan", "240 RS"]
@@ -26,15 +26,15 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Beemax Nissan 240 RS</h1>
+  <h1>Beemax Nissan 240 RS '84 Safari Rally</h1>
 
   <figure>
-    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png" alt="Beemax Nissan 240 RS" class="featured-image">
-    <figcaption class="credit-note">The <em>Beemax Nissan 240 RS</em>, a remarkable rally model kit.</figcaption>
+    <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/nsnr.png" alt="Beemax Nissan 240 RS '84 Safari Rally" class="featured-image">
+    <figcaption class="credit-note">The <em>Beemax Nissan 240 RS '84 Safari Rally</em>, a remarkable rally model kit.</figcaption>
   </figure>
 
   <h2>Introduction</h2>
-  <p>The <strong>Nissan 240 RS</strong> is a legendary car that played a key role in rallying during the 1980s. Beemax has captured the spirit of this vehicle with their highly detailed model kit, offering collectors and hobbyists the chance to build their own version of this iconic rally car.</p>
+  <p>The <strong>Beemax Nissan 240 RS</strong> is a highly detailed model kit that captures the essence of this iconic rally car, which debuted in 1983 and competed in the 1984 Safari Rally. Known for its performance and success in motorsport, this model is a must-have for enthusiasts and collectors alike.</p>
 
   <h2>Product Details and Features</h2>
   <ul>
@@ -45,10 +45,17 @@ img.featured-image {
     <li><strong>Includes:</strong> High-quality plastic parts, decals, and detailed instructions for assembly.</li>
   </ul>
 
-  <h2>Price and Availability</h2>
-  <p><strong>Status:</strong> In Stock</p>
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online store</a> for purchase options.</p>
+  <h2>Details of the Model Kit</h2>
+  <p>This assembly kit replicates the Nissan 240 RS that participated in the 1984 Safari Rally, featuring unique details such as large over fenders, animal guards, and auxiliary lights. The interior also includes competition-specific details like a roll cage, providing a rewarding building experience and allowing you to recreate one of Nissan's legendary vehicles.</p>
 
-  <h2>Conclusion</h2>
+  <h2>Price and Availability</h2>
+  <p><strong>Status:</strong> In Stock</p>>
+
   <p>The <strong>Beemax Nissan 240 RS</strong> is the perfect kit for fans of rallying and scale model builders. With its attention to detail and quality craftsmanship, this model kit allows you to recreate a piece of motorsport history in stunning scale form.</p>
+
+  <h2>Further Reading</h2>
+  <p>For enthusiasts looking for more information about the Beemax Nissan 240 RS and its construction, we recommend checking out these detailed forum discussions: 
+    <a href="https://www.automotiveforums.com/t1086938-beemax_nissan_240rs_-_safari_rally_1984.html" target="_blank">Beemax Nissan 240RS - Safari Rally 1984</a> and 
+    <a href="https://www.britmodeller.com/forums/index.php?/topic/234964681-beemax-nissan-240-rs-safari-rally/" target="_blank">Beemax Nissan 240 RS - Safari Rally</a>. These threads provide insights from fellow builders and offer tips and techniques for creating a stunning model.
+  </p>
 </div>
