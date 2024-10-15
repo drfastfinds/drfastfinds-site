@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TimeMicro Normal Alloy Model: Nissan GTR3.0 Light Blue, 1/64 (Liberty Walk LBWK Edition)"
+title: "TimeMicro Nissan GTR3.0 Light Blue, 1/64 (Liberty Walk LBWK Edition)"
 date: 2024-09-25
 author: "Dr. Fast Finds"
 categories: ["Collectibles", "Diecast", "Light Blue", "Nissan", "TimeMicro"]
