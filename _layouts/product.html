@@ -132,74 +132,56 @@
             text-decoration: underline;
         }
 
-         /* Responsive adjustments */
-        @media (max-width: 768px) {
-            .product-detail {
-                padding: 10px 20px; /* Add some padding on mobile */
-            }
-
-            .product-image-box, 
-            .video-container {
-                width: 100%;
-                max-width: 100%; /* Ensure full width on mobile */
-            }
-
-            .main-image {
-                width: 100%;
-                height: auto;
-            }
-
-            .thumbnail-carousel {
-                justify-content: center;
-            }
-
-            .product-text {
-                width: 100%;
-                text-align: center;
-            }
-        }
-
-        @media (max-width: 768px) {
-    /* Make the container stack */
+@media (max-width: 768px) {
+    /* Stack layout for mobile */
     .image-video-container {
         flex-direction: column;
-        align-items: center; /* Center the container */
+        align-items: center;
     }
 
-    /* Thumbnails on the left of the main image */
+    /* Thumbnails on the left and adjusted size */
     .product-image-box {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
+    /* Main image fixed size */
+    .main-image {
+        width: 100%; /* Image takes full container width */
+        height: auto; /* Keep aspect ratio */
+        max-width: 350px; /* Adjust max-width for mobile */
+        max-height: 350px; /* Ensure it's not too large */
+    }
+
+    /* Thumbnails fit the main image size proportionally */
     .thumbnail-carousel {
-        order: -1; /* Move thumbnails to the top */
+        order: -1; /* Move thumbnails above main image */
         display: flex;
         justify-content: center;
-        gap: 10px; /* Space between thumbnails */
+        gap: 5px; /* Space between thumbnails */
         margin-bottom: 10px;
     }
 
-    .main-image {
-        width: 100%;
-        height: auto;
-        max-width: 400px; /* Adjust max-width for mobile */
+    .thumbnail {
+        max-width: 80px; /* Adjust thumbnail size */
+        max-height: 80px; /* Maintain aspect ratio */
+        object-fit: contain; /* Ensure thumbnails are contained within bounds */
     }
 
-    /* Center YouTube video below main image */
+    /* YouTube video below the main image */
     .video-container {
         width: 100%;
-        max-width: 400px;
+        max-width: 350px;
         margin-top: 20px;
     }
 
-    /* Ensure product text is centered but left-aligned */
+    /* Text centered but left-justified */
     .product-text {
         text-align: left;
         margin: 0 auto;
         padding: 0 10px; /* Add padding to avoid edge touching */
-        max-width: 400px;
+        max-width: 350px;
     }
 }
         
