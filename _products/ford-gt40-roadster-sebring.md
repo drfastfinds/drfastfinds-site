@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Exoto 1/18 Ford GT40 MK II Roadster 1966 | Winner, Sebring"
-price: 30000.00
+price: 3000.00
 youtube_link: "https://www.youtube.com/embed/WOSqMf2vvbs"
 youtube_video_id: "WOSqMf2vvbs"  # Change here to use video ID
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast%20models/exoto/ford/gt40/2024/09/25/exoto-ford-gt40-mk-ii-roadster-1966.html"
