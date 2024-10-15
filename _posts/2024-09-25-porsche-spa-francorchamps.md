@@ -36,6 +36,17 @@ img.featured-image {
   <h2>Introduction</h2>
   <p>This <strong>Porsche 911 1969 Spa-Francorchamps</strong> diecast model celebrates a key moment in motorsport history, when G. Chasseuil and C. Ballot-Lena secured a 1st place finish at the 24th Spa-Francorchamps. This high-quality model from <em>Trofeu</em> is perfect for collectors who appreciate both craftsmanship and motorsport heritage.</p>
 
+  <h2>Race Details</h2>
+  <p>The 1969 Spa-Francorchamps 24-hour race took place from July 26 to July 27, 1969, on a track length of 14.100 km. It featured 60 starters, of which 28 finished the race. The average speed during the race was 178.006 km/h, and the fastest lap was completed by Tuerlinx in 4:11.2.</p>
+
+  <h2>Results Summary</h2>
+  <ul>
+    <li><strong>Winners:</strong> G. Chasseuil / C. Ballot-Lena (Porsche 911)</li>
+    <li><strong>Distance Covered:</strong> 4286 km</li>
+    <li><strong>Qualifying Position:</strong> 7th with a time of 4:28.3</li>
+    <li><strong>Group:</strong> Division 3, Group 5</li>
+  </ul>
+
   <h2>Product Details and Features</h2>
   <ul>
     <li><strong>Brand:</strong> Trofeu</li>
@@ -50,8 +61,7 @@ img.featured-image {
   </ul>
 
   <h2>Where to Buy</h2>
-  <p>Although currently sold out, keep an eye on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> for restocks, or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online shop</a> for more diecast models and collectibles!</p>
+  <p>Keep an eye on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.
 
-  <h2>Conclusion</h2>
   <p>The <strong>Porsche 911 1969 Spa-Francorchamps</strong> is a must-have for motorsport enthusiasts and diecast collectors alike. Its attention to detail, limited availability, and rich history make it a prized addition to any collection.</p>
 </div>
