@@ -44,4 +44,6 @@ img.featured-image {
   <p>Years later, Glen embarked on a remarkable journey to acquire a different A110 that had been racing in Africa. This new project proved to be a labor of love, as the vehicle was in disrepair, requiring significant restoration. The experience underscored the challenges of reviving a piece of rally history, filled with moments of frustration but ultimately rewarding upon its completion.</p>
 
   <p>Explore our <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">collection of diecast models</a> and bring home a piece of this rally legend!</p>
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
 </div>
