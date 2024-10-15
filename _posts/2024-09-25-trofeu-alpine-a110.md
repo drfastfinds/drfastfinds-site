@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>The Legendary Alpine A110: A Journey Through Rally History</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/trfa.jpg" alt="Alpine A110" class="featured-image">
