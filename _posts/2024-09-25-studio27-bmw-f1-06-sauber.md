@@ -48,7 +48,7 @@ img.featured-image {
 
   <h2>Price and Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p>
+  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
   <h2>Conclusion</h2>
   <p>The <strong>Studio27 BMW F1.06 Sauber</strong> is the ideal choice for any Formula 1 fan looking to add a beautifully detailed model to their collection. With its attention to accuracy and design, this kit is a great tribute to the BMW Sauber team’s legacy in the world of motorsport.</p>
