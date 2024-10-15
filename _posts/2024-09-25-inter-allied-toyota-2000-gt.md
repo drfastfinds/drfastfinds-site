@@ -36,6 +36,13 @@ img.featured-image {
   <h2>Introduction</h2>
   <p>Celebrate the legacy of the iconic <strong>Toyota 2000GT</strong> with this meticulously detailed <em>Speed Record Car Kit</em> by <strong>Inter Allied</strong>. Crafted with expert precision, this 1/24 scale kit captures the essence of one of the most influential sports cars in automotive history.</p>
 
+  <h2>History of the Toyota 2000GT</h2>
+  <p>Made famous for its breakout role alongside Sean Connery in the 1967 James Bond film <em>You Only Live Twice</em>, the Toyota 2000GT burst onto the world stage that same year, making it abundantly clear that Toyota was ready to compete with the best European sports cars.</p>
+  <p>The concept for a new Toyota Gran Turismo model emerged shortly after the 1964 Japanese Grand Prix. It was brought to fruition in collaboration with Yamaha Motor Co. under the supervision of project leader Shoichi Saito, who aimed to produce not only the 2000GT but to make it one of the best cars in the world. A year later, Saito’s vision came to fruition with the unveiling of the ‘280 A1’ prototype at the 1965 Tokyo Motor Show.</p>
+  <p>The 2000GT remains instantly recognizable with its curved “Coke bottle” lines and large Plexiglas-covered headlights. The long, sweeping bonnet houses a first-class engine and features pop-up headlights that sit flush with the bodywork to improve aerodynamics.</p>
+  <p>Performance was first-class, with a 150 PS (112 kW) 2-litre inline 6-cylinder engine propelling the 2000GT to a top speed of 220 km/h. Among its many records, it broke three world records and 13 international records, achieving great success in races, notably at the 24 Hours of Fuji in 1967.</p>
+  <p>After just three years and 337 units, the last 2000GT left the factory in 1970. However, its influence continues in the design of other coupés, such as the Supra and the GT86.</p>
+
   <h2>Product Details and Features</h2>
   <ul>
     <li><strong>Brand:</strong> Inter Allied</li>
@@ -58,8 +65,7 @@ img.featured-image {
 
   <h2>Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>Check availability and pricing at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a> or visit our <a href="https://drfastfinds.github.io/drfastfinds-site/" target="_blank">online store</a> for more details.</p>
-
-  <h2>Conclusion</h2>
+  <p>Also available at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p>
+      
   <p>If you're a collector or enthusiast of vintage sports cars, the <strong>Inter Allied Toyota 2000GT Speed Record Car Kit</strong> is a must-have addition to your collection. With exceptional attention to detail and a design focused on accuracy, this model kit perfectly captures the spirit of one of Toyota's most celebrated cars.</p>
 </div>
