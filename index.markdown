@@ -95,13 +95,13 @@ title: Dr. Fast Finds
 
 @media (max-width: 768px) {
     .product {
-        width: calc(33.33% - 35px); /* 3 products per row */
+        width: calc(33.33% - 45px); /* 3 products per row */
     }
 }
 
 @media (max-width: 480px) {
     .product {
-        width: calc(33.33% - 35px); /* 3 products per row */
+        width: calc(33.33% - 45px); /* 3 products per row */
     }
 
     .product p,
