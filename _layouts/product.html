@@ -152,6 +152,7 @@
         height: auto; /* Keep aspect ratio */
         max-width: 350px; /* Adjust max-width for mobile */
         max-height: 350px; /* Ensure it's not too large */
+        object-fit: contain; /* Ensure consistent aspect ratio */
     }
 
     /* Thumbnails fit the main image size proportionally */
@@ -180,10 +181,26 @@
     .product-text {
         text-align: left;
         margin: 0 auto;
-        padding: 0 10px; /* Add padding to avoid edge touching */
+        padding: 0 15px; /* Add more padding to avoid edge touching */
         max-width: 350px;
     }
 }
+
+/* Ensure main image size consistency after thumbnail click */
+.main-image {
+    max-width: 350px; /* Keep the main image size consistent */
+    max-height: 350px;
+    object-fit: contain; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+    transition: all 0.3s ease; /* Smooth transitions on image change */
+}
+
+.thumbnail:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
         
     </style>
 </head>
