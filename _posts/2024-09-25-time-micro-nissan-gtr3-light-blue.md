@@ -66,6 +66,8 @@ img.featured-image {
 
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Nissan GTR3.0 Light Blue</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. This limited edition model is a great addition that won't be available for long!</p>
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
 
   <p>The <strong>TimeMicro Nissan GTR3.0 Light Blue</strong> is a fantastic choice for collectors looking for unique and stylish diecast models. Its limited edition status and quality craftsmanship make it an excellent investment for any enthusiast.</p>
 </div>
