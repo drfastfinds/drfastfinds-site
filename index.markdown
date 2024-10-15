@@ -82,7 +82,7 @@ title: Dr. Fast Finds
     /* Desktop height */
 @media (min-width: 769px) {
     .product {
-        min-height: 2500px; /* Adjust this value for desktop */
+        min-height: 250px; /* Adjust this value for desktop */
     }
 }
 
