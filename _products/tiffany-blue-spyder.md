@@ -1,14 +1,14 @@
 ---
 layout: product
-title: TimeMicro Tiffany Blue Spyder 1/64 Scale Model
+title: TimeMicro Light Blue Spyder 1/64 Scale Model
 price: 40.00
 youtube_link: "https://youtube.com/shorts/nGcBU-lzaz8?feature=share"  # Add a YouTube link if you have one
 youtube_video_id: "nGcBU-lzaz8"
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-spyder-a-stylish-diecast-model.html"
 description: |
-  <p>The TimeMicro Tiffany Blue Spyder 1/64 Scale Model is a stylish and eye-catching addition for collectors and automotive enthusiasts. This model showcases the sleek design and vibrant Tiffany Blue color, making it a standout piece in any diecast collection.</p>
+  <p>The TimeMicro Light Blue Spyder 1/64 Scale Model is a stylish and eye-catching addition for collectors and automotive enthusiasts. This model showcases the sleek design and vibrant Light Blue color, making it a standout piece in any diecast collection.</p>
 
-  <p>Perfectly crafted, this model captures the essence of luxury and performance, combining aesthetics with excellent detailing. Whether for display or play, the Tiffany Blue Spyder represents a blend of elegance and speed that every car lover will appreciate.</p>
+  <p>Perfectly crafted, this model captures the essence of luxury and performance, combining aesthetics with excellent detailing. Whether for display or play, the Light Blue Spyder represents a blend of elegance and speed that every car lover will appreciate.</p>
 
   <p><strong>Brand:</strong> TimeMicro</p>
   <p><strong>Model:</strong> Porsche 918 Spyder</p>
@@ -42,8 +42,8 @@ thumbnails:
     <p class="youtube-link">For more details, check out the product video here: 
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
-    <p>Read more about the TimeMicro Tiffany Blue Spyder on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-spyder-a-stylish-diecast-model.html">The TimeMicro Tiffany Blue Spyder: A Stylish Diecast Model</a>
+    <p>Read more about the TimeMicro Light Blue Spyder on our blog: 
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-spyder-a-stylish-diecast-model.html">The TimeMicro Light Blue Spyder: A Stylish Diecast Model</a>
     </p>
 </div>
 
