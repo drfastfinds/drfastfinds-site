@@ -1,12 +1,12 @@
 ---
 layout: product
-title: "TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder"
+title: "TimeMicro Light Blue Trailer Set: Volkswagen and Spyder"
 price: 70.00
 youtube_link: "https://youtube.com/shorts/fXCzU8YOLZI?feature=share"
 youtube_video_id: "fXCzU8YOLZI"
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-trailer-set-volkswagen-spyder.html"
 description: |
-  <p>The TimeMicro Tiffany Blue Trailer Set featuring Volkswagen and Spyder is a stunning addition for collectors and enthusiasts alike. This set combines vibrant aesthetics with exquisite detailing, showcasing the iconic Volkswagen alongside the stylish Spyder.</p>
+  <p>The TimeMicro Light Blue Trailer Set featuring Volkswagen and Spyder is a stunning addition for collectors and enthusiasts alike. This set combines vibrant aesthetics with exquisite detailing, showcasing the iconic Volkswagen alongside the stylish Spyder.</p>
 
   <p>Perfect for display or play, this model captures the spirit of adventure and the joy of classic automotive design. Whether you're a fan of diecast models or simply appreciate fine craftsmanship, this trailer set is a must-have for any collection.</p>
 
@@ -43,8 +43,8 @@ thumbnails:
     <p class="youtube-link">For more details, check out the product video here: 
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
-    <p>Read more about the TimeMicro Tiffany Blue Trailer Set on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-trailer-set-volkswagen-spyder.htmlr">The TimeMicro Tiffany Blue Trailer Set: Volkswagen and Spyder</a>
+    <p>Read more about the TimeMicro Light Blue Trailer Set on our blog: 
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-trailer-set-volkswagen-spyder.htmlr">The TimeMicro Light Blue Trailer Set: Volkswagen and Spyder</a>
     </p>
 </div>
 
