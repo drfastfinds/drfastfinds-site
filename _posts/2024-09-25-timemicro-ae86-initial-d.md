@@ -52,4 +52,7 @@ img.featured-image {
   <h2>Where to Buy</h2>
   <p>If you want to add the <strong>TimeMicro AE86 Initial D Anime Version</strong> to your collection, you can purchase it at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. With its rich history and cultural significance, this model won't last long, so be sure to grab it while you can!</p>
 
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
+
 </div>
