@@ -43,4 +43,10 @@ img.featured-image {
     <p>The Bugatti Divo is a rare gem, with all 40 units pre-sold before its public debut. This exclusivity, coupled with its extraordinary performance and design, makes the Divo a standout in the world of hypercars. Its production run is a nod to Bugatti’s heritage of limited-edition vehicles and coachbuilding, celebrating the brand’s history while pushing the envelope of modern automotive engineering.</p>
     
     <p>In summary, the Bugatti Divo is more than just a hypercar; it’s a celebration of speed, performance, and luxury. Whether on winding roads or racetracks, the Divo is designed to deliver an unforgettable driving experience, embodying the essence of Bugatti’s commitment to excellence.</p>
+
+    <p><strong>Status:</strong> In Stock</p>
+  <p>You can order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+    <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
+
 </div>
