@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>McLaren MP4/6 Super Detail-Up Set by Top Studio</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/mp46.jpg" alt="McLaren MP4/6 Super Detail-Up Set" class="featured-image">
