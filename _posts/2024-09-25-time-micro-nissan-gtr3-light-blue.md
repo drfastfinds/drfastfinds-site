@@ -47,12 +47,26 @@ img.featured-image {
     <li><strong>Packaging:</strong> Display box with a transparent cover</li>
   </ul>
 
+  <h2>Nissan GT-R: A Legendary Sports Car</h2>
+  <p>The Nissan GT-R has a storied legacy as one of the most iconic sports cars in the world. Manufactured by Nissan and designed by Shiro Nakamura, the GT-R represents cutting-edge technology, incredible power, and precision engineering.</p>
+
+  <h3>Specifications of the Nissan GT-R</h3>
+  <ul>
+    <li><strong>Engine:</strong> 3.8L VR38DETT Biturbo V6</li>
+    <li><strong>Power:</strong> 480-720 HP</li>
+    <li><strong>Torque:</strong> 588-780 Nm</li>
+    <li><strong>Brakes:</strong> Brembo ventilated and perforated carbon-ceramic discs</li>
+    <li><strong>Max Speed:</strong> 320 km/h (199 mph)</li>
+    <li><strong>Acceleration:</strong> 0 to 100 km/h in 2.8 seconds</li>
+  </ul>
+
+  <p>First unveiled as a concept at the 2001 Tokyo Motor Show and refined through years of development, the production GT-R launched in Japan in 2007. This model has become synonymous with speed and performance, capturing the hearts of car enthusiasts globally.</p>
+
   <h2>What Makes It Special?</h2>
   <p>This Nissan GTR3.0 model stands out not only for its vibrant Light Blue color but also for its association with the renowned Liberty Walk tuning brand. It offers a perfect blend of style and performance, making it a must-have for car enthusiasts and collectors alike.</p>
 
   <h2>Where to Buy</h2>
   <p>If you’re interested in adding the <strong>TimeMicro Nissan GTR3.0 Light Blue</strong> to your collection, you can find it on <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>. This limited edition model is a great addition that won't be available for long!</p>
-  <p>Explore our full range of diecast models on our <a href="{{ site.url }}/shop" target="_blank">online shop</a> as well.</p>
 
   <p>The <strong>TimeMicro Nissan GTR3.0 Light Blue</strong> is a fantastic choice for collectors looking for unique and stylish diecast models. Its limited edition status and quality craftsmanship make it an excellent investment for any enthusiast.</p>
 </div>
