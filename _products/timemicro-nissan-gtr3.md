@@ -4,7 +4,7 @@ title: "TimeMicro Nissan GTR3.0 Light Blue 1/64"
 price: 45.00
 youtube_link: "https://youtube.com/shorts/36I22GR1Jx8?feature=share"
 youtube_video_id: "36I22GR1Jx8"
-blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-tiffany-blue.html"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/Light%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-Light-blue.html"
 description: |
   <p>The TimeMicro Nissan GTR3.0 in Light Blue is a remarkable addition for diecast collectors and automotive enthusiasts. This 1/64 scale model showcases the stunning design and vibrant color that captures the essence of the iconic Nissan GTR.</p>
 
@@ -46,7 +46,7 @@ thumbnails:
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
     <p>Read more about the TimeMicro Normal Alloy Model: Nissan GTR3.0 Light Blue on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-tiffany-blue.html">The TimeMicro Nissan GTR3: A Light Blue Icon</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/Light%20blue/nissan/timemicro/2024/09/25/time-micro-nissan-gtr3-Light-blue.html">The TimeMicro Nissan GTR3: A Light Blue Icon</a>
     </p>
 </div>
 
