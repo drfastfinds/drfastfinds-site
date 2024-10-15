@@ -59,7 +59,11 @@ img.featured-image {
   <p>The Lotus 7 has made notable appearances in popular culture, including being driven by Patrick McGoohan in the 1967 television series "The Prisoner" and featured as a stealable vehicle in the video game "Grand Theft Auto: London 1969," where it is referred to as "Locust."</p>
 
   <h2>Where to Buy</h2>
-  <p>If you’re interested in building the <strong>Tamiya Lotus Super 7 Series II</strong>, you can find it on MercadoLibre by clicking the MercadoLibre logo above.  Act quickly to secure this classic!</p> <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
+<p>You can order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+
+  
+  <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 
   <p>The <strong>Tamiya Lotus Super 7 Series II</strong> is a must-have for fans of classic cars and scale modeling. Its timeless design and ease of assembly make it a standout piece in any collection, whether on display or built with pride.</p>
