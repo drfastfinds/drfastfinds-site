@@ -65,7 +65,7 @@ img.featured-image {
     <a href="https://www.britmodeller.com/forums/index.php?/topic/234959417-fujimi-ferrari-f2003-ga/" target="_blank">Britmodeller</a>.
   </p>
 
-  <p>You can also find the model at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p> <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+  <p>You can find the model at <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on Mercadolibre</a>.</p> <p>You can order directly from us here too: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 
   <p>The <strong>Fujimi Ferrari F2003-GA Japan GP</strong> is a fantastic choice for Ferrari and Formula 1 fans. With its detailed components and high-quality design, this kit offers an enjoyable build experience and a great addition to any collection of classic racing cars.</p>
