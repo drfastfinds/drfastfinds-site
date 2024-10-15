@@ -49,7 +49,7 @@ img.featured-image {
 
   <h2>Price and Availability</h2>
   <p><strong>Status:</strong> In Stock</p>
-  <p>You can also order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
+  <p>You can order this product from our MercadoLibre store: <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">Dr. Fast Finds on MercadoLibre</a></p>
     <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
 
 
