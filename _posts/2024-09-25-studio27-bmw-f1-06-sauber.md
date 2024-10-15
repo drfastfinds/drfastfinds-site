@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Studio27 BMW F1.06 Sauber</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber" class="featured-image">
