@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>TimeMicro Light Blue Trailer Set: Volkswagen and Spyder</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tftra.jpg" alt="TimeMicro Light Blue Trailer Set" class="featured-image">
