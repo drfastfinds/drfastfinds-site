@@ -57,4 +57,7 @@ img.featured-image {
     <a href="https://www.automotiveforums.com/t1086938-beemax_nissan_240rs_-_safari_rally_1984.html" target="_blank">Beemax Nissan 240RS - Safari Rally 1984</a> and 
     <a href="https://www.britmodeller.com/forums/index.php?/topic/234964681-beemax-nissan-240-rs-safari-rally/" target="_blank">Beemax Nissan 240 RS - Safari Rally</a>. These threads provide insights from fellow builders and offer tips and techniques for creating a stunning model.
   </p>
+
+  <p>You can order directly from us here: <a href="https://drfastfinds.github.io/drfastfinds-site/order" target="_blank">https://drfastfinds.github.io/drfastfinds-site/order</a></p>
+
 </div>
