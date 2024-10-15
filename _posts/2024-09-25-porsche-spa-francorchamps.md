@@ -26,7 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Porsche 911 1969 Spa-Francorchamps 24th 1st: G. Chasseuil & C. Ballot-Lena (Diecast Car)</h1>
 
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/tp911.jpg" alt="Porsche 911 1969 Spa-Francorchamps Diecast Car" class="featured-image">
