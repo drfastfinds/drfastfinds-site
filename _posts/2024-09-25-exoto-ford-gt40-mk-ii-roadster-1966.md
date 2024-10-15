@@ -26,8 +26,6 @@ img.featured-image {
 </style>
 
 <div class="content-container">
-  <h1>Exoto | 1:18 | Ford GT40 MK II Roadster 1966 | Winner, Sebring</h1>
-
   <figure>
     <img src="https://drfastfinds.github.io/drfastfinds-site/assets/images/fgt.jpg" alt="Exoto Ford GT40 MK II Roadster 1966" class="featured-image">
     <figcaption class="credit-note">The legendary <em>Ford GT40 MK II Roadster</em> at the 1966 Sebring 12 Hours, by <em>Exoto</em>.</figcaption>
