@@ -4,7 +4,7 @@ title: TimeMicro Light Blue Spyder 1/64 Scale Model
 price: 40.00
 youtube_link: "https://youtube.com/shorts/nGcBU-lzaz8?feature=share"  # Add a YouTube link if you have one
 youtube_video_id: "nGcBU-lzaz8"
-blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-spyder-a-stylish-diecast-model.html"
+blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/Light%20blue/timemicro/2024/09/25/time-micro-Light-blue-spyder-a-stylish-diecast-model.html"
 description: |
   <p>The TimeMicro Light Blue Spyder 1/64 Scale Model is a stylish and eye-catching addition for collectors and automotive enthusiasts. This model showcases the sleek design and vibrant Light Blue color, making it a standout piece in any diecast collection.</p>
 
@@ -43,7 +43,7 @@ thumbnails:
         <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
     </p>
     <p>Read more about the TimeMicro Light Blue Spyder on our blog: 
-        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/tiffany%20blue/timemicro/2024/09/25/time-micro-tiffany-blue-spyder-a-stylish-diecast-model.html">The TimeMicro Light Blue Spyder: A Stylish Diecast Model</a>
+        <a href="https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/Light%20blue/timemicro/2024/09/25/time-micro-Light-blue-spyder-a-stylish-diecast-model.html">The TimeMicro Light Blue Spyder: A Stylish Diecast Model</a>
     </p>
 </div>
 
