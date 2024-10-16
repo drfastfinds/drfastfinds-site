@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Exoto 1/18 Ford GT40 MK II Roadster 1966 | Winner, Sebring"
+title: "Exoto 1/18 Ford GT40 MK II Roadster 1966 | Winner, Sebring (RLG19048)"
 price: 3000.00
 youtube_link: "https://www.youtube.com/embed/WOSqMf2vvbs"
 youtube_video_id: "WOSqMf2vvbs"  # Change here to use video ID
@@ -26,6 +26,7 @@ description: |
     <li><strong>Category:</strong> Diecast Model</li>
     <li><strong>Manufacturer:</strong> Shelby American</li>
     <li><strong>Year:</strong> 1966</li>
+    <p><strong>Item Number:</strong> RLG19048</p>
   </ul>
 
   <h3>Key Moments</h3>
