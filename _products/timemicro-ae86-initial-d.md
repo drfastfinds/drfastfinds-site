@@ -59,9 +59,6 @@ thumbnails:
 </div>
 
 <div style="text-align: center;">
-    <p class="youtube-link">For more details, check out the product video here: 
-        <a href="{{ page.youtube_link }}" target="_blank">Watch on YouTube</a>
-    </p>
     <p>Read more about the TimeMicro AE86 Initial D on our blog: 
         <a href="{{ site.baseurl }}/products/timemicro-ae86-initial-d">The TimeMicro AE86 Initial D: A Collector's Dream</a>
     </p>
