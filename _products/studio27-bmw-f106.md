@@ -19,7 +19,7 @@ description: |
   <p><strong>Category:</strong> Model Car Kit</p>
   <p><strong>Item Number:</strong> ST27-FK20197</p>
 
-  <p>Care Instructions: Handle with care during assembly, and follow the detailed instructions included for best results.</p>
+  <p>You can see our short product video <a href="https://youtube.com/shorts/AtaKWLD4-RI?feature=share" target="_blank">here</a>.</p>
 
   <p>You can see a completed model of the Studio 27 BMW Sauber F106 <a href="https://www.modelcarsmag.com/forums/topic/92144-studio-27-bmw-sauber-f106/" target="_blank">here</a>.</p>
 
