@@ -109,23 +109,11 @@
         height: auto;
     }
 }
-
-        /* Default state of sticky header */
-.blog-post .sticky-header {
-  transition: opacity 0.3s ease-in-out;
-}
-
-/* When scrolled past the header */
-.blog-post.scrolled .sticky-header {
-  opacity: 0; /* Hide the header */
-  pointer-events: none; /* Prevent interaction */
-}
-
    
     </style>
 </head>
     
-<body class="{% if page.layout == 'post' %}blog-post{% endif %}">
+<body>
 
     <!-- Header with Clickable Logos -->
     <header class="sticky-header">
@@ -155,18 +143,4 @@
     </footer>
 
 </body>
-
-    <script>
-  document.addEventListener("scroll", function () {
-    const header = document.querySelector('.sticky-header');
-    const blogPost = document.querySelector('body.blog-post');
-
-    if (blogPost && window.scrollY > 200) { // Adjust 200 as needed
-      blogPost.classList.add('scrolled');
-    } else {
-      blogPost.classList.remove('scrolled');
-    }
-  });
-</script>
-
 </html>
