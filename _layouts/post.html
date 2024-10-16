@@ -52,8 +52,8 @@
 
         /* Title block styling */
         .title-block {
-            position: fixed; /* Fixed to stay at the top */
-            top: 0; /* Start at the top */
+            position: absolute; /* Initially positioned absolute */
+            top: 60px; /* Start below the logo header */
             left: 0; /* Align to the left */
             right: 0; /* Align to the right */
             z-index: 1001; /* Higher z-index to sit above the header */
@@ -61,11 +61,12 @@
             padding: 20px;
             text-align: center;
             box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+            transition: top 0.3s ease; /* Smooth transition */
         }
 
         /* Main content padding to ensure it doesn't overlap with the title */
         main {
-            padding-top: 80px; /* Space above main content to accommodate title block */
+            padding-top: 140px; /* Space above main content to accommodate title block */
         }
 
         footer {
@@ -134,6 +135,20 @@
         &copy; {{ site.time | date: "%Y" }} Dr. Fast Finds. All rights reserved.
         <a href="mailto:drfastfinds@gmail.com">Contact Us</a> Prices in USD. Products ship from Mexico & Canada.
     </footer>
+
+    <script>
+        // JavaScript to change title block position on scroll
+        document.addEventListener("scroll", function () {
+            const titleBlock = document.querySelector('.title-block');
+            const headerHeight = document.querySelector('header').offsetHeight;
+
+            if (window.scrollY > headerHeight) {
+                titleBlock.style.top = '0'; // Move title block to the top
+            } else {
+                titleBlock.style.top = '60px'; // Reset position below header
+            }
+        });
+    </script>
 
 </body>
 </html>
