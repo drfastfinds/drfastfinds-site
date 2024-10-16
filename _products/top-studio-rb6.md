@@ -12,6 +12,9 @@ description: |
 
    <p><strong>Item Number:</strong> MD29014</p>
 
+   <p>You can see our short product video <a href="https://youtube.com/shorts/xoBReDBOyys?feature=share" target="_blank">here</a>.</p>
+
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsrb.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsrb-1.jpg"
