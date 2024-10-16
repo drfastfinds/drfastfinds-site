@@ -197,7 +197,7 @@ title: Dr. Fast Finds
     <a href="{{ site.baseurl }}/products/studio27-bmw-f106">
         <img src="{{ site.baseurl }}/assets/images/bms.jpg" alt="Studio27 BMW F1.06 Sauber 1/20 Scale">
         <p>Studio27 BMW F1.06 Sauber 1/20 Model Car Kit</p>
-        <p>Price: $255.00</p>
+        <p>Price: $355.00</p>
         <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
     </a>
 </div>
