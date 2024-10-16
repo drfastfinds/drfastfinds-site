@@ -109,13 +109,27 @@
         height: auto;
     }
 }
+
+        /* Default state of sticky header */
+.blog-post .sticky-header {
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* When scrolled past the header */
+.blog-post.scrolled .sticky-header {
+  opacity: 0; /* Hide the header */
+  pointer-events: none; /* Prevent interaction */
+}
+
    
     </style>
 </head>
-<body>
+    
+<body class="{% if page.layout == 'post' %}blog-post{% endif %}">
 
     <!-- Header with Clickable Logos -->
-    <header>
+    <header class="sticky-header">
+
         <a href="{{ site.baseurl }}/">
             <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
         </a>
@@ -141,4 +155,18 @@
     </footer>
 
 </body>
+
+    <script>
+  document.addEventListener("scroll", function () {
+    const header = document.querySelector('.sticky-header');
+    const blogPost = document.querySelector('body.blog-post');
+
+    if (blogPost && window.scrollY > 200) { // Adjust 200 as needed
+      blogPost.classList.add('scrolled');
+    } else {
+      blogPost.classList.remove('scrolled');
+    }
+  });
+</script>
+
 </html>
