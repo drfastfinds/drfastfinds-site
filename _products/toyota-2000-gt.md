@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Inter Allied Toyota 2000 GT"
+title: "Inter Allied 1/24 Toyota 2000 GT"
 price: 150.00
 youtube_link: ""
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/inter%20allied/toyota/2000gt/2024/09/25/inter-allied-toyota-2000-gt.html"
