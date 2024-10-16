@@ -3,36 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
     <title>{{ page.title }} | Dr. Fast Finds</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
     <style>
-        /* Header styles */
+        /* Global styles go here */
+
+        /* Ensure the header uses flexbox for layout */
         header {
             display: flex;
-            justify-content: space-between;
+            justify-content: space-between; /* Space out logo, nav */
             align-items: center;
             padding: 10px;
-            background-color: #f8f9fa;
-            position: fixed;
+            background-color: #f8f9fa; /* Optional background color */
+            position: sticky; /* Sticky header */
             top: 0;
-            left: 0;
-            width: 100%;
             z-index: 1000;
-            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-            transition: opacity 0.3s ease-in-out;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
         }
 
-        /* Title block for the blog post */
-        .title-block {
-            position: relative;
-            z-index: 1;
-            margin-top: 50px; /* Adjust this based on your header height */
-            padding: 20px;
-            background-color: #fff;
-            text-align: center;
+        /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
+        header img {
+            max-width: 97px;
+            height: auto;
+            margin: 10px; /* Adds a little padding around the logo */
         }
 
-        /* Styling for body and footer */
+        /* Navigation bar for right-hand content */
+        nav {
+            display: flex;
+            align-items: center;
+            margin-left: auto; /* Pushes navigation to the right */
+        }
+
+        /* Increase the size of the Mercado Libre logo */
+        .mercado-logo {
+            max-width: 100px;
+            height: auto;
+            margin-right: 10px; /* Adds some space on the right */
+        }
+
+        /* Styling changes */
         body {
             background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
             margin: 0;
@@ -40,8 +50,19 @@
             font-family: Arial, sans-serif;
         }
 
+        /* Title block styling */
+        .title-block {
+            position: sticky;
+            top: 50px; /* Adjust based on the header height */
+            background-color: #fff; /* Background to keep title readable */
+            z-index: 999; /* To sit above content */
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+        }
+
         main {
-            padding-top: 100px; /* Add space to account for fixed header */
+            padding-top: 10px; /* Optional space above main content */
         }
 
         footer {
@@ -63,23 +84,23 @@
 
         @media (max-width: 768px) {
             header {
-                padding: 0px;
+                padding: 0px; /* Reduce padding for mobile */
             }
 
             header img {
-                max-width: 60px;
+                max-width: 60px; /* Reduce logo size for mobile, if desired */
                 height: auto;
             }
 
-            main {
-                padding-top: 60px; /* Adjust for mobile header size */
+            .title-block {
+                padding: 10px; /* Adjust title block padding for mobile */
             }
         }
     </style>
 </head>
 <body>
 
-    <!-- Sticky Header -->
+    <!-- Header with Clickable Logos -->
     <header class="sticky-header">
         <a href="{{ site.baseurl }}/">
             <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
@@ -100,7 +121,7 @@
         <p>{{ page.date | date: "%B %d, %Y" }}</p>
     </div>
 
-    <!-- Main Content Area -->
+    <!-- Page Content -->
     <main>
         {{ content }}
     </main>
@@ -110,22 +131,6 @@
         &copy; {{ site.time | date: "%Y" }} Dr. Fast Finds. All rights reserved.
         <a href="mailto:drfastfinds@gmail.com">Contact Us</a> Prices in USD. Products ship from Mexico & Canada.
     </footer>
-
-    <script>
-        document.addEventListener("scroll", function () {
-            const header = document.querySelector('.sticky-header');
-            const titleBlock = document.querySelector('.title-block');
-            const titleBlockBottom = titleBlock.offsetTop + titleBlock.offsetHeight;
-
-            if (window.scrollY > titleBlockBottom) {
-                header.style.opacity = "0"; // Hide header
-                header.style.pointerEvents = "none"; // Disable interaction with hidden header
-            } else {
-                header.style.opacity = "1"; // Show header
-                header.style.pointerEvents = "auto"; // Enable interaction with visible header
-            }
-        });
-    </script>
 
 </body>
 </html>
