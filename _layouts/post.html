@@ -52,23 +52,26 @@
 
         /* Title block styling */
         .title-block {
-            position: relative; /* Change to relative for initial positioning */
+            position: absolute; /* Absolute to overlap header */
+            top: 0; /* Start at the top */
+            left: 0; /* Align to the left */
+            right: 0; /* Align to the right */
             z-index: 1001; /* Higher z-index to sit above the header */
             background-color: #fff; /* Background to keep title readable */
             padding: 20px;
             text-align: center;
             box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
-            transition: opacity 0.3s ease; /* Smooth transition for fade out */
-            will-change: opacity; /* Optimize for animation */
+            transition: opacity 0.3s ease, transform 0.3s ease; /* Smooth transition for fade out */
         }
 
         /* Hide title block when scrolled past */
         body.scrolled .title-block {
             opacity: 0; /* Fade out */
+            transform: translateY(-100%); /* Move up */
         }
 
         main {
-            padding-top: 60px; /* Space above main content to accommodate title block */
+            padding-top: 80px; /* Space above main content to accommodate title block */
         }
 
         footer {
