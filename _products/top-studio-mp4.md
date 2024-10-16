@@ -13,6 +13,9 @@ description: |
 
   <p><strong>Item Number:</strong> TD23160</p>
 
+  <p>You can see our short product video <a href="https://youtube.com/shorts/sHnhm3nt3KA?feature=share" target="_blank">here</a>.</p>
+
+
   <p>Care Instructions: Handle with care during assembly. Recommended for experienced model builders.</p>
 
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/mp46.jpg"
