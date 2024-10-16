@@ -8,51 +8,60 @@
     <style>
         /* Global styles go here */
 
-        /* Header styles */
+        /* Ensure the header uses flexbox for layout */
         header {
             display: flex;
-            justify-content: space-between;
+            justify-content: space-between; /* Space out logo, nav */
             align-items: center;
             padding: 10px;
-            background-color: #f8f9fa;
-            position: sticky;
+            background-color: #f8f9fa; /* Optional background color */
+            position: sticky; /* Sticky header */
             top: 0;
             z-index: 1000;
-            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            transition: opacity 0.3s ease; /* Smooth transition */
         }
 
-        /* Logo styles */
+        /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
         header img {
             max-width: 97px;
             height: auto;
-            margin: 10px;
+            margin: 10px; /* Adds a little padding around the logo */
         }
 
+        /* Navigation bar for right-hand content */
         nav {
             display: flex;
             align-items: center;
-            margin-left: auto;
+            margin-left: auto; /* Pushes navigation to the right */
         }
 
-        /* Title styles */
-        .title-header {
-            background-color: #fff; /* Adjust as needed */
-            padding: 15px;
-            font-size: 2em; /* Adjust size as needed */
-            transition: transform 0.3s ease-in-out;
+        /* Increase the size of the Mercado Libre logo */
+        .mercado-logo {
+            max-width: 100px;
+            height: auto;
+            margin-right: 10px; /* Adds some space on the right */
         }
 
-        /* Scroll behavior */
+        /* Styling changes */
         body {
+            background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
             margin: 0;
             padding: 0;
+            font-family: Arial, sans-serif;
         }
 
-        /* Media query to hide the header on scroll */
-        @media (min-width: 769px) {
-            .hide-header {
-                display: none;
-            }
+        /* Title block styling */
+        .title-block {
+            padding: 20px;
+            text-align: center;
+            background-color: #fff; /* Background to keep title readable */
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+        }
+
+        /* Main content padding to ensure it doesn't overlap with the title */
+        main {
+            padding-top: 20px; /* Space above main content */
         }
 
         footer {
@@ -62,19 +71,43 @@
             font-size: 0.9em;
             color: #6c757d;
         }
+
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                padding: 0px; /* Reduce padding for mobile */
+            }
+
+            header img {
+                max-width: 60px; /* Reduce logo size for mobile, if desired */
+                height: auto;
+            }
+
+            /* Hide the header on mobile */
+            header {
+                display: none; /* Hide the header in mobile */
+            }
+        }
     </style>
 </head>
 <body>
 
     <!-- Header with Clickable Logos -->
-    <header class="logo-header">
-
+    <header class="sticky-header">
         <a href="{{ site.baseurl }}/">
             <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
         </a>
         <nav>
             <a href="{{ site.baseurl }}/blog.html">
-                <img src="{{ site.baseurl }}/assets/images/blg.png" alt="Blog" class="blog-logo">
+                <img src="{{ site.baseurl }}/assets/images/blg.png" alt="Blog" class="blog-logo" style="max-width: 100px; height: auto;">
             </a>
             <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
                 <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo">
@@ -82,9 +115,10 @@
         </nav>
     </header>
 
-    <!-- Title Header -->
-    <div class="title-header" id="titleHeader">
-        {{ page.title }}
+    <!-- Blog Post Title Block -->
+    <div class="title-block">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.date | date: "%B %d, %Y" }}</p>
     </div>
 
     <!-- Page Content -->
@@ -99,15 +133,15 @@
     </footer>
 
     <script>
-        // Hide the logo header when scrolling
+        // JavaScript to hide header on scroll
         document.addEventListener("scroll", function () {
-            const logoHeader = document.querySelector('.logo-header');
-            const titleHeader = document.getElementById('titleHeader');
+            const header = document.querySelector('header');
+            const titleBlock = document.querySelector('.title-block');
 
-            if (window.scrollY > titleHeader.offsetHeight) {
-                logoHeader.classList.add('hide-header');
+            if (window.scrollY > 50) { // Adjust this value based on when you want to hide the header
+                header.style.opacity = '0'; // Hide the header
             } else {
-                logoHeader.classList.remove('hide-header');
+                header.style.opacity = '1'; // Show the header
             }
         });
     </script>
