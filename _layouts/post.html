@@ -82,20 +82,37 @@
         }
 
         @media (max-width: 768px) {
-            header {
-                padding: 0px; /* Reduce padding for mobile */
-            }
+    header {
+        padding: 0px; /* Reduce padding for mobile */
+    }
 
-            header img {
-                max-width: 60px; /* Reduce logo size for mobile, if desired */
-                height: auto;
-            }
+    header img {
+        max-width: 60px; /* Reduce logo size for mobile, if desired */
+        height: auto;
+    }
 
-            /* Hide the header on mobile */
-            header {
-                display: none; /* Hide the header in mobile */
-            }
-        }
+    /* Keep the header visible in mobile */
+    header {
+        display: flex; /* Ensure header is displayed */
+    }
+
+    /* Thinner title block for mobile */
+    .title-block {
+        padding: 10px; /* Reduce padding for a thinner appearance */
+        font-size: 18px; /* Optional: adjust font size if needed */
+    }
+
+    /* Additional adjustments for the title if needed */
+    .title-block h1 {
+        font-size: 1.5em; /* Adjust heading size */
+        margin: 0; /* Remove margin for tighter appearance */
+    }
+
+    .title-block p {
+        font-size: 0.8em; /* Smaller date text */
+        margin: 0; /* Remove margin for tighter appearance */
+    }
+}
     </style>
 </head>
 <body>
