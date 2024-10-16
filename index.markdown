@@ -91,17 +91,27 @@ title: Dr. Fast Finds
     .product {
         min-height: 200px; /* Adjust this value for tablets */
     }
+        .gallery {
+        justify-content: center; /* Center align for mobile */
+    }
 }
 
 @media (max-width: 768px) {
     .product {
         width: calc(33.33% - 45px); /* 3 products per row */
     }
+        .gallery {
+        justify-content: center; /* Center align for mobile */
+    }
 }
 
 @media (max-width: 480px) {
     .product {
         width: calc(33.33% - 45px); /* 3 products per row */
+    }
+
+        .gallery {
+        justify-content: center; /* Center align for mobile */
     }
 
     .product p,
