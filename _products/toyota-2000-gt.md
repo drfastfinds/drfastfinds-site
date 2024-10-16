@@ -18,6 +18,8 @@ description: |
   <p><strong>Category:</strong> Model Car Kit</p>
   <p><strong>Item Number:</strong> QM2402K</p>
 
+  <p>You can see our short product video <a href="https://youtube.com/shorts/u5NnUDSiL2Q?feature=share" target="_blank">here</a>.</p>
+
   <p>For more inspiration and examples of various builds of the Beemax Nissan 240 RS, visit the <a href="https://forum.deagostini.co.uk/default.aspx?g=topics&f=406&__utma=210999945.144857440.1728943839.1728943839.1728943839.1&__utmb=210999945.0.10.1728943839&__utmc=210999945&__utmx=-&__utmz=210999945.1728943839.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)&__utmv=-&__utmk=50015461" target="_blank">DeAgostini Forum category</a>. Here you can explore different builders' techniques and share your own experiences.</p>
 
 
