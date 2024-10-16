@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Studio27 BMW F1.06 Sauber 1/20 Scale"
-price: 255.00
+price: 355.00
 youtube_link: "https://www.youtube.com/watch?v=1vwBcPXk3tA"
 youtube_video_id: "1vwBcPXk3tA"
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/studio27/bmw/f1/2024/09/25/studio27-bmw-f1-06-sauber.html"
