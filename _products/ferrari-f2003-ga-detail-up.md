@@ -13,6 +13,9 @@ description: |
 
   <p><strong>Item Number:</strong> MD29013</p>
 
+  <p>You can see our short product video <a href="https://youtube.com/shorts/SlHZOCqdltk?feature=share" target="_blank">here</a>.</p>
+
+
 image: "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsfr.jpg"
 thumbnails:
   - "https://drfastfinds.github.io/drfastfinds-site/assets/images/tsfr-1.jpg"
