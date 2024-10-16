@@ -62,7 +62,7 @@ title: Order Page
         <option value="ford-gt40-roadster-sebring" data-price="30000.00">Exoto | 1:18 | Ford GT40 MK II Roadster 1966 - $3000.00</option>
         <option value="toyota-88c-v" data-price="80.00">Hasegawa Minolta Supra Turbo A70 `1988 InterTEC` 1/24 Model Car Kit - $80.00</option>
         <option value="toyota-2000-gt" data-price="150.00">Inter Allied Toyota 2000 GT - $150.00</option>
-        <option value="studio27-bmw-f106" data-price="385.00">Studio27 BMW F1.06 Sauber 1/24 Scale - $255.00</option>
+        <option value="studio27-bmw-f106" data-price="385.00">Studio27 BMW F1.06 Sauber 1/24 Scale - $355.00</option>
         <option value="timemicro-ae86-initial-d" data-price="45.00">TimeMicro AE86 Initial D Anime Version 1/64 Scale Model - $45.00</option>
         <option value="timemicro-Light-blue-trailer" data-price="70.00">TimeMicro Light Blue Trailer Set: Volkswagen and Spyder - $70.00</option>
         <option value="Light-blue-spyder" data-price="40.00">TimeMicro Light Blue Spyder 1/64 Scale Model - $40.00</option>
