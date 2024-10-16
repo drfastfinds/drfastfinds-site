@@ -79,9 +79,9 @@ title: Order Page
         <option value="ferrari-f2003-ga-detail-up" data-price="185.00">Ferrari F2003-GA Super Detail-Up Set by Top Studio - $185.00</option>
         <option value="rwb" data-price="35.00">TPC 1:64 RWB 993 1/64 Scale Model - $35.00</option>
         <option value="hoonipig" data-price="50.00">TPC Hoonipigasus 1/64 - $50.00/option>
-        <option value="porsche-911-spa-francorchamps" data-price="190.00">Porsche 911 1969 Spa-Francorchamps 24th 1st - $190.00</option>
+        <option value="porsche-911-spa-francorchamps" data-price="190.00">Trofeu Porsche 911 1969 Spa-Francorchamps 24th 1st - $190.00</option>
         <option value="A110" data-price="155.00">Trofeu Alpine A110 1/43 Scale Model - $155.00</option>
-        <option value="lola-t292-1973" data-price="175.00">Lola T292 1973 SPA1000km 1/43 Scale - $175.00</option>
+        <option value="lola-t292-1973" data-price="175.00">Trofeu Lola T292 1973 SPA1000km 1/43 Scale - $175.00</option>
     </select>
 
     <label for="quantity">Quantity:</label>
