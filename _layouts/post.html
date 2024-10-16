@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{ site.baseurl }}/assets/js/cart.js" defer></script>
+    <title>{{ page.title }} | Dr. Fast Finds</title>
+    <style>
+        /* Global styles go here */
+
+        /* Ensure the header uses flexbox for layout */
+        header {
+            display: flex;
+            justify-content: space-between; /* Space out logo, nav */
+            align-items: center;
+            padding: 10px;
+            background-color: #f8f9fa; /* Optional background color */
+            position: sticky; /* Sticky header */
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            transition: opacity 0.3s ease; /* Smooth transition */
+        }
+
+        /* Style the Dr. Fast Finds logo and ensure it's in the top-left corner */
+        header img {
+            max-width: 97px;
+            height: auto;
+            margin: 10px; /* Adds a little padding around the logo */
+        }
+
+        /* Navigation bar for right-hand content */
+        nav {
+            display: flex;
+            align-items: center;
+            margin-left: auto; /* Pushes navigation to the right */
+        }
+
+        /* Increase the size of the Mercado Libre logo */
+        .mercado-logo {
+            max-width: 100px;
+            height: auto;
+            margin-right: 10px; /* Adds some space on the right */
+        }
+
+        /* Styling changes */
+        body {
+            background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Title block styling */
+        .title-block {
+            padding: 20px;
+            text-align: center;
+            background-color: #fff; /* Background to keep title readable */
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+        }
+
+        /* Main content padding to ensure it doesn't overlap with the title */
+        main {
+            padding-top: 20px; /* Space above main content */
+        }
+
+        footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                padding: 0px; /* Reduce padding for mobile */
+            }
+
+            header img {
+                max-width: 60px; /* Reduce logo size for mobile, if desired */
+                height: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header with Clickable Logos -->
+    <header class="sticky-header">
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
+        </a>
+        <nav>
+            <a href="{{ site.baseurl }}/blog.html">
+                <img src="{{ site.baseurl }}/assets/images/blg.png" alt="Blog" class="blog-logo" style="max-width: 100px; height: auto;">
+            </a>
+            <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
+                <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo">
+            </a>
+        </nav>
+    </header>
+
+    <!-- Blog Post Title Block -->
+    <div class="title-block">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.date | date: "%B %d, %Y" }}</p>
+    </div>
+
+    <!-- Page Content -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        &copy; {{ site.time | date: "%Y" }} Dr. Fast Finds. All rights reserved.
+        <a href="mailto:drfastfinds@gmail.com">Contact Us</a> Prices in USD. Products ship from Mexico & Canada.
+    </footer>
+
+    <script>
+        // JavaScript to hide header on scroll
+        document.addEventListener("scroll", function () {
+            const header = document.querySelector('header');
+            const titleBlock = document.querySelector('.title-block');
+
+            if (window.scrollY > 50) { // Adjust this value based on when you want to hide the header
+                header.style.opacity = '0'; // Hide the header
+            } else {
+                header.style.opacity = '1'; // Show the header
+            }
+        });
+    </script>
+
+</body>
+</html>
