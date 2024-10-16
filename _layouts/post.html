@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Dr. Fast Finds</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <style>
+        /* Header styles */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            background-color: #f8f9fa;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            transition: opacity 0.3s ease-in-out;
+        }
+
+        /* Title block for the blog post */
+        .title-block {
+            position: relative;
+            z-index: 1;
+            margin-top: 50px; /* Adjust this based on your header height */
+            padding: 20px;
+            background-color: #fff;
+            text-align: center;
+        }
+
+        /* Styling for body and footer */
+        body {
+            background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        main {
+            padding-top: 100px; /* Add space to account for fixed header */
+        }
+
+        footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                padding: 0px;
+            }
+
+            header img {
+                max-width: 60px;
+                height: auto;
+            }
+
+            main {
+                padding-top: 60px; /* Adjust for mobile header size */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Sticky Header -->
+    <header class="sticky-header">
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="Dr. Fast Finds">
+        </a>
+        <nav>
+            <a href="{{ site.baseurl }}/blog.html">
+                <img src="{{ site.baseurl }}/assets/images/blg.png" alt="Blog" class="blog-logo" style="max-width: 100px; height: auto;">
+            </a>
+            <a href="https://drfastfinds.mercadoshops.com.mx" target="_blank">
+                <img src="{{ site.baseurl }}/assets/images/mercadologopng.png" alt="Mercado Libre" class="mercado-logo">
+            </a>
+        </nav>
+    </header>
+
+    <!-- Blog Post Title Block -->
+    <div class="title-block">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.date | date: "%B %d, %Y" }}</p>
+    </div>
+
+    <!-- Main Content Area -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        &copy; {{ site.time | date: "%Y" }} Dr. Fast Finds. All rights reserved.
+        <a href="mailto:drfastfinds@gmail.com">Contact Us</a> Prices in USD. Products ship from Mexico & Canada.
+    </footer>
+
+    <script>
+        document.addEventListener("scroll", function () {
+            const header = document.querySelector('.sticky-header');
+            const titleBlock = document.querySelector('.title-block');
+            const titleBlockBottom = titleBlock.offsetTop + titleBlock.offsetHeight;
+
+            if (window.scrollY > titleBlockBottom) {
+                header.style.opacity = "0"; // Hide header
+                header.style.pointerEvents = "none"; // Disable interaction with hidden header
+            } else {
+                header.style.opacity = "1"; // Show header
+                header.style.pointerEvents = "auto"; // Enable interaction with visible header
+            }
+        });
+    </script>
+
+</body>
+</html>
