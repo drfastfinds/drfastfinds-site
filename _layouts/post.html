@@ -52,17 +52,23 @@
 
         /* Title block styling */
         .title-block {
-            position: sticky;
-            top: 50px; /* Adjust based on the header height */
+            position: relative; /* Change to relative for initial positioning */
+            z-index: 1001; /* Higher z-index to sit above the header */
             background-color: #fff; /* Background to keep title readable */
-            z-index: 999; /* To sit above content */
             padding: 20px;
             text-align: center;
             box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+            transition: opacity 0.3s ease; /* Smooth transition for fade out */
+            will-change: opacity; /* Optimize for animation */
+        }
+
+        /* Hide title block when scrolled past */
+        body.scrolled .title-block {
+            opacity: 0; /* Fade out */
         }
 
         main {
-            padding-top: 10px; /* Optional space above main content */
+            padding-top: 60px; /* Space above main content to accommodate title block */
         }
 
         footer {
@@ -132,5 +138,17 @@
         <a href="mailto:drfastfinds@gmail.com">Contact Us</a> Prices in USD. Products ship from Mexico & Canada.
     </footer>
 
+    <script>
+        document.addEventListener("scroll", function () {
+            const titleBlock = document.querySelector('.title-block');
+            const body = document.querySelector('body');
+
+            if (window.scrollY > 50) { // Adjust as needed for when to start hiding the title
+                body.classList.add('scrolled');
+            } else {
+                body.classList.remove('scrolled');
+            }
+        });
+    </script>
 </body>
 </html>
