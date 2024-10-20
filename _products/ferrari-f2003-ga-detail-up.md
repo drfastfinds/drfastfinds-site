@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Ferrari F2003-GA Super Detail-Up Set by Top Studio"
+title: "Ferrari F2003-GA 1/20 Super Detail-Up Set by Top Studio"
 price: 185.00
 youtube_link: ""
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/model%20kits/top%20studio/ferrari/f2003-ga/2024/09/25/ferrari-f2003-ga-super-detail-up-set.html"
