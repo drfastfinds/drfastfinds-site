@@ -3,7 +3,7 @@ layout: product
 title: TimeMicro AE86 Initial D Anime Version 1/64 Scale Model
 price: 45.00
 youtube_link: "https://youtube.com/shorts/mNlnAmBNDQ8?feature=share"
-youtube_video_id: "zDVjWrLf1OE"
+youtube_video_id: "QBQqFzOHAtw"
 blog_link: "https://drfastfinds.github.io/drfastfinds-site/collectibles/diecast/initial%20d/timemicro/ae86/2024/09/25/timemicro-ae86-initial-d.html"
 description: |
   <p>The Limited Edition TimeMicro AE86 Initial D Anime Version is a fantastic model for fans of the legendary anime and car culture. This 1/64 scale model beautifully captures the essence of the iconic Toyota AE86, known for its role in Initial D and its reputation as a lightweight, agile performance vehicle.</p>
