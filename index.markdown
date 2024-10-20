@@ -335,7 +335,7 @@ title: Dr. Fast Finds
  <div class="product">
         <a href="{{ site.baseurl }}/products/ferrari-f2003-ga-detail-up">
             <img src="{{ site.baseurl }}/assets/images/tsfr.jpg" alt="Ferrari F2003-GA Super Detail-Up Set by Top Studio">
-            <p>Ferrari F2003-GA Super Detail-Up Set by Top Studio (Retired)</p>
+            <p>Ferrari F2003-GA 1/20 Super Detail-Up Set by Top Studio (Retired)</p>
             <p>Price: $185.00</p>
             <a href="{{ site.baseurl }}/order" class="order-now">Order Now</a>
         </a>
